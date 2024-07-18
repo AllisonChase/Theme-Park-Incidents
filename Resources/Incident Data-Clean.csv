@@ -1,4 +1,4 @@
-﻿Incident_ID,Company,Incident_date,Ride_Name,Theme_Park,Age,Gender,Description,Pre-Existing-Condition,Passed Away,Before_During_After
+﻿Incident_ID,Company,Incident_Date,Ride_Name,Theme_Park,Age,Gender,Description,Pre_Existing_Condition,Passed_Away,Before_During_After
 1,Universal,12/29/2001,Caro-Seuss-el,Islands of Adventure,52,F,broken arm,N,N,Not Specified
 2,Disney World,1/4/2002,The Twilight Zone Tower of Terror,Hollywood Studios,47,F," anxiety & claustrophobia, atrial fibrilation",N,N,Not Specified
 3,Universal,2/10/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,55,F,complained of lower back pain.,N,N,Not Specified
