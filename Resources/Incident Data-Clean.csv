@@ -1,684 +1,683 @@
-﻿Company,Incident_date,Ride_name,Theme_Park,Age,Gender,Description,pre-existing-condition Y/N,Passed Away Y/N,Before/During/After Ride,Further Research
-Disney World,1/4/2002,The Twilight Zone Tower of Terror,Hollywood Studios,47,F," anxiety & claustrophobia, atrial fibrilation",N,N,Not Specified,
-Disney World,8/7/2022,Avatar Flight of Passage,Animal Kingdom,83,M,pre-existing-condition was briefly unresponsive during attraction,Y,N,During or Immediately After Riding,
-Disney World,4/19/2022,Avatar Flight of Passage,Animal Kingdom,42,F,pre-existing-condition had motion sickness after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,1/27/2022,Avatar Flight of Passage,Animal Kingdom,25,F,pre-existing-condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,9/16/2021,Avatar Flight of Passage,Animal Kingdom,68,F,pre-existing-condition felt lightheaded after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,6/29/2021,Avatar Flight of Passage,Animal Kingdom,27,M,pre-existing-condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,3/24/2018,Avatar Flight of Passage,Animal Kingdom,41,M,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,5/28/2018,Avatar Flight of Passage,Animal Kingdom,18,M,pre-existing-condition felt disoriented after riding attraction,Y,N,During or Immediately After Riding,
-Universal,3/10/2015,Harry Potter and the Escape from Gringotts,Universal Studios,17,M," anxious, difficulty breathing",N,N,Not Specified,
-Disney World,12/6/2017,Avatar Flight of Passage,Animal Kingdom,79,F,pre-existing-condition became ill after riding,Y,N,During or Immediately After Riding,
-Universal,9/8/2008,Dragon Challenge,Islands of Adventure,46,M," chest pain,  shortness of breath and nausea",N,N,Not Specified,
-Disney World,7/29/2014,Space Mountain,Magic Kingdom,62,F," chest pain, nausea and vomiting",N,N,Not Specified,
-Universal,6/24/2015,Revenge of the Mummy,Universal Studios,59,M," chest, tightness/pressure/pain",N,N,Not Specified,
-Disney World,5/30/2013,Space Mountain,Magic Kingdom,56,M," dizziness,  chest pain, lower abdominal pain",N,N,Not Specified,
-Disney World,2/12/2014,Big Thunder Mountain Railroad,Magic Kingdom,63,F,"pre-existing health conditions experienced headache & loss of consciousness after riding,  subsequently underwent surgery for aneurysm and released from hospital",Y,N,During or Immediately After Riding,
-Disney World,5/27/2014,Big Thunder Mountain Railroad,Magic Kingdom,72,F,"pre-existing-condition exited ride with chest pain and felt dizzy, briefly lost consciousness and fell",Y,N,During or Immediately After Riding,
-Disney World,1/11/2012,Pirates of the Caribbean,Magic Kingdom,71,F," dizziness, chest pain, mouth numbness",N,N,Not Specified,
-Disney World,2/2/2008,Mad Tea Party,Magic Kingdom,72,F," Fell exiting ride, fractured hip",N,N,While Unloading,
-Disney World,10/5/2014,Astro Orbiter,Magic Kingdom,68,M," fell exiting vehicle, developed blood clot in leg",N,N,While Unloading,
-Disney World,3/3/2013,Haunted Mansion,Magic Kingdom,79,F," fell stepping onto moving walkway, fractured leg and dislocated ankle",N,N,While Boarding,
-Disney World,1/17/2022,Dinosaur,Animal Kingdom,65,M,pre-existing-condition felt dizzy after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,6/24/2015,Kilimanjaro Safaris Expedition,Animal Kingdom,51,F," felt dizzy , mini stroke",N,N,Not Specified,
-Disney World,6/17/2018,Dinosaur,Animal Kingdom,58,M,pre-existing-condition vomited after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,3/13/2010,Test Track,Epcot,63,M," felt dizzy and ill, nose bleed",N,N,Not Specified,
-Disney World,11/16/2009,Star Tours: The Adventure Continues,Hollywood Studios,74,M," felt dizzy,  later fainted and fell and struck his head",N,N,Not Specified,
-Disney World,6/24/2017,Avatar Flight of Passage,Animal Kingdom,31,F," felt dizzy, ill and brief loss of consciousness",N,N,Not Specified,
-Disney World,9/19/2009,Mission: Space,Epcot,52,F," felt dizzy, loss of memory",N,N,Not Specified,
-Disney World,12/30/2012,Ellen's Energy Adventure,Epcot,76,M,"loss of consciousness during ride,  pre-existing-condition",Y,N,During or Immediately After Riding,
-Disney World,9/7/2012,The Twilight Zone Tower of Terror,Hollywood Studios,25,F," felt dizzy, numbness/pain in arms",N,N,Not Specified,
-Disney World,11/5/2019,Expedition Everest,Animal Kingdom,56,M,pre-existing-condition became ill after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,7/8/2017,Expedition Everest,Animal Kingdom,58,M,pre-existing-condition had nausea and vomited after the ride,Y,N,During or Immediately After Riding,
-Disney World,1/16/2014,Expedition Everest,Animal Kingdom,65,M,pre-existing-condition felt light headed after exiting ride,Y,N,After Exiting Attraction,
-Disney World,5/18/2010,Expedition Everest,Animal Kingdom,54,M," felt ill, difficulty breathing; later had heart attack",N,N,Not Specified,
-Disney World,7/3/2016,Ellen's Energy Adventure,Epcot,67,M," felt ill, dizzy and disoriented",N,N,Not Specified,
-Disney World,10/25/2015,Expedition Everest,Animal Kingdom,69,M,pre-existing-condition felt chest pain and dizziness after riding.,Y,N,During or Immediately After Riding,
-Disney World,4/26/2016,Space Mountain,Magic Kingdom,46,F," felt ill, dizzy and disoriented",N,N,Not Specified,
-Disney World,5/19/2008,Great Movie Ride,Hollywood Studios,54,M," felt ill, possible heart attack",N,N,Not Specified,
-Disney World,4/28/2011,Space Mountain,Magic Kingdom,47,F," felt nauseous, dizzy and short of breath",N,N,Not Specified,
-Disney World,7/16/2007,Kilimanjaro Safaris Expedition,Animal Kingdom,42,M," Jumped out of vehicle, broke left ankle",N,N,Not Specified,
-Disney World,6/21/2014,Expedition Everest,Animal Kingdom,51,F," nausea, dizziness and shortness of breath",N,N,Not Specified,
-Universal,4/15/2006,Dragon Challenge,Islands of Adventure,47,F," Nausea, heartburn, chest pain, numb L arm",N,N,Not Specified,
-Disney World,5/4/2008,The Twilight Zone Tower of Terror,Hollywood Studios,32,M," neck & head pain, diagnosed with existing brain tumor",N,N,Not Specified,
-Disney World,1/16/2017,Soarin' Around the World,Epcot,89,F," pre-existing-condition felt chest pain, numbness",Y,N,Not Specified,
-Disney World,7/7/2015,Space Mountain,Magic Kingdom,55,F," pre-existing-conditions exited ride,  then lost consciousness; later passed away.",Y,Y,Not Specified,
-Disney World,11/4/2006,Surf Pool,Typhoon Lagoon,50,M," Swallowed a lot of water, felt dizzy and shortness of breath",N,N,Not Specified,
-Disney World,10/12/2014,Soarin' Around the World,Epcot,74,F," tripped over guests bag, fractured leg",N,N,Not Specified,
-Disney World,8/2/2010,Mission: Space,Epcot,45,M," vomiting,  vertigo and felt rapid heart rate",N,N,Not Specified,
-Disney World,12/31/2013,Haunted Mansion,Magic Kingdom,35,M,pre-existing-condition felt chest pain prior to and after riding,Y,N,During or Immediately After Riding,
-Disney World,12/25/2014,It's A Small World,Magic Kingdom,22,F,pre-existing health condition lost consciousness after riding; later passed away,Y,Y,During or Immediately After Riding,
-Disney World,4/21/2022,Jungle Cruise,Magic Kingdom,35,M,pre-existing-condition had chest pain after riding the attraction,Y,N,During or Immediately After Riding,
-Universal,7/26/2022,Harry Potter and the Escape from Gringotts,Universal Studios,36,M,abdominal pain,N,N,Not Specified,
-Universal,10/17/2013,Terminator 2: 3D,Universal Studios,68,F,abdominal pain,N,N,Not Specified,
-Universal,1/2/2022,Kang & Kodos Twirl n' Hurl,Universal Studios,21,F,abdominal pain (pre-existing-condition),Y,N,Not Specified,
-Universal,3/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,76,F,altered mental status,N,N,Not Specified,
-Universal,12/27/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,61,M,altered mental status,N,N,Not Specified,
-Disney World,12/24/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,67,M,pre-existing-condition felt numbness after riding,Y,N,During or Immediately After Riding,
-Universal,12/26/2018,Fievel's Playground,Universal Studios,38,F,ankle pain,N,N,Not Specified,
-Universal,3/30/2015,Camp Jurassic,Islands of Adventure,5,F,arm injury,N,N,Not Specified,
-Universal,6/16/2016,Fievel's Playground,Universal Studios,3,M,arm pain,N,N,Not Specified,
-Disney World,7/6/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,62,F,pre-existing-conditions suffered nausea and vomiting during ride,Y,N,During or Immediately After Riding,
-Disney World,7/7/2002,Spaceship Earth,Epcot,51,M,Asthma Attack,N,N,Not Specified,
-Universal,3/28/2015,Dragon Challenge,Islands of Adventure,41,M,back pain,N,N,Not Specified,
-Disney World,5/29/2022,Living with the Land,Epcot,66,F,pre-existing-condition had a cardiac event while exiting the attraction,Y,N,While Unloading,
-Disney World,5/23/2018,Mad Tea Party,Magic Kingdom,68,F,pre-existing-condition was dizzy after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,6/29/2012,Mayday Falls,Typhoon Lagoon,48,M,pre-existing-condition felt chest pain after riding,Y,N,During or Immediately After Riding,
-Universal,7/7/2021,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,7,F,back pain,N,N,Not Specified,
-Universal,5/22/2010,Hollywood Rip Ride Rocket,Universal Studios,45,F,back pain,N,N,Not Specified,
-Disney World,3/3/2020,Millennium Falcon: Smugglers Run,Hollywood Studios,9,F,pre-existing medical condition had a seizure after the ride,Y,N,During or Immediately After Riding,
-Disney World,9/15/2017,Mission: Space,Epcot,56,F,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,7/19/2011,Mission: Space,Epcot,57,F,pre-existing health condition felt ill after exiting attraction & temporarily lost consciousness.,Y,N,After Exiting Attraction,
-Disney World,2/19/2016,Mission: Space,Epcot,57,M,pre-existing heart condition felt ill after riding attractions.,Y,N,During or Immediately After Riding,
-Disney World,12/7/2022,Mission: Space,Epcot,47,M,pre-existing-condition lost consciousness after riding the green side of the attraction,Y,N,During or Immediately After Riding,
-Disney World,7/26/2020,Mission: Space,Epcot,68,F,pre-existing-condition had a stroke after riding the green side of the attraction,Y,N,During or Immediately After Riding,
-Disney World,2/13/2012,Mission: Space,Epcot,56,M,pre-existing health condition felt ill after ride; heart attack,Y,N,During or Immediately After Riding,
-Universal,4/24/2010,Hollywood Rip Ride Rocket,Universal Studios,36,M,back pain,N,N,Not Specified,
-Universal,1/9/2016,Hollywood Rip Ride Rocket,Universal Studios,49,M,back pain,N,N,Not Specified,
-Disney World,9/25/2019,Peter Pan's Flight,Magic Kingdom,4,M,pre-existing medical condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,6/1/2014,Peter Pan's Flight,Magic Kingdom,63,F,pre-existing-condition felt chest pain after riding,Y,N,During or Immediately After Riding,
-Disney World,11/10/2021,Pirates of the Caribbean,Magic Kingdom,81,M,pre-existing-condition experienced stroke like symptoms after having been on the attraction,Y,N,During or Immediately After Riding,
-Universal,5/27/2017,Kala Serpentine Body Slide,Volcano Bay,45,M,back pain,N,N,Not Specified,
-Disney World,12/20/2015,Pirates of the Caribbean,Magic Kingdom,43,F,pre-existing-condition had a seizure after exiting.,Y,N,After Exiting Attraction,
-Disney World,5/20/2015,Pirates of the Caribbean,Magic Kingdom,47,M,pre-existing-condition felt back pain while exiting the ride.,Y,N,While Unloading,
-Disney World,12/12/2010,Prince Charming Regal Carousel,Magic Kingdom,77,F,pre-existing-conditions (i.e. heart condition prior stroke) felt ill while riding attraction  collapsed after exiting and subsequently passed away.,Y,Y,After Exiting Attraction,
-Disney World,3/24/2022,Remy' s Ratatouille Adventure,Epcot,55,M,pre-existing-condition experienced stroke like symptoms after exiting the attraction,Y,N,After Exiting Attraction,
-Universal,6/8/2019,Revenge of the Mummy,Universal Studios,65,M,back pain,N,N,Not Specified,
-Disney World,6/15/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,81,M,pre-existing-condition felt dizzy and faint,Y,N,During or Immediately After Riding,
-Universal,1/18/2015,E.T Adventure,Universal Studios,44,F,back pain (pre-existing-condition),Y,N,Not Specified,
-Disney World,8/10/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,71,F,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,4/6/2007,Downhill Double Dipper,Blizzard Beach,8,F,Back Pain.,N,N,Not Specified,
-Disney World,8/11/2004,Mission: Space,Epcot,50,M,Became dizzy and had upset stomach.,N,N,Not Specified,
-Disney World,12/18/2014,Seven Dwarfs Mine Train,Magic Kingdom,54,M,pre-existing-condition felt ill after exiting,Y,N,After Exiting Attraction,
-Disney World,3/13/2021,Kilimanjaro Safaris Expedition,Animal Kingdom,72,F,became ill while riding the attraction,N,N,During or Immediately After Riding,
-Disney World,6/2/2006,Summit Plummet,Blizzard Beach,25,M,Breathing problems.,N,N,Not Specified,
-Disney World,1/23/2022,Soarin' Around the World,Epcot,56,F,pre-existing-condition had chest pain after exiting the attraction,Y,N,After Exiting Attraction,
-Disney World,7/12/2006,Space Mountain,Magic Kingdom,73,M,Guest unresponsive after riding; passed away three days later due to heart condition.,Y,Y,During or Immediately After Riding,
-Universal,12/29/2001,Caro-Seuss-el,Islands of Adventure,52,F,broken arm,N,N,Not Specified,
-Disney World,6/20/2018,Space Mountain,Magic Kingdom,68,F,pre-existing-condition felt disoriented and had slurred speech,Y,N,Not Specified,
-Disney World,11/15/2006,Mayday Falls,Typhoon Lagoon,74,M,Broken foot.,N,N,Not Specified,
-Disney World,3/29/2002,Surf Pool,Typhoon Lagoon,16,F,c/o neck pain,N,N,Not Specified,
-Disney World,12/29/2012,Space Mountain,Magic Kingdom,40,M," loss of consciousness during ride, pre-existing-condition",Y,N,During or Immediately After Riding,
-Universal,8/15/2017,Te'awa The Fearless River,Volcano Bay,53,F,cardiac arrest,N,N,Not Specified,
-Disney World,9/16/2018,Space Mountain,Magic Kingdom,37,M,pre-existing-condition lost consciousness after exiting attraction,Y,N,After Exiting Attraction,
-Disney World,5/30/2021,Spaceship Earth,Epcot,58,M,pre-existing-condition passed out after exiting the attraction; later passed away at hospital,Y,Y,After Exiting Attraction,
-Disney World,4/14/2015,Spaceship Earth,Epcot,79,M," pre-existing-condition felt nausea,  shortness of breath and pain in jaw after riding.",Y,N,During or Immediately After Riding,
-Disney World,6/15/2012,Spaceship Earth,Epcot,49,M,pre-existing health condition felt ill after riding,Y,N,During or Immediately After Riding,
-Disney World,11/3/2009,Toboggan Racers,Blizzard Beach,67,M,Cervical injury after collision near end of slide,N,N,During or Immediately After Riding,
-Universal,11/23/2014,The Amazing Adventures of Spiderman,Islands of Adventure,45,M,change in mental status,N,N,Not Specified,
-Disney World,8/10/2019,Star Tours: The Adventure Continues,Hollywood Studios,66,M,pre-existing-condition was ill after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,8/19/2019,Star Tours: The Adventure Continues,Hollywood Studios,40,M,pre-existing medical condition had a seizure and fell after riding,Y,N,During or Immediately After Riding,
-Disney World,3/4/2019,Star Tours: The Adventure Continues,Hollywood Studios,78,F,pre-existing-condition had chest pain after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,6/5/2018,Star Tours: The Adventure Continues,Hollywood Studios,57,M,pre-existing-condition had chest pain and shortness of breath after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,9/18/2016,Star Tours: The Adventure Continues,Hollywood Studios,68,M,pre-existing heart condition felt ill after riding; later passed away,Y,Y,During or Immediately After Riding,
-Universal,1/17/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,69,M,chest discomfort,N,N,Not Specified,
-Universal,6/14/2015,The Incredible Hulk Coaster,Islands of Adventure,59,M,chest discomfort,N,N,Not Specified,
-Disney World,5/13/2022,Star Tours: The Adventure Continues,Hollywood Studios,70,M,pre-existing-condition felt faint after riding the attraction,Y,N,During or Immediately After Riding,
-Universal,10/6/2015,Transformers: The Ride 3D,Universal Studios,52,F,chest discomfort,N,N,Not Specified,
-Disney World,7/21/2014,Big Thunder Mountain Railroad,Magic Kingdom,71,F,chest pain,N,N,Not Specified,
-Disney World,5/25/2012,Crush n' Gusher,Blizzard Beach,45,F,Chest pain,N,N,Not Specified,
-Disney World,6/24/2003,Dinosaur,Animal Kingdom,14,F,chest pain,N,N,Not Specified,
-Disney World,3/14/2020,Test Track,Epcot,34,F,pre-existing-condition experienced abdominal pain after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,5/17/2019,Test Track,Epcot,64,M,pre-existing-condition became ill after riding attraction,Y,N,During or Immediately After Riding,
-Disney World,3/15/2014,Dinosaur,Animal Kingdom,73,F,chest pain,N,N,Not Specified,
-Disney World,7/4/2015,The Seas with Nemo & Friends,Epcot,81,M,pre-existing-condition felt ill after exiting ride.,Y,N,After Exiting Attraction,
-Disney World,7/10/2012,Ellen's Energy Adventure,Epcot,88,F,chest pain,N,N,Not Specified,
-Disney World,8/8/2010,Expedition Everest,Animal Kingdom,51,M,chest pain,N,N,Not Specified,
-Disney World,12/6/2016,Tomorrowland Speedway,Magic Kingdom,67,M,pre-existing-condition felt ill after exiting ride.,Y,N,After Exiting Attraction,
-Universal,10/15/2017,Halloween Horror Nights,Universal Studios,42,M,chest pain,N,N,Not Specified,
-Universal,12/16/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,70,M,chest pain,N,N,Not Specified,
-Universal,7/5/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,chest pain,N,N,Not Specified,
-Universal,2/28/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,Chest pain,N,N,Not Specified,
-Disney World,2/23/2016,Toy Story Midway Mania!,Hollywood Studios,19,F,pre-existing heart condition fainted while boarding attraction.,Y,N,While Boarding,
-Disney World,10/31/2011,Toy Story Midway Mania!,Hollywood Studios,73,M,pre-existing health condition fell near restrooms after exiting ride & struck his head,Y,N,After Exiting Attraction,
-Disney World,7/5/2022,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,61,F,pre-existing-condition experienced stroke like symptoms after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,1/26/2014,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,3,F,pre-existing-condition had seizure after riding,Y,N,During or Immediately After Riding,
-Disney World,9/2/2019,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,56,F,pre-existing-condition complained of being dizzy and light-headed after riding,Y,N,During or Immediately After Riding,
-Disney World,7/21/2019,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,69,F,pre-existing medical condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding,
-Disney World,1/31/2009,Haunted Mansion,Magic Kingdom,56,M,chest pain,N,N,Not Specified,
-Universal,9/13/2012,Hollywood Rip Ride Rocket,Universal Studios,40,M,chest pain,N,N,Not Specified,
-Disney World,7/5/2022,Avatar Flight of Passage,Animal Kingdom,67,F,pre-existing lost consciousness after exiting the attraction,N,N,After Exiting Attraction,
-Disney World,12/18/2021,Avatar Flight of Passage,Animal Kingdom,69,M,felt unwell after exiting attraction,N,N,After Exiting Attraction,
-Disney World,12/21/2021,Avatar Flight of Passage,Animal Kingdom,69,F,felt disoriented after riding attraction,N,N,During or Immediately After Riding,
-Disney World,7/5/2019,Avatar Flight of Passage,Animal Kingdom,34,F,temporarily lost consciousness during attraction,N,N,During or Immediately After Riding,
-Disney World,10/27/2017,Avatar Flight of Passage,Animal Kingdom,77,F,fell while boarding ride,N,N,While Boarding,
-Universal,10/31/2009,Hollywood Rip Ride Rocket,Universal Studios,40,M,chest pain,N,N,Not Specified,
-Universal,6/23/2013,Hollywood Rip Ride Rocket,Universal Studios,41,M,chest pain,N,N,Not Specified,
-Disney World,5/23/2010,Kilimanjaro Safaris Expedition,Animal Kingdom,65,M,chest pain,N,N,Not Specified,
-Universal,7/17/2022,Kopiko Wai Winding River,Volcano Bay,51,M,chest pain,N,N,Not Specified,
-Disney World,3/14/2008,Big Thunder Mountain Railroad,Magic Kingdom,39,M,Seizure after exiting ride,N,N,After Exiting Attraction,
-Disney World,8/5/2014,Mission: Space,Epcot,70,F,chest pain,N,N,Not Specified,
-Disney World,6/12/2015,Big Thunder Mountain Railroad,Magic Kingdom,75,M," complained of pain,  tremors and numbness in right arm after exiting",N,N,After Exiting Attraction,
-Universal,5/29/2014,Revenge of the Mummy,Universal Studios,18,M,chest pain,N,N,Not Specified,
-Disney World,7/3/2012,Soarin' Around the World,Epcot,56,F,chest pain,N,N,Not Specified,
-Disney World,11/30/2004,Buzz Lightyears Space Ranger Spin,Magic Kingdom,58,F,got sick during ride due to lights.,N,N,During or Immediately After Riding,
-Disney World,5/4/2010,Spaceship Earth,Epcot,68,F,chest pain,N,N,Not Specified,
-Disney World,11/2/2009,Spaceship Earth,Epcot,59,M,chest pain,N,N,Not Specified,
-Disney World,9/8/2008,Buzz Lightyears Space Ranger Spin,Magic Kingdom,54,M," fell after exiting ride, fractured hip",N,N,After Exiting Attraction,
-Disney World,3/18/2019,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75,M,fell and fractured leg while boarding attraction vehicle,N,N,While Boarding,
-Disney World,10/25/2018,Buzz Lightyears Space Ranger Spin,Magic Kingdom,72,F,fell while exiting the ride vehicle; injured hip,N,N,While Unloading,
-Disney World,10/6/2017,Buzz Lightyears Space Ranger Spin,Magic Kingdom,50,F,felt ill after riding,N,N,During or Immediately After Riding,
-Disney World,4/27/2008,Splash Mountain,Magic Kingdom,65,M,chest pain,N,N,Not Specified,
-Disney World,1/3/2014,Buzz Lightyears Space Ranger Spin,Magic Kingdom,71,F,fell while exiting; fractured hip,N,N,While Unloading,
-Disney World,7/11/2013,Buzz Lightyears Space Ranger Spin,Magic Kingdom,48,M,felt ill after riding,N,N,During or Immediately After Riding,
-Disney World,9/14/2010,Buzz Lightyears Space Ranger Spin,Magic Kingdom,73,F,fell on moving walkway in load area: fractured spine.,N,N,While Boarding,
-Universal,7/29/2012,The Incredible Hulk Coaster,Islands of Adventure,18,F,chest pain,N,N,Not Specified,
-Universal,7/24/2017,The Incredible Hulk Coaster,Islands of Adventure,36,F,chest pain,N,N,Not Specified,
-Universal,1/11/2008,The Simpsons Ride,Universal Studios,68,M,chest pain,N,N,Not Specified,
-Disney World,6/29/2003,The Twilight Zone Tower of Terror,Hollywood Studios,45,F,chest pain,N,N,Not Specified,
-Universal,8/23/2015,Surf Pool,Typhoon Lagoon,45,M,chest pain (pre-existing-condition),Y,N,Not Specified,
-Disney World,8/18/2014,Great Movie Ride,Hollywood Studios,71,M,chest pain and loss of consciousness.,N,N,Not Specified,
-Disney World,6/8/2005,Mission: Space,Epcot,42,M,chest pain.,N,N,Not Specified,
-Disney World,10/21/2003,Mission: Space,Epcot,61,M,chest pain.,N,N,Not Specified,
-Disney World,11/17/2003,Mission: Space,Epcot,67,M,chest pain.,N,N,Not Specified,
-Disney World,5/7/2012,Carousel of Progress,Magic Kingdom,62,F," tripped while approaching seat, fractured femur",N,N,While Boarding,
-Universal,8/19/2007,Revenge of the Mummy,Universal Studios,57,M,Chest pain.,N,N,Not Specified,
-Disney World,6/14/2006,Space Mountain,Magic Kingdom,48,M,Chest pain.,N,N,Not Specified,
-Disney World,10/7/2005,Splash Mountain,Magic Kingdom,61,M,chest pain.,N,N,Not Specified,
-Universal,5/24/2008,Revenge of the Mummy,Universal Studios,45,M,chest pain/nausea,N,N,Not Specified,
-Disney World,2/16/2004,Chair Lift,Blizzard Beach,41,F," injured ankle boarding raft, went to hospital",N,N,While Boarding,
-Disney World,5/19/2015,Chair Lift,Blizzard Beach,65,F,"fell while exiting attraction, fractured hip",N,N,While Unloading,
-Disney World,2/1/2010,Dinosaur,Animal Kingdom,40,F,chest pain: anxiety,N,N,Not Specified,
-Disney World,5/19/2007,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,47,M,Chest pain; diagnosed with heart attack,N,N,Not Specified,
-Disney World,8/8/2014,Star Tours: The Adventure Continues,Hollywood Studios,45,M,chest pain; did not have medication with him.,N,N,Not Specified,
-Disney World,7/22/2004,Great Movie Ride,Hollywood Studios,64,F,chest pains,N,N,Not Specified,
-Disney World,3/24/2004,Mission: Space,Epcot,59,F,Chest Pains,N,N,Not Specified,
-Disney World,5/21/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,M,Chest pains,N,N,Not Specified,
-Disney World,9/21/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,F,chest pains and shortness of breath,N,N,Not Specified,
-Universal,10/3/2019,Te'awa The Fearless River,Volcano Bay,29,M,chest palpitations,N,N,Not Specified,
-Disney World,6/13/2005,Mission: Space,Epcot,4,M,child lost consciousness. Later passed away at hospital,N,Y,Not Specified,
-Disney World,7/17/2003,Dinosaur,Animal Kingdom,64,F,passed out,N,N,After Exiting Attraction,
-Disney World,4/17/2018,Dinosaur,Animal Kingdom,46,F,felt dizzy after riding attraction,N,N,During or Immediately After Riding,
-Disney World,12/24/2004,Space Mountain,Magic Kingdom,11,F,collapsed in queue line leading to ride. Child subsequently passed away at hospital.,N,Y,Not Specified,
-Disney World,8/23/2010,Storm Slide-Rudder Buster,Typhoon Lagoon,39,M,complained of head pain and collapsed: subsequent stroke at hospital,N,N,Not Specified,
-Disney World,2/18/2012,Dinosaur,Animal Kingdom,36,F,seizure after riding,N,N,During or Immediately After Riding,
-Universal,2/10/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,55,F,complained of lower back pain.,N,N,Not Specified,
-Universal,10/11/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,62,M,complained of neck pain.,N,N,Not Specified,
-Disney World,5/2/2004,Mission: Space,Epcot,68,F,didn't feel well,N,N,Not Specified,
-Universal,3/15/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,51,M,difficult moving extremities (pre-existing-condition),Y,N,Not Specified,
-Disney World,6/7/2008,It's A Small World,Magic Kingdom,55,M,difficulty breathing,N,N,Not Specified,
-Universal,10/13/2015,Despicable Me Minion Mayhem,Universal Studios,66,F,dizziness,N,N,Not Specified,
-Universal,7/31/2016,Dragon Challenge,Islands of Adventure,52,F,dizziness,N,N,Not Specified,
-Universal,2/1/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,69,F,dizziness,N,N,Not Specified,
-Universal,10/10/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,58,F,dizziness,N,N,Not Specified,
-Universal,10/16/2018,Revenge of the Mummy,Universal Studios,41,F,dizziness,N,N,Not Specified,
-Universal,3/14/2014,The Incredible Hulk Coaster,Islands of Adventure,40,M,dizziness,N,N,Not Specified,
-Universal,10/10/2011,Men In Black,Universal Studios,79,M,dizziness & syncope,N,N,Not Specified,
-Universal,6/1/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,52,F,dizziness and weakness,N,N,Not Specified,
-Disney World,8/31/2012,Star Tours: The Adventure Continues,Hollywood Studios,51,M,dizziness neck pain and motion sickness,N,N,During or Immediately After Riding,
-Universal,9/23/2005,Revenge of the Mummy,Universal Studios,57,F,Dizziness/Mild Chest Discomfort.,N,N,Not Specified,
-Disney World,10/24/2008,Space Mountain,Magic Kingdom,65,M,Dizzy and disoriented,N,N,Not Specified,
-Disney World,6/23/2007,Space Mountain,Magic Kingdom,57,F,Dizzy and weakness in the left side.,N,N,Not Specified,
-Disney World,1/12/2014,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,F,experienced nausea and motion sickness,N,N,During or Immediately After Riding,
-Disney World,9/22/2019,Castaway Creek,Blizzard Beach,44,F,experienced sudden memory loss,N,N,Not Specified,
-Universal,7/31/2011,Dragon Challenge,Islands of Adventure,48,M,eye discomfort,N,N,Not Specified,
-Disney World,2/23/2013,Mission: Space,Epcot,34,F,fainted after ride,N,N,Not Specified,
-Universal,6/6/2019,Fast & Furious - Supercharged,Universal Studios,67,F,fainting,N,N,Not Specified,
-Universal,7/12/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,40,M,fainting,N,N,Not Specified,
-Disney World,2/22/2006,Dumbo,Magic Kingdom,40Ã¢ÂÂs,M,Came off ride not feeling well.,N,N,During or Immediately After Riding,
-Universal,4/8/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,68,M,fainting,N,N,Not Specified,
-Universal,2/4/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,50,F,fainting,N,N,Not Specified,
-Universal,3/24/2019,Kopiko Wai Winding River,Volcano Bay,10,M,fainting,N,N,Not Specified,
-Universal,9/26/2006,The Amazing Adventures of Spiderman,Islands of Adventure,67,M,Fainting,N,N,Not Specified,
-Universal,4/24/2019,Fast & Furious - Supercharged,Universal Studios,76,F,fainting/chest pain (pre-existing-condition),Y,N,Not Specified,
-Universal,11/22/2017,Caro-Seuss-el,Islands of Adventure,59,M,fainting/head injury,N,N,Not Specified,
-Disney World,8/11/2003,The Liberty Belle,Magic Kingdom,71,F,fell & hit head.,N,N,Not Specified,
-Disney World,3/13/2005,Ellen's Energy Adventure,Epcot,52,M,not feeling well during ride.,N,N,During or Immediately After Riding,
-Disney World,8/12/2016,Mad Tea Party,Magic Kingdom,64,F,fell and fractured ankle,N,N,Not Specified,
-Disney World,10/25/2011,Storm Slide-Rudder Buster,Typhoon Lagoon,48,M,fell and fractured ankle,N,N,Not Specified,
-Disney World,11/10/2010,Prince Charming Regal Carousel,Magic Kingdom,71,F,fell and fractured hip and shoulder while ride was stopped.,N,N,During or Immediately After Riding,
-Disney World,9/1/2013,Surf Pool,Typhoon Lagoon,67,F,fell and fractured left leg,N,N,Not Specified,
-Disney World,5/13/2011,Surf Pool,Typhoon Lagoon,47,F,fell and fractured left leg,N,N,Not Specified,
-Disney World,7/29/2007,Peter Pan's Flight,Magic Kingdom,68,F,Fell and fractured legs and arms.,N,N,Not Specified,
-Disney World,12/4/2021,Haunted Mansion,Magic Kingdom,66,F,fell and fractured wrist exiting the attraction,N,N,While Unloading,
-Disney World,8/31/2005,Surf Pool,Typhoon Lagoon,69,F,fell and fractured wrist.,N,N,Not Specified,
-Disney World,5/7/2019,Expedition Everest,Animal Kingdom,41,F,seizure after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,1/24/2017,Prince Charming Regal Carousel,Magic Kingdom,72,F,fell and hit head,N,N,Not Specified,
-Disney World,3/6/2019,Expedition Everest,Animal Kingdom,70,M,became dizzy and nauseous after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,5/19/2018,Expedition Everest,Animal Kingdom,26,M,experienced a seizure after riding attraction,N,N,During or Immediately After Riding,
-Disney World,11/25/2005,Honey I Shrunk The Kids,Hollywood Studios,12,M,fell and hurt wrist.,N,N,Not Specified,
-Disney World,10/2/2007,Haunted Mansion,Magic Kingdom,89,F,fell exiting attraction,N,N,While Unloading,
-Disney World,2/6/2005,Kali River Rapids,Animal Kingdom,45,F,fell from raft into flume at load area and hit head,N,N,Not Specified,
-Disney World,4/18/2015,Expedition Everest,Animal Kingdom,46,M,seizure after exiting.,N,N,After Exiting Attraction,
-Disney World,9/2/2015,Expedition Everest,Animal Kingdom,36,F," who felt ill at times earlier in the day, felt dizzy, shaky and numbness after attraction",N,N,During or Immediately After Riding,
-Disney World,3/19/2015,Expedition Everest,Animal Kingdom,72,F,temporary memory loss after exiting ride,N,N,After Exiting Attraction,
-Disney World,4/14/2014,The Seas with Nemo & Friends,Epcot,62,F,fell on mobbing walkway and injured knee,N,N,Not Specified,
-Disney World,6/1/2014,Expedition Everest,Animal Kingdom,54,M," nausea and dizziness,  briefly lost consciousness after ride",N,N,During or Immediately After Riding,
-Disney World,3/24/2011,Honey I Shrunk The Kids,Hollywood Studios,8,M,fell; hit head; back pain,N,N,Not Specified,
-Disney World,12/29/2011,Expedition Everest,Animal Kingdom,71,M," not feeling well riding attraction, blocked arteries",N,N,During or Immediately After Riding,
-Disney World,10/27/2016,The Twilight Zone Tower of Terror,Hollywood Studios,40,M,felt disoriented,N,N,Not Specified,
-Disney World,7/30/2008,The Twilight Zone Tower of Terror,Hollywood Studios,62,M,felt disoriented and dizzy,N,N,Not Specified,
-Disney World,4/16/2009,Teamboat Springs,Blizzard Beach,64,F,Felt disoriented and lightheaded,N,N,Not Specified,
-Disney World,9/20/2006,Expedition Everest,Animal Kingdom,59,F,Felt disoriented and sick.,N,N,Not Specified,
-Disney World,8/16/2004,Slush Gusher,Blizzard Beach,49,M,felt dizzy & sick,N,N,Not Specified,
-Disney World,11/27/2018,Seven Dwarfs Mine Train,Magic Kingdom,58,F,felt dizzy after having experienced the attraction,N,N,Not Specified,
-Disney World,12/9/2017,Space Mountain,Magic Kingdom,17,F,felt dizzy and disoriented,N,N,Not Specified,
-Disney World,12/28/2008,Tomorrowland Speedway,Magic Kingdom,79,F,Felt dizzy and hot; loss of consciousness,N,N,Not Specified,
-Disney World,4/6/2010,Expedition Everest,Animal Kingdom,74,M,felt dizzy and ill,N,N,Not Specified,
-Disney World,6/16/2008,Expedition Everest,Animal Kingdom,78,M,felt ill before & after riding ride; trouble breathing & blurred vision,N,N,During or Immediately After Riding,
-Disney World,5/3/2008,Expedition Everest,Animal Kingdom,72,F,Complained of dizziness and loss of memory after riding,N,N,During or Immediately After Riding,
-Disney World,12/10/2021,Expedition Everest,Animal Kingdom,57,F,experienced cardiac symptoms after exiting the attraction,N,N,After Exiting Attraction,
-Disney World,7/14/2021,Expedition Everest,Animal Kingdom,72,M,felt nauseous after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,5/18/2011,Expedition Everest,Animal Kingdom,33,F,felt dizzy and ill,N,N,Not Specified,
-Disney World,9/23/2010,Expedition Everest,Animal Kingdom,72,F,felt dizzy and ill,N,N,Not Specified,
-Disney World,1/17/2017,Soarin' Around the World,Epcot,46,M,"felt dizzy and ill, slurred speech",N,N,Not Specified,
-Disney World,8/21/2008,Mission: Space,Epcot,42,F,felt dizzy and sick,N,N,Not Specified,
-Disney World,6/23/2009,Ellen's Energy Adventure,Epcot,57,M,Felt dizzy.,N,N,Not Specified,
-Disney World,2/17/2017,Frozen Ever After,Epcot,74,F,fell boarding boat; fractured leg,N,N,While Boarding,
-Disney World,7/2/2006,The Twilight Zone Tower of Terror,Hollywood Studios,56,F,Felt Dizzy.,N,N,Not Specified,
-Disney World,5/17/2008,Expedition Everest,Animal Kingdom,57,M,felt hot & dizzy,N,N,Not Specified,
-Disney World,3/9/2007,Gran Fiesta Tour Attraction,Epcot,56,M,Lost consciousness during ride.,N,N,During or Immediately After Riding,
-Disney World,2/8/2009,Expedition Everest,Animal Kingdom,66,M,felt ill,N,N,Not Specified,
-Disney World,6/6/2010,Mission: Space,Epcot,27,M,Felt ill,N,N,Not Specified,
-Disney World,1/1/2016,Great Movie Ride,Hollywood Studios,80,M,history of motion sickness became temporarily unconscious during the attraction.,N,N,During or Immediately After Riding,
-Disney World,6/5/2015,Star Tours: The Adventure Continues,Hollywood Studios,67,M,felt ill,N,N,Not Specified,
-Disney World,3/26/2017,The Twilight Zone Tower of Terror,Hollywood Studios,61,M,felt ill,N,N,Not Specified,
-Disney World,11/20/2011,Toy Story Midway Mania!,Hollywood Studios,87,M,felt ill,N,N,Not Specified,
-Disney World,12/28/2013,Expedition Everest,Animal Kingdom,29,F,felt ill & disoriented with slurred speech,N,N,Not Specified,
-Disney World,12/2/2013,Spaceship Earth,Epcot,56,M,felt ill and appeared incoherent,N,N,Not Specified,
-Disney World,4/8/2005,Surf Pool,Typhoon Lagoon,12,F,"felt ill, later passed away at hospital.",N,Y,Not Specified,
-Disney World,3/8/2005,Ellen's Energy Adventure,Epcot,73,M,felt ill.,N,N,Not Specified,
-Disney World,12/7/2005,The Twilight Zone Tower of Terror,Hollywood Studios,16,F,felt ill.,N,N,Not Specified,
-Disney World,8/13/2010,Mission: Space,Epcot,54,F,felt ill: chest pain,N,N,Not Specified,
-Disney World,9/22/2019,Expedition Everest,Animal Kingdom,45,F,felt ill; migraine and vomiting,N,N,Not Specified,
-Disney World,6/25/2016,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,M,felt ill; nausea,N,N,Not Specified,
-Disney World,11/4/2006,Mission: Space,Epcot,49,F,Felt ill; passed away next day at hospital.,N,Y,Not Specified,
-Disney World,1/31/2012,The Seas with Nemo & Friends,Epcot,78,M,felt ill; subsequently diagnosed with heart attack,N,N,Not Specified,
-Disney World,3/18/2009,Space Mountain,Magic Kingdom,75,F,Felt light headed; nausea,N,N,Not Specified,
-Disney World,4/8/2014,Expedition Everest,Animal Kingdom,58,F,felt lightheaded & fell injuring right knee & arm; brief loss of consciousness.,N,N,Not Specified,
-Disney World,11/5/2009,Expedition Everest,Animal Kingdom,77,M,felt lightheaded and weak,N,N,Not Specified,
-Disney World,6/18/2009,Toboggan Racers,Blizzard Beach,43,F,Felt pain in abdomen and chest,N,N,Not Specified,
-Disney World,4/20/2017,Expedition Everest,Animal Kingdom,34,M,felt something in eye irritation,N,N,Not Specified,
-Universal,1/31/2019,E.T Adventure,Universal Studios,11,M,foot pain,N,N,Not Specified,
-Universal,2/15/2019,Jurassic Park River Adventure,Islands of Adventure,27,F,foot pain,N,N,Not Specified,
-Universal,12/11/2018,Ko'okiri Body Plunge,Volcano Bay,11,F,foot pain,N,N,Not Specified,
-Universal,8/25/2010,Camp Jurassic,Islands of Adventure,34,F,fractured ankle,N,N,Not Specified,
-Disney World,5/15/2015,Mayday Falls,Typhoon Lagoon,41,F,fractured ankle,N,N,Not Specified,
-Disney World,7/18/2014,Mayday Falls,Typhoon Lagoon,42,F,fractured ankle,N,N,Not Specified,
-Disney World,3/5/2018,Mayday Falls,Typhoon Lagoon,25,M,fractured ankle going down slide,N,N,Not Specified,
-Disney World,6/19/2021,Teamboat Springs,Blizzard Beach,43,M,fractured ankle stepping into the tube,N,N,While Boarding,
-Disney World,7/27/2017,Downhill Double Dipper,Blizzard Beach,45,F,fractured arm,N,N,Not Specified,
-Universal,7/17/2007,Camp Jurassic,Islands of Adventure,14,F,Fractured arm.,N,N,Not Specified,
-Universal,11/7/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,36,F,fractured back.,N,N,Not Specified,
-Disney World,7/4/2004,Surf Pool,Blizzard Beach,53,M,fractured elbow,N,N,Not Specified,
-Disney World,1/9/2015,Jungle Cruise,Magic Kingdom,4,F,fractured finger,N,N,Not Specified,
-Disney World,12/9/2015,Humunga Kowabunga,Typhoon Lagoon,10,M,fractured hip,N,N,Not Specified,
-Disney World,12/3/2009,Astro Orbiter,Magic Kingdom,40,F,fractured left ankle exiting ride,N,N,While Unloading,
-Disney World,6/23/2014,Mayday Falls,Typhoon Lagoon,44,M,fractured leg,N,N,Not Specified,
-Disney World,6/25/2009,Storm Slide-Rudder Buster,Typhoon Lagoon,66,M,fractured ribs after collision with another guest.,N,N,Not Specified,
-Universal,8/1/2004,Men In Black,Universal Studios,12,M,Fractured Toe,N,N,Not Specified,
-Disney World,10/10/2013,Castaway Creek,Blizzard Beach,68,M,fractured toe on outer wall,N,N,Not Specified,
-Disney World,7/16/2003,The Liberty Belle,Magic Kingdom,83,F,fx pelvis,N,N,Not Specified,
-Universal,7/25/2011,Caro-Seuss-el,Islands of Adventure,80,M,general illness,N,N,Not Specified,
-Disney World,4/30/2005,Dinosaur,Animal Kingdom,30,M,"guest lost consciousness, parents indicated he had a pre-existing heart condition. Later passed away at hospital",Y,Y,Not Specified,
-Disney World,6/29/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,12,M,Guest unresponsive; later passed away at hospital,N,Y,Not Specified,
-Disney World,2/28/2019,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,64,M,had chest pains,N,N,Not Specified,
-Universal,4/23/2015,Despicable Me Minion Mayhem,Universal Studios,54,F,head and neck pain,N,N,Not Specified,
-Universal,5/4/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,43,F,head and neck pain,N,N,Not Specified,
-Universal,12/2/2012,Caro-Seuss-el,Islands of Adventure,62,F,head laceration,N,N,Not Specified,
-Universal,6/14/2022,Caro-Seuss-el,Islands of Adventure,33,F,head pain,N,N,Not Specified,
-Universal,11/21/2018,Hollywood Rip Ride Rocket,Universal Studios,34,F,head pain,N,N,Not Specified,
-Universal,4/20/2019,If I Ran the Zoo,Islands of Adventure,44,F,head pain,N,N,Not Specified,
-Universal,5/26/2019,Puihi Raft Ride,Volcano Bay,24,F,head pain,N,N,Not Specified,
-Universal,9/6/2021,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,59,F,headache,N,N,Not Specified,
-Universal,5/15/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,61,F,headache,N,N,Not Specified,
-Disney World,8/20/2015,Haunted Mansion,Magic Kingdom,68,F,became disoriented after exiting ride,N,N,After Exiting Attraction,
-Disney World,9/8/2011,Haunted Mansion,Magic Kingdom,66,F," fell on moving walkway while boarding, fractured leg",N,N,While Boarding,
-Universal,8/31/2022,Hollywood Rip Ride Rocket,Universal Studios,67,F,headache,N,N,Not Specified,
-Disney World,7/29/2008,Haunted Mansion,Magic Kingdom,68,F,fell after exiting vehicle and fractured shoulder,N,N,While Unloading,
-Disney World,6/19/2008,Haunted Mansion,Magic Kingdom,57,F,hit right knee boarding vehicle,N,N,While Boarding,
-Universal,5/21/2015,Men In Black,Universal Studios,57,F,headache,N,N,Not Specified,
-Universal,9/9/2014,The Simpsons Ride,Universal Studios,59,M,headache,N,N,Not Specified,
-Disney World,3/28/2003,Ellen's Energy Adventure,Epcot,81,F,heart attack later passed away.,N,Y,Not Specified,
-Universal,3/18/2013,Men In Black,Universal Studios,41,F,hermatemesis,N,N,Not Specified,
-Universal,7/7/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,66,F,hip & pelvis pain,N,N,Not Specified,
-Universal,3/15/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,77,F,hip pain,N,N,Not Specified,
-Universal,6/9/2018,Tai Nui Serpentine Body Slide,Volcano Bay,51,M,hip pain,N,N,Not Specified,
-Disney World,2/22/2006,Space Mountain,Magic Kingdom,56,F,Hip Pain.,N,N,Not Specified,
-Universal,5/9/2020,Oh! No! Drop Slide,Volcano Bay,59,F,hip/pelvis pain,N,N,Not Specified,
-Universal,4/3/2019,Tai Nui Serpentine Body Slide,Volcano Bay,53,M,hip/pelvis pain,N,N,Not Specified,
-Universal,5/16/2018,Tai Nui Serpentine Body Slide,Volcano Bay,27,M,hip/pelvis pain,N,N,Not Specified,
-Disney World,11/10/2014,Buzz Lightyears Space Ranger Spin,Magic Kingdom,34,F,history of diabetic seizures experienced seizure,N,N,Not Specified,
-Disney World,5/27/2018,Expedition Everest,Animal Kingdom,22,F,history of dislocating kneecap had reoccurrence,N,N,Not Specified,
-Disney World,12/18/2007,Expedition Everest,Animal Kingdom,44,M,history of heart condition was unconscious at unload and passed away,Y,Y,Not Specified,
-Disney World,5/23/2011,Mission: Space,Epcot,53,F,history of vertigo felt dizzy and ill,N,N,Not Specified,
-Disney World,2/5/2007,Crush n' Gusher,Blizzard Beach,17,M,Hit head on bottom of catch pool,N,N,Not Specified,
-Universal,6/27/2004,Back to the Future,Universal Studios,67,F,Hypertension,N,N,Not Specified,
-Disney World,7/16/2011,Mayday Falls,Typhoon Lagoon,42,F,injured ankle,N,N,Not Specified,
-Disney World,3/10/2015,Humunga Kowabunga,Typhoon Lagoon,27,F,laceration while riding,N,N,During or Immediately After Riding,
-Disney World,7/21/2015,Gran Fiesta Tour Attraction,Epcot,46,F,injured back,N,N,Not Specified,
-Disney World,2/15/2021,Gran Fiesta Tour Attraction,Epcot,69,F,injured her ankle,N,N,Not Specified,
-Disney World,6/14/2016,Surf Pool,Typhoon Lagoon,65,F,injured knee,N,N,Not Specified,
-Universal,3/22/2002,E.T Adventure,Universal Studios,13,M,injured right foot.,N,N,Not Specified,
-Disney World,3/16/2007,Downhill Double Dipper,Blizzard Beach,52,M,It is unclear whether the guest rode this attraction. Guest collapsed adjacent to catch pool; later passed away,N,Y,Not Specified,
-Disney World,9/22/2021,Journey info Imagination with Figment,Epcot,70,F,fell exiting the attraction striking her nose,N,N,While Unloading,
-Disney World,1/1/2008,Cross County Creek,Blizzard Beach,48,M,jumped into creek and fractured ankle,N,N,Not Specified,
-Disney World,3/14/2020,Jungle Cruise,Magic Kingdom,74,F,fractured leg stepping into boat,N,N,While Boarding,
-Disney World,12/24/2003,Big Thunder Mountain Railroad,Magic Kingdom,23,M,knee,N,N,Not Specified,
-Disney World,11/13/2012,Jungle Cruise,Magic Kingdom,69,F," fell while stepping into boat, fractured hip",N,N,While Boarding,
-Disney World,3/23/2012,Jungle Cruise,Magic Kingdom,40,F,fell while stepping into boat & fractured fibula. Passed away of pulmonary embolism on 4/7/12.,N,Y,While Boarding,
-Disney World,11/5/2003,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75,F,knee injury,N,N,Not Specified,
-Universal,12/26/2019,Harry Potter and the Forbidden Journey,Universal Studios,78,M,knee injury,N,N,Not Specified,
-Universal,6/14/2019,Kopiko Wai Winding River,Volcano Bay,64,F,knee pain,N,N,Not Specified,
-Universal,7/23/2012,Revenge of the Mummy,Universal Studios,50,F,knee pain,N,N,Not Specified,
-Universal,4/5/2022,The Simpsons Ride,Universal Studios,25,F,knee pain,N,N,Not Specified,
-Disney World,4/13/2014,Pirates of the Caribbean,Magic Kingdom,12,M,lacerated 4 fingers,N,N,Not Specified,
-Disney World,5/14/2003,Buzz Lightyears Space Ranger Spin,Magic Kingdom,12,F,lacerated ankle,N,N,Not Specified,
-Disney World,10/7/2014,Pirates of the Caribbean,Magic Kingdom,57,M,lacerated tips of 2 fingers,N,N,Not Specified,
-Disney World,7/24/2013,Humunga Kowabunga,Typhoon Lagoon,43,F,laceration,N,N,Not Specified,
-Universal,4/15/2003,Dr Doom's Fearfall,Islands of Adventure,9,F,laceration/tear genitalia,N,N,Not Specified,
-Universal,3/13/2009,E.T Adventure,Universal Studios,68,M,Left arm numbness,N,N,Not Specified,
-Disney World,4/25/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,27,F,went into labor after riding attraction,N,N,During or Immediately After Riding,
-Disney World,1/17/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,71,M,experienced chest pain after riding attraction,N,N,During or Immediately After Riding,
-Disney World,3/9/2015,Kilimanjaro Safaris Expedition,Animal Kingdom,1,M,developed rash before boarding; rash later worsened; temporarily passed out while on ride,N,N,While Boarding,
-Disney World,6/19/2009,Mission: Space,Epcot,57,F,loss of consciousness,N,N,Not Specified,
-Disney World,4/4/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,57,F,had trouble breathing and numbness to her face after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,6/24/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,70,F,felt dizzy and weak after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,6/27/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,44,M,lost consciousness during the attraction,N,N,During or Immediately After Riding,
-Disney World,10/13/2021,Kilimanjaro Safaris Expedition,Animal Kingdom,82,M,passed out during the attraction,N,N,During or Immediately After Riding,
-Disney World,7/16/2011,Castaway Creek,Blizzard Beach,18,F,loss of consciousness and seizure like symptoms.,N,N,Not Specified,
-Disney World,12/2/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,73,F,became disoriented during experience.,N,N,During or Immediately After Riding,
-Disney World,9/6/2012,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51,M,Loss of consciousness during ride; regained consciousness before exiting,N,N,During or Immediately After Riding,
-Universal,11/14/2005,Revenge of the Mummy,Universal Studios,68,F,Loss of Consciousness.,N,N,Not Specified,
-Disney World,3/3/2006,Surf Pool,Typhoon Lagoon,58,M,Loss of consciousness.,N,N,Not Specified,
-Universal,2/22/2005,The Incredible Hulk Coaster,Islands of Adventure,56,F,loss of consciousness.,N,N,Not Specified,
-Disney World,3/8/2010,Surf Pool,Typhoon Lagoon,77,F,loss of consciousness: pre-existing heart condition,Y,N,Not Specified,
-Disney World,12/11/2012,Gran Fiesta Tour Attraction,Epcot,70,F,lost balance & fell from seat,N,N,Not Specified,
-Disney World,4/18/2018,Mad Tea Party,Magic Kingdom,74,F,pre-existing illness felt ill after riding attraction,N,N,During or Immediately After Riding,
-Disney World,6/26/2010,Castaway Creek,Blizzard Beach,54,F,Lost balance and fell; fractured tibia,N,N,Not Specified,
-Disney World,12/18/2014,Mad Tea Party,Magic Kingdom,49,M,tripped while exiting ride vehicle; fractured shoulder,N,N,While Unloading,
-Disney World,10/13/2013,Mad Tea Party,Magic Kingdom,75,F,"fell while exiting, fractured wrist",N,N,While Unloading,
-Disney World,4/13/2010,Mad Tea Party,Magic Kingdom,68,F,fell exiting vehicle; fractured hip,N,N,While Unloading,
-Disney World,5/24/2010,Mad Tea Party,Magic Kingdom,61,F," fell exiting vehicle, left arm fracture",N,N,While Unloading,
-Disney World,7/15/2008,Mad Tea Party,Magic Kingdom,56,M,felt dizzy and sick,N,N,While Unloading,
-Universal,6/16/2022,Te'awa The Fearless River,Volcano Bay,30,F,lost consciousness (pre-existing-condition),Y,N,Not Specified,
-Universal,8/16/2005,Revenge of the Mummy,Universal Studios,63,F,lower back pain.,N,N,Not Specified,
-Universal,11/18/2007,Revenge of the Mummy,Universal Studios,34,F,Lower back vertebrae fracture,N,N,Not Specified,
-Universal,5/16/2014,Revenge of the Mummy,Universal Studios,15,M,lowered level consciousness,N,N,Not Specified,
-Universal,11/7/2012,Dragon Challenge,Islands of Adventure,17,F,lowered level of consciousness,N,N,Not Specified,
-Universal,1/20/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,47,M,lowered level of consciousness,N,N,Not Specified,
-Disney World,3/2/2003,Space Mountain,Magic Kingdom,75,F,memory loss,N,N,Not Specified,
-Disney World,5/6/2006,Mad Tea Party,Magic Kingdom,62,F,Missed step and fell,N,N,Not Specified,
-Universal,12/13/2019,Despicable Me Minion Mayhem,Universal Studios,44,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/17/2018,Despicable Me Minion Mayhem,Universal Studios,7,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,12/7/2019,Dr Doom's Fearfall,Islands of Adventure,62,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,9/12/2015,E.T Adventure,Universal Studios,21,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/13/2021,E.T Adventure,Universal Studios,71,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,7/31/2013,Men In Black,Universal Studios,22,F,abdominal pain,N,N,While Unloading,
-Disney World,4/13/2022,Mickey & Minnie's Runaway Railway,Hollywood Studios,47,F,had seizure after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,10/28/2020,Mickey & Minnie's Runaway Railway,Hollywood Studios,86,F,tripped and fell exiting the ride vehicle injuring her head arm and leg,N,N,During or Immediately After Riding,
-Disney World,5/4/2022,Millennium Falcon: Smugglers Run,Hollywood Studios,23,M,had seizure during the attraction,N,N,During or Immediately After Riding,
-Disney World,11/20/2018,Miss Adventure Falls,Typhoon Lagoon,18,M,fell out of raft into catch pool at the end of slide and struck his head,N,N,While Boarding,
-Disney World,8/12/2018,Miss Adventure Falls,Typhoon Lagoon,44,M,sustained fractures to arm and injuries to neck and back when arm became caught in conveyor belt during initial incline of ride,N,N,During or Immediately After Riding,
-Universal,4/28/2017,Harry Potter and the Escape from Gringotts,Universal Studios,18,F,motion sickness,N,N,During or Immediately After Riding,
-Disney World,7/19/2007,Mission: Space,Epcot,63,M,history of high blood pressure. Became ill after riding,N,N,During or Immediately After Riding,
-Disney World,11/20/2006,Mission: Space,Epcot,59,M,hypertension felt ill day after riding,N,N,During or Immediately After Riding,
-Universal,4/16/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,70,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,11/13/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,51,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,2/4/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,67,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,11/1/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,54,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/3/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,71,F,motion sickness,N,N,During or Immediately After Riding,
-Disney World,7/16/2004,Mission: Space,Epcot,40,F,fainted during ride,N,N,During or Immediately After Riding,
-Universal,3/31/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,71,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,1/13/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,66,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/11/2019,Harry Potter and the Forbidden Journey,Islands of Adventure,57,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/9/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,39,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,4/16/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,81,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,5/1/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,7/3/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,70,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,10/16/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,43,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,5/23/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,59,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,12/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,50,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,12/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,55,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,8/26/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,43,F,motion sickness,N,N,During or Immediately After Riding,
-Disney World,9/7/2019,Mission: Space,Epcot,34,M,history of motion sickness became ill after riding,N,N,During or Immediately After Riding,
-Universal,6/8/2014,Hollywood Rip Ride Rocket,Universal Studios,33,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,3/10/2011,Hollywood Rip Ride Rocket,Universal Studios,43,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,4/3/2016,Hollywood Rip Ride Rocket,Universal Studios,57,F,motion sickness,N,N,During or Immediately After Riding,
-Disney World,6/24/2014,Mission: Space,Epcot,54,F,motion sickness,N,N,During or Immediately After Riding,
-Universal,2/16/2020,The Incredible Hulk Coaster,Islands of Adventure,48,M,motion sickness,N,N,During or Immediately After Riding,
-Universal,11/3/2015,Revenge of the Mummy,Universal Studios,20,M,motion sickness (pre-existing-condition),Y,N,During or Immediately After Riding,
-Disney World,3/7/2019,Na'vi River Journey,Animal Kingdom,83,M,injured hip boarding the attraction,N,N,While Boarding,
-Universal,12/13/2018,Hollywood Rip Ride Rocket,Universal Studios,35,F,nausea,N,N,Not Specified,
-Disney World,6/21/2006,Peter Pan's Flight,Magic Kingdom,43,F,Fell boardingto ride; fractured hip.,N,N,While Boarding,
-Disney World,2/14/2006,Peter Pan's Flight,Magic Kingdom,70,M,tripped and fell into the ride path as he attempted to board the attraction.,N,N,While Boarding,
-Disney World,3/30/2004,Mission: Space,Epcot,59,M,Nausea,N,N,Not Specified,
-Disney World,6/3/2011,Peter Pan's Flight,Magic Kingdom,75,F,fell on moving walkway in load area; fractured knee,N,N,While Boarding,
-Disney World,7/17/2009,Peter Pan's Flight,Magic Kingdom,74,F," lost balance on unload belt,  fell and hit head and fractured wrist",N,N,While Unloading,
-Universal,7/18/2022,Poseidon's Fury,Islands of Adventure,50,M,nausea,N,N,Not Specified,
-Disney World,2/13/2005,Pirates of the Caribbean,Magic Kingdom,77,F,lost consciousness after ride. Later passed away at hospital,N,Y,During or Immediately After Riding,
-Disney World,5/17/2022,Pirates of the Caribbean,Magic Kingdom,70,M,experienced abdominal and back pain during the attraction,N,N,During or Immediately After Riding,
-Universal,1/31/2008,The Cat In The Hat,Islands of Adventure,32,F,Nausea,N,N,Not Specified,
-Disney World,11/26/2015,Pirates of the Caribbean,Magic Kingdom,30,F,fell while boarding the ride,N,N,While Boarding,
-Disney World,4/10/2014,Toy Story Midway Mania!,Hollywood Studios,54,F,"nausea & dizziness,  lost consciousness & subsequently passed away",N,Y,Not Specified,
-Universal,1/10/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,22,M,nausea (pre-existing-condition),Y,N,Not Specified,
-Disney World,6/15/2015,Splash Mountain,Magic Kingdom,21,F,nausea and chest pains,N,N,Not Specified,
-Disney World,11/19/2011,Space Mountain,Magic Kingdom,43,F,nausea and dizziness,N,N,Not Specified,
-Disney World,5/5/2015,Walt Disney World Railroad,Magic Kingdom,71,M,nausea and dizziness,N,N,Not Specified,
-Disney World,7/24/2014,Primeval Whirl,Animal Kingdom,46,F,temporarily lost consciousness after exiting attraction.,N,N,After Exiting Attraction,
-Disney World,2/22/2022,Prince Charming Regal Carousel,Magic Kingdom,74,F,fell stepping down from attraction,N,N,While Unloading,
-Disney World,3/24/2022,Prince Charming Regal Carousel,Magic Kingdom,63,F,while dismounting a horse guest lost balance and fell,N,N,While Unloading,
-Disney World,1/30/2019,Prince Charming Regal Carousel,Magic Kingdom,69,M,fell while exiting the attraction and fractured hip,N,N,While Unloading,
-Disney World,11/13/2014,Prince Charming Regal Carousel,Magic Kingdom,64,F," fell while stepping off carousel horse, fractured leg",N,N,While Unloading,
-Disney World,2/25/2012,Prince Charming Regal Carousel,Magic Kingdom,68,F,felt ill while boarding attraction; fractured hip & leg,N,N,While Boarding,
-Disney World,2/29/2012,Prince Charming Regal Carousel,Magic Kingdom,65,F,felt ill while exiting attraction; fractured arm,N,N,While Unloading,
-Disney World,9/21/2011,Prince Charming Regal Carousel,Magic Kingdom,66,F," fell while stepping off the carousel platform, fractured leg",N,N,While Unloading,
-Universal,8/4/2011,Revenge of the Mummy,Universal Studios,73,F,nausea lightheadedness,N,N,Not Specified,
-Disney World,8/26/2013,Space Mountain,Magic Kingdom,26,F,nausea vomiting & neck pain; reportedly underwent surgery to the head prior to being released from hospital,N,N,Not Specified,
-Universal,4/25/2016,Dragon Challenge,Islands of Adventure,46,F,neck pain,N,N,Not Specified,
-Universal,10/11/2015,Hollywood Rip Ride Rocket,Universal Studios,35,F,neck pain,N,N,Not Specified,
-Universal,10/16/2014,Hollywood Rip Ride Rocket,Universal Studios,36,F,neck pain,N,N,Not Specified,
-Universal,7/24/2022,Jurassic World VelociCoaster,Islands of Adventure,38,F,neck pain,N,N,Not Specified,
-Universal,11/7/2019,Punga Racers,Volcano Bay,47,M,numbness,N,N,Not Specified,
-Disney World,12/12/2008,The Twilight Zone Tower of Terror,Hollywood Studios,41,F,Numbness in right leg,N,N,Not Specified,
-Disney World,7/24/2012,Mission: Space,Epcot,62,M,pacemaker stated he felt a shock through his shoulders when fastening his restraint,N,N,While Boarding,
-Universal,9/21/2004,Revenge of the Mummy,Universal Studios,39,M,passed away,N,Y,Not Specified,
-Disney World,7/21/2015,Liberty Riverboat,Magic Kingdom,80,F,passed out and struck head,N,N,Not Specified,
-Universal,1/3/2017,Caro-Seuss-el,Islands of Adventure,68,F,pelvis pain,N,N,Not Specified,
-Disney World,5/16/2016,Haunted Mansion,Magic Kingdom,70,F,pre-existing-condition became dizzy.,Y,N,Not Specified,
-Disney World,9/2/2017,Big Thunder Mountain Railroad,Magic Kingdom,54,M,pre-existing-condition collapsed; later passed away at hospital,Y,Y,Not Specified,
-Disney World,12/2/2017,Big Thunder Mountain Railroad,Magic Kingdom,69,M,pre-existing-condition complained of neck pain,Y,N,Not Specified,
-Disney World,5/8/2012,Big Thunder Mountain Railroad,Magic Kingdom,62,F,pre-existing-condition complained of pain in leg upon leaving later diagnosed with a blood clot,Y,N,Not Specified,
-Disney World,2/7/2014,The Twilight Zone Tower of Terror,Hollywood Studios,18,F,pre-existing-condition experienced anxiety & numbness,Y,N,Not Specified,
-Disney World,9/25/2022,Tomorrowland Transit Authority People Mover,Magic Kingdom,83,M,pre-existing-condition experienced cardiac event,Y,N,Not Specified,
-Universal,7/7/2007,Revenge of the Mummy,Universal Studios,70,F,general weakness after exiting ride.,N,N,After Exiting Attraction,
-Disney World,12/30/2017,Haunted Mansion,Magic Kingdom,66,M,pre-existing-condition experienced chest pain,Y,N,Not Specified,
-Disney World,12/29/2017,Kilimanjaro Safaris Expedition,Animal Kingdom,70,F,pre-existing-condition experienced chest pain,Y,N,Not Specified,
-Disney World,4/10/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,59,M,Headache and dizziness; transported from other park location approximately three hours after riding.,N,N,During or Immediately After Riding,
-Disney World,6/28/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,F,Fell while boarding into vehicle; back injury,N,N,While Boarding,
-Disney World,6/6/2015,Test Track,Epcot,69,M,pre-existing-condition experienced chest pain.,Y,N,Not Specified,
-Disney World,8/19/2014,The Twilight Zone Tower of Terror,Hollywood Studios,40,F,pre-existing-condition experienced chest pain.,Y,N,Not Specified,
-Disney World,4/26/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,70,M,shoulder and arm pain; dizziness,N,N,During or Immediately After Riding,
-Disney World,10/27/2021,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,18,M,passed out and fell after exiting the attraction,N,N,After Exiting Attraction,
-Disney World,3/26/2022,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,43,F,passed out after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,10/31/2019,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,46,F,severe head pain illness and vomiting after riding,N,N,During or Immediately After Riding,
-Disney World,12/26/2014,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51,F,dizziness & loss of memory after riding; later lost consciousness,N,N,During or Immediately After Riding,
-Disney World,10/25/2017,Pirates of the Caribbean,Magic Kingdom,76,M,pre-existing-condition experienced headache and brief loss of consciousness,Y,N,Not Specified,
-Disney World,3/3/2014,Space Mountain,Magic Kingdom,16,F,pre-existing-condition experienced periods of unconsciousness,Y,N,Not Specified,
-Disney World,9/17/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,31,F,seizure after exiting ride,N,N,After Exiting Attraction,
-Disney World,8/4/2017,Castaway Creek,Blizzard Beach,57,F,pre-existing-condition experienced stroke-like symptoms,Y,N,Not Specified,
-Disney World,4/13/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48,M,feeling weak on left side and had trouble standing after riding.,N,N,During or Immediately After Riding,
-Disney World,2/9/2015,Buzz Lightyears Space Ranger Spin,Magic Kingdom,67,M,pre-existing-condition felt dizziness and chest pains,Y,N,Not Specified,
-Disney World,5/10/2019,Star Tours: The Adventure Continues,Hollywood Studios,39,F,pre-existing-condition felt dizzy and had trouble with equilibrium,Y,N,Not Specified,
-Disney World,4/22/2017,Big Thunder Mountain Railroad,Magic Kingdom,59,F,pre-existing-condition felt ill,Y,N,Not Specified,
-Disney World,9/7/2017,Toy Story Midway Mania!,Hollywood Studios,70,M,pre-existing-condition felt ill,Y,N,Not Specified,
-Universal,10/5/2022,Runamukka Reef,Volcano Bay,78,F,elbow pain,N,N,During or Immediately After Riding,
-Disney World,11/21/2015,Seven Dwarfs Mine Train,Magic Kingdom,71,M,felt ill after riding attraction,N,N,During or Immediately After Riding,
-Disney World,1/19/2017,Mission: Space,Epcot,69,F,pre-existing-condition felt ill and passed out momentarily,Y,N,Not Specified,
-Disney World,9/25/2022,Slinky Dog Dash,Hollywood Studios,46,M,had a seizure after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,9/18/2015,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,M,pre-existing-condition felt ill and temporarily lost consciousness,Y,N,Not Specified,
-Disney World,1/31/2009,Snow White's Scary Adventures,Magic Kingdom,46,F,exited vehicle and claims to have lost consciousness,N,N,During or Immediately After Riding,
-Disney World,6/15/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,70,M,pre-existing-condition felt ill; neck discomfort,Y,N,Not Specified,
-Disney World,1/15/2007,Soarin' Around the World,Epcot,60,M,Guest had difficulty standing in exit area; passed away two days later due to stroke.,N,Y,While Unloading,
-Disney World,5/21/2014,Kilimanjaro Safaris Expedition,Animal Kingdom,68,F,pre-existing-condition felt tightness in chest,Y,N,Not Specified,
-Disney World,12/5/2014,Mission: Space,Epcot,58,M,pre-existing-condition felt tightness in chest and nausea,Y,N,Not Specified,
-Disney World,8/6/2009,Soarin' Around the World,Epcot,69,F,felt pain in side earlier in day; reported it was worse after riding.,N,N,During or Immediately After Riding,
-Disney World,4/1/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,77,M,pre-existing-condition felt weakness & disorientation,Y,N,Not Specified,
-Disney World,8/3/2022,Soarin' Around the World,Epcot,73,F,experienced stroke like symptoms during the attraction,N,N,During or Immediately After Riding,
-Disney World,3/14/2022,Soarin' Around the World,Epcot,82,F,had chest pain after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,2/9/2012,Space Mountain,Magic Kingdom,80,M,lost consciousness after exiting attraction subsequently diagnosed with a heart attack,N,N,After Exiting Attraction,
-Disney World,7/24/2012,Downhill Double Dipper,Blizzard Beach,18,F,pre-existing-condition had a seizure,Y,N,Not Specified,
-Disney World,8/18/2017,Jungle Cruise,Magic Kingdom,5,M,pre-existing-condition had a seizure,Y,N,Not Specified,
-Disney World,10/6/2017,Kilimanjaro Safaris Expedition,Animal Kingdom,19,F,pre-existing-condition had a seizure,Y,N,Not Specified,
-Disney World,5/14/2017,Seven Dwarfs Mine Train,Magic Kingdom,48,F,pre-existing-condition had a seizure,Y,N,Not Specified,
-Disney World,3/14/2006,Space Mountain,Magic Kingdom,61,M,Motion Sickness.,N,N,While Boarding,
-Disney World,2/27/2022,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48,F,pre-existing-condition had a seizure on the attraction,Y,N,During or Immediately After Riding,
-Disney World,9/8/2011,Star Tours: The Adventure Continues,Hollywood Studios,16,F,pre-existing-condition had a seizure.,Y,N,Not Specified,
-Disney World,9/15/2015,Space Mountain,Magic Kingdom,7,F,thigh pain,N,N,During or Immediately After Riding,
-Disney World,11/21/2020,Space Mountain,Magic Kingdom,60,F,felt ill after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,8/6/2019,Space Mountain,Magic Kingdom,61,F,became ill after riding attraction,N,N,During or Immediately After Riding,
-Disney World,1/20/2015,Great Movie Ride,Hollywood Studios,57,M,pre-existing-condition had brief loss of consciousness,Y,N,Not Specified,
-Disney World,2/17/2019,Dinosaur,Animal Kingdom,53,M,pre-existing-condition had chest pains and shortness of breath,Y,N,Not Specified,
-Disney World,9/27/2017,Space Mountain,Magic Kingdom,48,F,"fell boarding ride vehicle,  temporary loss of consciousness, fractured leg",N,N,While Boarding,
-Disney World,7/24/2013,Carousel of Progress,Magic Kingdom,1,F,pre-existing-condition had difficulty breathing,Y,N,Not Specified,
-Disney World,3/13/2016,Great Movie Ride,Hollywood Studios,41,M,pre-existing-condition had numbness and felt dizzy.,Y,N,Not Specified,
-Disney World,1/26/2016,Space Mountain,Magic Kingdom,17,F,temporarily lost consciousness and fell after riding attraction.,N,N,During or Immediately After Riding,
-Disney World,12/28/2014,Space Mountain,Magic Kingdom,72,M,felt nauseated & lethargic after exiting,N,N,After Exiting Attraction,
-Disney World,5/12/2014,Kali River Rapids,Animal Kingdom,26,M,pre-existing-condition had seizure,Y,N,Not Specified,
-Disney World,5/8/2014,Space Mountain,Magic Kingdom,53,M,who had not been feeling well felt sick after exiting.,N,N,After Exiting Attraction,
-Disney World,2/2/2019,Slinky Dog Dash,Hollywood Studios,30,M,pre-existing-condition had seizure,Y,N,Not Specified,
-Disney World,5/17/2013,Kali River Rapids,Animal Kingdom,36,F,pre-existing-condition suffered a seizure,Y,N,Not Specified,
-Disney World,1/14/2013,Space Mountain,Magic Kingdom,54,M,motion sickness/fainted during and after ride.,N,N,During or Immediately After Riding,
-Disney World,9/3/2012,Space Mountain,Magic Kingdom,49,F,"while boarding ride vehicle, fractured leg",N,N,While Boarding,
-Disney World,10/6/2013,Haunted Mansion,Magic Kingdom,62,M,pre-existing-condition suffered from chest pain,Y,N,Not Specified,
-Disney World,6/9/2022,Alien Swirling Saucers,Hollywood Studios,59,F,pre-existing-condition sustained injury to toes,Y,N,Not Specified,
-Disney World,5/15/2011,Space Mountain,Magic Kingdom,12,F,history of asthma came into unload area unresponsive: regained consciousness and was transported to hospital,N,N,During or Immediately After Riding,
-Disney World,5/21/2011,Space Mountain,Magic Kingdom,48,F,came into unload area unconscious: later diagnosed with subarachnoid hemorrhage at hospital,N,N,During or Immediately After Riding,
-Disney World,4/11/2017,Avatar Flight of Passage,Animal Kingdom,56,F,pre-existing-condition temporarily passed out during ride,Y,N,During or Immediately After Riding,
-Disney World,8/4/2012,Space Mountain,Magic Kingdom,57,M,pre-existing health condition (asthma) temporarily lost consciousness; released,Y,N,Not Specified,
-Disney World,1/24/2013,Star Tours: The Adventure Continues,Hollywood Studios,41,M,pre-existing health condition experienced nausea and chest pain after ride,Y,N,During or Immediately After Riding,
-Disney World,8/8/2006,Spaceship Earth,Epcot,7,F,visiting through wish granting Organization had seizure after riding.,N,N,During or Immediately After Riding,
-Disney World,10/14/2005,Spaceship Earth,Epcot,65,F,fell exiting attraction reported complaints regarding shoulder and both wrists,N,N,While Unloading,
-Disney World,5/31/2019,Spaceship Earth,Epcot,72,F,passed out after exiting the attraction,N,N,After Exiting Attraction,
-Disney World,4/16/2016,Spaceship Earth,Epcot,69,F,fell while boarding; fractured leg,N,N,While Boarding,
-Disney World,10/3/2012,Kilimanjaro Safaris Expedition,Animal Kingdom,75,F,pre-existing health condition felt nauseated & had chest pain,Y,N,Not Specified,
-Disney World,4/7/2015,Tomorrowland Speedway,Magic Kingdom,32,F,pre-existing health condition had seizure,Y,N,Not Specified,
-Disney World,1/3/2010,Kali River Rapids,Animal Kingdom,47,M,pre-existing heart condition felt numbness on right side of body,Y,N,Not Specified,
-Disney World,10/6/2018,Meltaway Bay,Blizzard Beach,70,M,pre-existing heart condition had a heart attack and passed away,Y,Y,Not Specified,
-Disney World,1/14/2018,The Seas with Nemo & Friends,Epcot,69,M,pre-existing heart condition had chest pain,Y,N,Not Specified,
-Disney World,7/25/2008,Dinosaur,Animal Kingdom,73,M,pre-existing heart condition reported chest pain,Y,N,Not Specified,
-Disney World,9/10/2021,Splash Mountain,Magic Kingdom,39,M,had a seizure after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,6/16/2018,Splash Mountain,Magic Kingdom,15,M,experienced chest pain and shortness of breath before and after riding attraction,N,N,During or Immediately After Riding,
-Disney World,10/7/2011,Expedition Everest,Animal Kingdom,61,M,"pre-existing heart condition, felt ill",Y,N,Not Specified,
-Disney World,6/2/2011,Splash Mountain,Magic Kingdom,29,F,prior history of anaphylactic reactions began experiencing symptoms during the attraction.,N,N,During or Immediately After Riding,
-Disney World,4/7/2009,Splash Mountain,Magic Kingdom,57,F," passed out after riding and exiting attraction,  hit head on concrete floor and fractured skull.",N,N,During or Immediately After Riding,
-Disney World,5/23/2016,The Twilight Zone Tower of Terror,Hollywood Studios,18,M,pre-existing history felt chest pain; numbness in arm,N,N,Not Specified,
-Disney World,12/16/2008,Splash Mountain,Magic Kingdom,61,M,Fall occurred while boarding vehicles; fractured leg,N,N,While Boarding,
-Disney World,10/12/2019,Space Mountain,Magic Kingdom,89,F,pre-existing medical condition experienced temporary loss of consciousness,Y,N,Not Specified,
-Disney World,10/6/2018,Mission: Space,Epcot,43,M,pre-existing medical issues experienced brief loss of consciousness,N,N,Not Specified,
-Disney World,11/21/2017,Star Tours: The Adventure Continues,Hollywood Studios,67,F,felt ill and dizzy after riding attraction,N,N,During or Immediately After Riding,
-Universal,10/29/2013,Disaster,Universal Studios,61,F,presented with confusion,N,N,Not Specified,
-Disney World,3/16/2015,Star Tours: The Adventure Continues,Hollywood Studios,46,M,seizure after exiting ride,N,N,After Exiting Attraction,
-Universal,10/18/2013,Dragon Challenge,Islands of Adventure,67,F,presented with confusion,N,N,Not Specified,
-Disney World,7/29/2006,Splash Mountain,Magic Kingdom,37,F,"recently released from hospital for lung condition,  reported chest pains and difficulty breathing.",Y,N,Not Specified,
-Disney World,7/27/2009,Star Tours: The Adventure Continues,Hollywood Studios,54,M,Seizure after exiting ride.,N,N,After Exiting Attraction,
-Disney World,3/30/2022,Star Wars: Rise of the Resistance,Hollywood Studios,47,F,experienced a cardiac event within the attraction in a holding area prior to boarding a ride vehicle,N,N,While Boarding,
-Disney World,3/23/2017,Pirates of the Caribbean,Magic Kingdom,50,M,recovering from throat surgery became ill,N,N,Not Specified,
-Disney World,7/6/2009,Storm Slide-Rudder Buster,Typhoon Lagoon,52,F,felt disoriented and sick after riding.,N,N,During or Immediately After Riding,
-Disney World,3/17/2011,Ellen's Energy Adventure,Epcot,77,M,Report of possible heart attack for pre-existing heart condition,Y,N,Not Specified,
-Disney World,7/7/2012,Storm Slide-Rudder Buster,Typhoon Lagoon,52,M,fractured leg after entering catch pool,N,N,While Boarding,
-Disney World,6/21/2016,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,26,M,reported back and leg pain and that he was lightheaded; later underwent heart surgery.,N,N,Not Specified,
-Disney World,12/2/2017,Expedition Everest,Animal Kingdom,30,M,reported being struck on head; headache; dizziness,N,N,Not Specified,
-Disney World,3/8/2014,Studio Backlot Tour,Hollywood Studios,53,F,temporarily lost consciousness while transferring from wheelchair into ride vehicle.,N,N,While Boarding,
-Disney World,12/19/2004,Big Thunder Mountain Railroad,Magic Kingdom,68,M,reported difficulty moving when leaving ride,N,N,While Unloading,
-Disney World,4/10/2005,Mission: Space,Epcot,51,M,reported on 10/07/05 that had not been feeling well since riding attraction three days prior,N,N,After Exiting Attraction,
-Disney World,8/26/2012,Surf Pool,Typhoon Lagoon,54,M,guest collapsed in water subsequently Passed away from heart attack,N,Y,During or Immediately After Riding,
-Disney World,10/19/2002,Surf Pool,Typhoon Lagoon,48,M,saw spots,N,N,Not Specified,
-Disney World,12/7/2004,Cross County Creek,Blizzard Beach,33,F,seizure,N,N,Not Specified,
-Disney World,2/8/2010,Dinosaur,Animal Kingdom,45,M,seizure,N,N,Not Specified,
-Disney World,10/12/2009,Dinosaur,Animal Kingdom,61,F,seizure,N,N,Not Specified,
-Disney World,10/20/2009,Expedition Everest,Animal Kingdom,27,M,seizure,N,N,Not Specified,
-Universal,2/12/2021,Fast & Furious - Supercharged,Universal Studios,27,F,seizure,N,N,Not Specified,
-Universal,4/12/2020,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,25,F,seizure,N,N,Not Specified,
-Disney World,11/21/2008,It's A Small World,Magic Kingdom,55,M,Seizure,N,N,Not Specified,
-Disney World,9/29/2013,Kali River Rapids,Animal Kingdom,39,M,seizure,N,N,Not Specified,
-Disney World,6/4/2010,Kilimanjaro Safaris Expedition,Animal Kingdom,72,F,seizure,N,N,Not Specified,
-Disney World,7/2/2003,Surf Pool,Typhoon Lagoon,31,F,fell on steps leading to catch pool fractured ankle and passed away of pulmonary embolism,N,Y,While Boarding,
-Disney World,12/22/2008,Kilimanjaro Safaris Expedition,Animal Kingdom,51,F,seizure,N,N,Not Specified,
-Disney World,3/28/2012,Maelstrom,Epcot,41,M,seizure,N,N,Not Specified,
-Disney World,7/19/2004,Meltaway Bay,Blizzard Beach,11,M,seizure,N,N,Not Specified,
-Disney World,4/10/2008,Peter Pan's Flight,Magic Kingdom,43,M,Seizure,N,N,Not Specified,
-Universal,3/28/2017,Revenge of the Mummy,Universal Studios,60,F,seizure,N,N,Not Specified,
-Disney World,5/6/2008,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,25,F,seizure,N,N,Not Specified,
-Disney World,9/26/2017,Teamboat Springs,Blizzard Beach,58,F,fell while boarding raft and fractured back,N,N,While Boarding,
-Disney World,8/5/2008,Snow White's Scary Adventures,Magic Kingdom,6,F,seizure,N,N,Not Specified,
-Disney World,8/14/2008,Teamboat Springs,Blizzard Beach,41,F,slipped while boarding tube; fractured ankle,N,N,While Boarding,
-Disney World,5/17/2012,Spaceship Earth,Epcot,55,F,Seizure,N,N,Not Specified,
-Disney World,4/13/2009,Splash Mountain,Magic Kingdom,39,M,seizure,N,N,Not Specified,
-Universal,2/4/2022,Storm Force Acceleration,Islands of Adventure,37,F,seizure,N,N,Not Specified,
-Disney World,12/18/2006,Test Track,Epcot,67,F,Fell exiting vehicle and fractured pelvis.,N,N,While Unloading,
-Universal,2/29/2008,The Incredible Hulk Coaster,Islands of Adventure,28,F,Seizure,N,N,Not Specified,
-Disney World,8/15/2009,Test Track,Epcot,40,M,fell while exiting vehicle and broke right wrist.,N,N,While Unloading,
-Universal,11/27/2020,The Incredible Hulk Coaster,Islands of Adventure,14,F,seizure,N,N,Not Specified,
-Disney World,8/16/2016,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,53,F,seizure,N,N,Not Specified,
-Universal,10/17/2014,Dudley Do Rights Ripsaw Falls,Islands of Adventure,49,F,seizure (pre-existing-condition),Y,N,Not Specified,
-Disney World,3/11/2017,The Barnstormer,Magic Kingdom,55,M,complained of chest pain after riding attraction,N,N,During or Immediately After Riding,
-Universal,10/20/2016,Harry Potter and the Escape from Gringotts,Universal Studios,44,F,seizure (pre-existing-condition),Y,N,Not Specified,
-Universal,9/13/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,19,M,seizure (pre-existing-condition),Y,N,Not Specified,
-Universal,1/10/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,28,F,seizure (pre-existing-condition),Y,N,Not Specified,
-Universal,6/25/2016,Men In Black,Universal Studios,46,M,seizure (pre-existing-condition),Y,N,Not Specified,
-Disney World,12/23/2015,Dinosaur,Animal Kingdom,24,M,seizure after departing from attraction,N,N,Not Specified,
-Disney World,2/19/2013,The Barnstormer,Magic Kingdom,56,F,seizure like symptoms,N,N,Not Specified,
-Disney World,1/11/2006,Buzz Lightyears Space Ranger Spin,Magic Kingdom,56,M,Seizure.,N,N,Not Specified,
-Disney World,3/3/2007,Expedition Everest,Animal Kingdom,27,M,Seizure.,N,N,Not Specified,
-Disney World,1/25/2013,Mission: Space,Epcot,16,F,seizure/loss of consciousness,N,N,Not Specified,
-Disney World,6/21/2006,Expedition Everest,Animal Kingdom,60,M,Shortness of breath and chest pains.,N,N,Not Specified,
-Universal,8/15/2008,The Amazing Adventures of Spiderman,Islands of Adventure,16,M,shortness of breath with associated chest pain,N,N,Not Specified,
-Universal,8/5/2018,Jurassic Park River Adventure,Islands of Adventure,76,F,shoulder & wrist pain,N,N,Not Specified,
-Universal,12/24/2014,Poseidon's Fury,Islands of Adventure,82,F,shoulder pain,N,N,Not Specified,
-Disney World,6/16/2005,The Liberty Belle,Magic Kingdom,45,F,fainted and fell during Riverboat. Hurt ankle and knee,N,N,During or Immediately After Riding,
-Disney World,8/20/2016,Space Mountain,Magic Kingdom,59,M,stomach and chest pain,N,N,Not Specified,
-Disney World,10/5/2017,Big Thunder Mountain Railroad,Magic Kingdom,44,F,stomach pain,N,N,Not Specified,
-Disney World,2/28/2014,The Liberty Belle,Magic Kingdom,80,M,personal illness felt weakness during the riverboat,N,N,During or Immediately After Riding,
-Disney World,6/28/2014,The Magic Carpets of Aladdin,Magic Kingdom,8,F,loss of consciousness during ride; regained consciousness and was trasnported,N,N,During or Immediately After Riding,
-Disney World,10/22/2021,The Many Adventures of Winnie the Pooh,Magic Kingdom,20,F,had a seizure after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,3/29/2008,Expedition Everest,Animal Kingdom,72,M,stomach pain,N,N,Not Specified,
-Disney World,6/20/2019,The Seas with Nemo & Friends,Epcot,69,F,fell and fractured hip while boarding onto the attraction,N,N,While Boarding,
-Disney World,8/17/2014,The Seas with Nemo & Friends,Epcot,63,M,fell and struck face while assisting family member from vehicle; facial fractures.,N,N,While Unloading,
-Disney World,6/1/2010,Space Mountain,Magic Kingdom,71,F,stroke,N,N,Not Specified,
-Disney World,12/31/2010,The Seas with Nemo & Friends,Epcot,76,F,fell during moving walkway and injured her left leg.,N,N,During or Immediately After Riding,
-Disney World,3/13/2008,The Seas with Nemo & Friends,Epcot,71,F,Fell exiting vehicle; hit head and fractured left shoulder,N,N,While Unloading,
-Disney World,11/10/2007,The Seas with Nemo & Friends,Epcot,81,F,Fell while boarding the vehicle/back pain,N,N,While Boarding,
-Disney World,9/16/2018,The Seas with Nemo & Friends,Epcot,79,F,felt ill prior to and after riding the attraction,N,N,During or Immediately After Riding,
-Disney World,7/17/2003,Surf Pool,Typhoon Lagoon,46,M,stroke (according to family),N,N,Not Specified,
-Disney World,10/8/2003,Mission: Space,Epcot,55,M,sustained nausea during ride,N,N,During or Immediately After Riding,
-Universal,1/22/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,45,F,syncope,N,N,Not Specified,
-Universal,9/9/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,28,M,syncope,N,N,Not Specified,
-Universal,1/29/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,60,M,syncope,N,N,Not Specified,
-Disney World,5/16/2004,The Twilight Zone Tower of Terror,Hollywood Studios,62,M,chest pains after ride,N,N,During or Immediately After Riding,
-Universal,2/15/2021,The Incredible Hulk Coaster,Islands of Adventure,42,F,syncope,N,N,Not Specified,
-Universal,6/20/2017,The Incredible Hulk Coaster,Islands of Adventure,47,F,syncope,N,N,Not Specified,
-Disney World,12/2/2020,The Twilight Zone Tower of Terror,Hollywood Studios,38,F,had abdominal pain after riding attraction,N,N,During or Immediately After Riding,
-Universal,4/18/2011,The Incredible Hulk Coaster,Islands of Adventure,29,M,syncope,N,N,Not Specified,
-Disney World,1/5/2012,Surf Pool,Typhoon Lagoon,61,F,Temporarily loss of consciousness when another guest fell and knocked her down; pain in right knee/leg,N,N,Not Specified,
-Disney World,1/8/2006,Space Mountain,Magic Kingdom,6,M,"Terminally ill guest rode ride, later passed away at hospital",N,Y,Not Specified,
-Disney World,12/16/2017,Journey info Imagination with Figment,Epcot,65,F,tripped and fractured elbow,N,N,Not Specified,
-Universal,9/30/2015,Dragon Challenge,Islands of Adventure,59,M,unconscious,N,N,Not Specified,
-Universal,6/14/2020,Tai Nui Serpentine Body Slide,Volcano Bay,9,M,unresponsive,N,N,Not Specified,
-Universal,11/8/2007,Dragon Challenge,Islands of Adventure,16,M,Upper back pain.,N,N,Not Specified,
-Disney World,10/19/2007,The Twilight Zone Tower of Terror,Hollywood Studios,77,M,Fell ill after riding attraction  claimed memory loss and irregular heartbeat became ill after riding.,N,N,During or Immediately After Riding,
-Universal,1/1/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,79,F,upper leg pain,N,N,Not Specified,
-Universal,7/19/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,52,M,vertigo,N,N,Not Specified,
-Disney World,3/4/2014,Tomorrowland Speedway,Magic Kingdom,64,F,"fell while exiting vehicle, fractured fibula",N,N,While Unloading,
-Disney World,7/23/2019,Tomorrowland Speedway,Magic Kingdom,75,M,fell boarding onto the attraction; multiple abrasions and contusions,N,N,While Boarding,
-Disney World,10/1/2015,Tomorrowland Speedway,Magic Kingdom,64,M,injured ankle attempting to step out of the vehicle.,N,N,While Unloading,
-Disney World,9/6/2009,Tomorrowland Speedway,Magic Kingdom,7,M,fell after exiting vehicle and fractured arm.,N,N,While Unloading,
-Disney World,9/23/2022,Tomorrowland Speedway,Magic Kingdom,27,F,went into labor after exiting the attraction,N,N,After Exiting Attraction,
-Disney World,12/14/2009,Tomorrowland Speedway,Magic Kingdom,59,M,"felt dizzy,  tripped while exiting vehicle and injured his knee",N,N,While Unloading,
-Universal,9/12/2009,Dragon Challenge,Islands of Adventure,29,F,vomiting,N,N,Not Specified,
-Disney World,3/8/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,68,M,"fell while exiting, fractured shoulder",N,N,While Unloading,
-Disney World,2/9/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,80,M,dizziness and chest pain after riding,N,N,During or Immediately After Riding,
-Disney World,3/18/2013,Tomorrowland Transit Authority People Mover,Magic Kingdom,73,M,felt ill/lost consciousness after exiting ride.,N,N,After Exiting Attraction,
-Disney World,9/2/2022,Tomorrowland Transit Authority People Mover,Magic Kingdom,72,F,loss consciousness during the attraction,N,N,During or Immediately After Riding,
-Disney World,6/10/2021,Toy Story Midway Mania!,Hollywood Studios,58,F,felt dizzy and fell exiting the attraction,N,N,While Unloading,
-Disney World,12/3/2020,Toy Story Midway Mania!,Hollywood Studios,54,M,had a heart attack after having experienced the attraction,N,N,During or Immediately After Riding,
-Disney World,6/8/2018,Space Mountain,Magic Kingdom,69,F,was disoriented and unable to exit vehicle without assistance,N,N,During or Immediately After Riding,
-Universal,4/20/2014,E.T Adventure,Universal Studios,61,M,weakness,N,N,Not Specified,
-Universal,4/19/2018,Transformers: The Ride 3D,Universal Studios,49,M,weakness,N,N,Not Specified,
-Universal,1/1/2016,Flight of the Hippogriff,Islands of Adventure,43,F,weakness (pre-existing-condition),Y,N,Not Specified,
-Disney World,5/26/2008,Honey I Shrunk The Kids,Hollywood Studios,47,F,went down slide & fractured ankle,N,N,Not Specified,
-Disney World,6/2/2017,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,34,M,felt disoriented and fell after riding,N,N,During or Immediately After Riding,
-Disney World,7/4/2016,Walt Disney World Railroad,Magic Kingdom,41,M,felt ill and began shaking after exiting.,N,N,After Exiting Attraction,
-Disney World,6/13/2006,Kali River Rapids,Animal Kingdom,12,M,who was recently released from hospital and recovering from pneumonia fainted and fell on dock,N,N,Not Specified,
-Disney World,6/18/2022,Wildlife Express,Animal Kingdom,42,M,felt ill after riding the attraction,N,N,During or Immediately After Riding,
-,,,,,,,,,,
+﻿Incident_ID,Company,Incident_date,Ride_Name,Theme_Park,Age,Gender,Description,Pre-Existing-Condition,Passed Away,Before_During_After
+1,Universal,12/29/2001,Caro-Seuss-el,Islands of Adventure,52,F,broken arm,N,N,Not Specified
+2,Disney World,1/4/2002,The Twilight Zone Tower of Terror,Hollywood Studios,47,F," anxiety & claustrophobia, atrial fibrilation",N,N,Not Specified
+3,Universal,2/10/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,55,F,complained of lower back pain.,N,N,Not Specified
+4,Universal,3/22/2002,E.T Adventure,Universal Studios,13,M,injured right foot.,N,N,Not Specified
+5,Disney World,3/29/2002,Surf Pool,Typhoon Lagoon,16,F,c/o neck pain,N,N,Not Specified
+6,Disney World,7/7/2002,Spaceship Earth,Epcot,51,M,Asthma Attack,N,N,Not Specified
+7,Universal,10/11/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,62,M,complained of neck pain.,N,N,Not Specified
+8,Disney World,10/19/2002,Surf Pool,Typhoon Lagoon,48,M,saw spots,N,N,Not Specified
+9,Universal,11/7/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,36,F,fractured back.,N,N,Not Specified
+10,Disney World,3/2/2003,Space Mountain,Magic Kingdom,75,F,memory loss,N,N,Not Specified
+11,Disney World,3/28/2003,Ellen's Energy Adventure,Epcot,81,F,heart attack later passed away.,N,Y,Not Specified
+12,Universal,4/15/2003,Dr Doom's Fearfall,Islands of Adventure,9,F,laceration/tear genitalia,N,N,Not Specified
+13,Disney World,5/14/2003,Buzz Lightyears Space Ranger Spin,Magic Kingdom,12,F,lacerated ankle,N,N,Not Specified
+14,Disney World,6/24/2003,Dinosaur,Animal Kingdom,14,F,chest pain,N,N,Not Specified
+15,Disney World,6/29/2003,The Twilight Zone Tower of Terror,Hollywood Studios,45,F,chest pain,N,N,Not Specified
+16,Disney World,7/2/2003,Surf Pool,Typhoon Lagoon,31,F,fell on steps leading to catch pool fractured ankle and passed away of pulmonary embolism,N,Y,While Boarding
+17,Disney World,7/16/2003,The Liberty Belle,Magic Kingdom,83,F,fx pelvis,N,N,Not Specified
+18,Disney World,7/17/2003,Dinosaur,Animal Kingdom,64,F,passed out,N,N,After Exiting Attraction
+19,Disney World,7/17/2003,Surf Pool,Typhoon Lagoon,46,M,stroke (according to family),N,N,Not Specified
+20,Disney World,8/11/2003,The Liberty Belle,Magic Kingdom,71,F,fell & hit head.,N,N,Not Specified
+21,Disney World,10/8/2003,Mission: Space,Epcot,55,M,sustained nausea during ride,N,N,During or Immediately After Riding
+22,Disney World,10/21/2003,Mission: Space,Epcot,61,M,chest pain.,N,N,Not Specified
+23,Disney World,11/5/2003,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75,F,knee injury,N,N,Not Specified
+24,Disney World,11/17/2003,Mission: Space,Epcot,67,M,chest pain.,N,N,Not Specified
+25,Disney World,12/24/2003,Big Thunder Mountain Railroad,Magic Kingdom,23,M,knee,N,N,Not Specified
+26,Disney World,2/16/2004,Chair Lift,Blizzard Beach,41,F," injured ankle boarding raft, went to hospital",N,N,While Boarding
+27,Disney World,3/24/2004,Mission: Space,Epcot,59,F,Chest Pains,N,N,Not Specified
+28,Disney World,3/30/2004,Mission: Space,Epcot,59,M,Nausea,N,N,Not Specified
+29,Disney World,5/2/2004,Mission: Space,Epcot,68,F,didn't feel well,N,N,Not Specified
+30,Disney World,5/16/2004,The Twilight Zone Tower of Terror,Hollywood Studios,62,M,chest pains after ride,N,N,During or Immediately After Riding
+31,Universal,6/27/2004,Back to the Future,Universal Studios,67,F,Hypertension,N,N,Not Specified
+32,Disney World,7/4/2004,Surf Pool,Blizzard Beach,53,M,fractured elbow,N,N,Not Specified
+33,Disney World,7/16/2004,Mission: Space,Epcot,40,F,fainted during ride,N,N,During or Immediately After Riding
+34,Disney World,7/19/2004,Meltaway Bay,Blizzard Beach,11,M,seizure,N,N,Not Specified
+35,Disney World,7/22/2004,Great Movie Ride,Hollywood Studios,64,F,chest pains,N,N,Not Specified
+36,Universal,8/1/2004,Men In Black,Universal Studios,12,M,Fractured Toe,N,N,Not Specified
+37,Disney World,8/11/2004,Mission: Space,Epcot,50,M,Became dizzy and had upset stomach.,N,N,Not Specified
+38,Disney World,8/16/2004,Slush Gusher,Blizzard Beach,49,M,felt dizzy & sick,N,N,Not Specified
+39,Universal,9/21/2004,Revenge of the Mummy,Universal Studios,39,M,passed away,N,Y,Not Specified
+40,Disney World,11/30/2004,Buzz Lightyears Space Ranger Spin,Magic Kingdom,58,F,got sick during ride due to lights.,N,N,During or Immediately After Riding
+41,Disney World,12/7/2004,Cross County Creek,Blizzard Beach,33,F,seizure,N,N,Not Specified
+42,Disney World,12/19/2004,Big Thunder Mountain Railroad,Magic Kingdom,68,M,reported difficulty moving when leaving ride,N,N,While Unloading
+43,Disney World,12/24/2004,Space Mountain,Magic Kingdom,11,F,collapsed in queue line leading to ride. Child subsequently passed away at hospital.,N,Y,Not Specified
+44,Disney World,2/6/2005,Kali River Rapids,Animal Kingdom,45,F,fell from raft into flume at load area and hit head,N,N,Not Specified
+45,Disney World,2/13/2005,Pirates of the Caribbean,Magic Kingdom,77,F,lost consciousness after ride. Later passed away at hospital,N,Y,During or Immediately After Riding
+46,Universal,2/22/2005,The Incredible Hulk Coaster,Islands of Adventure,56,F,loss of consciousness.,N,N,Not Specified
+47,Disney World,3/8/2005,Ellen's Energy Adventure,Epcot,73,M,felt ill.,N,N,Not Specified
+48,Disney World,3/13/2005,Ellen's Energy Adventure,Epcot,52,M,not feeling well during ride.,N,N,During or Immediately After Riding
+49,Disney World,4/8/2005,Surf Pool,Typhoon Lagoon,12,F,"felt ill, later passed away at hospital.",N,Y,Not Specified
+50,Disney World,4/10/2005,Mission: Space,Epcot,51,M,reported on 10/07/05 that had not been feeling well since riding attraction three days prior,N,N,After Exiting Attraction
+51,Disney World,4/30/2005,Dinosaur,Animal Kingdom,30,M,"guest lost consciousness, parents indicated he had a pre-existing heart condition. Later passed away at hospital",Y,Y,Not Specified
+52,Disney World,6/8/2005,Mission: Space,Epcot,42,M,chest pain.,N,N,Not Specified
+53,Disney World,6/13/2005,Mission: Space,Epcot,4,M,child lost consciousness. Later passed away at hospital,N,Y,Not Specified
+54,Disney World,6/16/2005,The Liberty Belle,Magic Kingdom,45,F,fainted and fell during Riverboat. Hurt ankle and knee,N,N,During or Immediately After Riding
+55,Universal,8/16/2005,Revenge of the Mummy,Universal Studios,63,F,lower back pain.,N,N,Not Specified
+56,Disney World,8/31/2005,Surf Pool,Typhoon Lagoon,69,F,fell and fractured wrist.,N,N,Not Specified
+57,Universal,9/23/2005,Revenge of the Mummy,Universal Studios,57,F,Dizziness/Mild Chest Discomfort.,N,N,Not Specified
+58,Disney World,10/7/2005,Splash Mountain,Magic Kingdom,61,M,chest pain.,N,N,Not Specified
+59,Disney World,10/14/2005,Spaceship Earth,Epcot,65,F,fell exiting attraction reported complaints regarding shoulder and both wrists,N,N,While Unloading
+60,Universal,11/14/2005,Revenge of the Mummy,Universal Studios,68,F,Loss of Consciousness.,N,N,Not Specified
+61,Disney World,11/25/2005,Honey I Shrunk The Kids,Hollywood Studios,12,M,fell and hurt wrist.,N,N,Not Specified
+62,Disney World,12/7/2005,The Twilight Zone Tower of Terror,Hollywood Studios,16,F,felt ill.,N,N,Not Specified
+63,Disney World,1/8/2006,Space Mountain,Magic Kingdom,6,M,"Terminally ill guest rode ride, later passed away at hospital",N,Y,Not Specified
+64,Disney World,1/11/2006,Buzz Lightyears Space Ranger Spin,Magic Kingdom,56,M,Seizure.,N,N,Not Specified
+65,Disney World,2/14/2006,Peter Pan's Flight,Magic Kingdom,70,M,tripped and fell into the ride path as he attempted to board the attraction.,N,N,While Boarding
+66,Disney World,2/22/2006,Dumbo,Magic Kingdom,40Ã¢ÂÂs,M,Came off ride not feeling well.,N,N,During or Immediately After Riding
+67,Disney World,2/22/2006,Space Mountain,Magic Kingdom,56,F,Hip Pain.,N,N,Not Specified
+68,Disney World,3/3/2006,Surf Pool,Typhoon Lagoon,58,M,Loss of consciousness.,N,N,Not Specified
+69,Disney World,3/14/2006,Space Mountain,Magic Kingdom,61,M,Motion Sickness.,N,N,While Boarding
+70,Disney World,4/10/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,59,M,Headache and dizziness; transported from other park location approximately three hours after riding.,N,N,During or Immediately After Riding
+71,Universal,4/15/2006,Dragon Challenge,Islands of Adventure,47,F," Nausea, heartburn, chest pain, numb L arm",N,N,Not Specified
+72,Disney World,5/6/2006,Mad Tea Party,Magic Kingdom,62,F,Missed step and fell,N,N,Not Specified
+73,Disney World,6/2/2006,Summit Plummet,Blizzard Beach,25,M,Breathing problems.,N,N,Not Specified
+74,Disney World,6/13/2006,Kali River Rapids,Animal Kingdom,12,M,who was recently released from hospital and recovering from pneumonia fainted and fell on dock,N,N,Not Specified
+75,Disney World,6/14/2006,Space Mountain,Magic Kingdom,48,M,Chest pain.,N,N,Not Specified
+76,Disney World,6/21/2006,Peter Pan's Flight,Magic Kingdom,43,F,Fell boardingto ride; fractured hip.,N,N,While Boarding
+77,Disney World,6/21/2006,Expedition Everest,Animal Kingdom,60,M,Shortness of breath and chest pains.,N,N,Not Specified
+78,Disney World,6/28/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,F,Fell while boarding into vehicle; back injury,N,N,While Boarding
+79,Disney World,6/29/2006,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,12,M,Guest unresponsive; later passed away at hospital,N,Y,Not Specified
+80,Disney World,7/2/2006,The Twilight Zone Tower of Terror,Hollywood Studios,56,F,Felt Dizzy.,N,N,Not Specified
+81,Disney World,7/12/2006,Space Mountain,Magic Kingdom,73,M,Guest unresponsive after riding; passed away three days later due to heart condition.,Y,Y,During or Immediately After Riding
+82,Disney World,7/29/2006,Splash Mountain,Magic Kingdom,37,F,"recently released from hospital for lung condition,  reported chest pains and difficulty breathing.",Y,N,Not Specified
+83,Disney World,8/8/2006,Spaceship Earth,Epcot,7,F,visiting through wish granting Organization had seizure after riding.,N,N,During or Immediately After Riding
+84,Disney World,9/20/2006,Expedition Everest,Animal Kingdom,59,F,Felt disoriented and sick.,N,N,Not Specified
+85,Universal,9/26/2006,The Amazing Adventures of Spiderman,Islands of Adventure,67,M,Fainting,N,N,Not Specified
+86,Disney World,11/4/2006,Surf Pool,Typhoon Lagoon,50,M," Swallowed a lot of water, felt dizzy and shortness of breath",N,N,Not Specified
+87,Disney World,11/4/2006,Mission: Space,Epcot,49,F,Felt ill; passed away next day at hospital.,N,Y,Not Specified
+88,Disney World,11/15/2006,Mayday Falls,Typhoon Lagoon,74,M,Broken foot.,N,N,Not Specified
+89,Disney World,11/20/2006,Mission: Space,Epcot,59,M,hypertension felt ill day after riding,N,N,During or Immediately After Riding
+90,Disney World,12/18/2006,Test Track,Epcot,67,F,Fell exiting vehicle and fractured pelvis.,N,N,While Unloading
+91,Disney World,1/15/2007,Soarin' Around the World,Epcot,60,M,Guest had difficulty standing in exit area; passed away two days later due to stroke.,N,Y,While Unloading
+92,Disney World,2/5/2007,Crush n' Gusher,Blizzard Beach,17,M,Hit head on bottom of catch pool,N,N,Not Specified
+93,Disney World,3/3/2007,Expedition Everest,Animal Kingdom,27,M,Seizure.,N,N,Not Specified
+94,Disney World,3/9/2007,Gran Fiesta Tour Attraction,Epcot,56,M,Lost consciousness during ride.,N,N,During or Immediately After Riding
+95,Disney World,3/16/2007,Downhill Double Dipper,Blizzard Beach,52,M,It is unclear whether the guest rode this attraction. Guest collapsed adjacent to catch pool; later passed away,N,Y,Not Specified
+96,Disney World,4/6/2007,Downhill Double Dipper,Blizzard Beach,8,F,Back Pain.,N,N,Not Specified
+97,Disney World,5/19/2007,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,47,M,Chest pain; diagnosed with heart attack,N,N,Not Specified
+98,Disney World,6/23/2007,Space Mountain,Magic Kingdom,57,F,Dizzy and weakness in the left side.,N,N,Not Specified
+99,Universal,7/7/2007,Revenge of the Mummy,Universal Studios,70,F,general weakness after exiting ride.,N,N,After Exiting Attraction
+100,Disney World,7/16/2007,Kilimanjaro Safaris Expedition,Animal Kingdom,42,M," Jumped out of vehicle, broke left ankle",N,N,Not Specified
+101,Universal,7/17/2007,Camp Jurassic,Islands of Adventure,14,F,Fractured arm.,N,N,Not Specified
+102,Disney World,7/19/2007,Mission: Space,Epcot,63,M,history of high blood pressure. Became ill after riding,N,N,During or Immediately After Riding
+103,Disney World,7/29/2007,Peter Pan's Flight,Magic Kingdom,68,F,Fell and fractured legs and arms.,N,N,Not Specified
+104,Universal,8/19/2007,Revenge of the Mummy,Universal Studios,57,M,Chest pain.,N,N,Not Specified
+105,Disney World,10/2/2007,Haunted Mansion,Magic Kingdom,89,F,fell exiting attraction,N,N,While Unloading
+106,Disney World,10/19/2007,The Twilight Zone Tower of Terror,Hollywood Studios,77,M,Fell ill after riding attraction  claimed memory loss and irregular heartbeat became ill after riding.,N,N,During or Immediately After Riding
+107,Universal,11/8/2007,Dragon Challenge,Islands of Adventure,16,M,Upper back pain.,N,N,Not Specified
+108,Disney World,11/10/2007,The Seas with Nemo & Friends,Epcot,81,F,Fell while boarding the vehicle/back pain,N,N,While Boarding
+109,Universal,11/18/2007,Revenge of the Mummy,Universal Studios,34,F,Lower back vertebrae fracture,N,N,Not Specified
+110,Disney World,12/18/2007,Expedition Everest,Animal Kingdom,44,M,history of heart condition was unconscious at unload and passed away,Y,Y,Not Specified
+111,Disney World,1/1/2008,Cross County Creek,Blizzard Beach,48,M,jumped into creek and fractured ankle,N,N,Not Specified
+112,Universal,1/11/2008,The Simpsons Ride,Universal Studios,68,M,chest pain,N,N,Not Specified
+113,Universal,1/31/2008,The Cat In The Hat,Islands of Adventure,32,F,Nausea,N,N,Not Specified
+114,Disney World,2/2/2008,Mad Tea Party,Magic Kingdom,72,F," Fell exiting ride, fractured hip",N,N,While Unloading
+115,Universal,2/29/2008,The Incredible Hulk Coaster,Islands of Adventure,28,F,Seizure,N,N,Not Specified
+116,Disney World,3/13/2008,The Seas with Nemo & Friends,Epcot,71,F,Fell exiting vehicle; hit head and fractured left shoulder,N,N,While Unloading
+117,Disney World,3/14/2008,Big Thunder Mountain Railroad,Magic Kingdom,39,M,Seizure after exiting ride,N,N,After Exiting Attraction
+118,Disney World,3/29/2008,Expedition Everest,Animal Kingdom,72,M,stomach pain,N,N,Not Specified
+119,Disney World,4/10/2008,Peter Pan's Flight,Magic Kingdom,43,M,Seizure,N,N,Not Specified
+120,Disney World,4/27/2008,Splash Mountain,Magic Kingdom,65,M,chest pain,N,N,Not Specified
+121,Disney World,5/3/2008,Expedition Everest,Animal Kingdom,72,F,Complained of dizziness and loss of memory after riding,N,N,During or Immediately After Riding
+122,Disney World,5/4/2008,The Twilight Zone Tower of Terror,Hollywood Studios,32,M," neck & head pain, diagnosed with existing brain tumor",N,N,Not Specified
+123,Disney World,5/6/2008,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,25,F,seizure,N,N,Not Specified
+124,Disney World,5/17/2008,Expedition Everest,Animal Kingdom,57,M,felt hot & dizzy,N,N,Not Specified
+125,Disney World,5/19/2008,Great Movie Ride,Hollywood Studios,54,M," felt ill, possible heart attack",N,N,Not Specified
+126,Universal,5/24/2008,Revenge of the Mummy,Universal Studios,45,M,chest pain/nausea,N,N,Not Specified
+127,Disney World,5/26/2008,Honey I Shrunk The Kids,Hollywood Studios,47,F,went down slide & fractured ankle,N,N,Not Specified
+128,Disney World,6/7/2008,It's A Small World,Magic Kingdom,55,M,difficulty breathing,N,N,Not Specified
+129,Disney World,6/16/2008,Expedition Everest,Animal Kingdom,78,M,felt ill before & after riding ride; trouble breathing & blurred vision,N,N,During or Immediately After Riding
+130,Disney World,6/19/2008,Haunted Mansion,Magic Kingdom,57,F,hit right knee boarding vehicle,N,N,While Boarding
+131,Disney World,7/15/2008,Mad Tea Party,Magic Kingdom,56,M,felt dizzy and sick,N,N,While Unloading
+132,Disney World,7/25/2008,Dinosaur,Animal Kingdom,73,M,pre-existing heart condition reported chest pain,Y,N,Not Specified
+133,Disney World,7/29/2008,Haunted Mansion,Magic Kingdom,68,F,fell after exiting vehicle and fractured shoulder,N,N,While Unloading
+134,Disney World,7/30/2008,The Twilight Zone Tower of Terror,Hollywood Studios,62,M,felt disoriented and dizzy,N,N,Not Specified
+135,Disney World,8/5/2008,Snow White's Scary Adventures,Magic Kingdom,6,F,seizure,N,N,Not Specified
+136,Disney World,8/14/2008,Teamboat Springs,Blizzard Beach,41,F,slipped while boarding tube; fractured ankle,N,N,While Boarding
+137,Universal,8/15/2008,The Amazing Adventures of Spiderman,Islands of Adventure,16,M,shortness of breath with associated chest pain,N,N,Not Specified
+138,Disney World,8/21/2008,Mission: Space,Epcot,42,F,felt dizzy and sick,N,N,Not Specified
+139,Universal,9/8/2008,Dragon Challenge,Islands of Adventure,46,M," chest pain,  shortness of breath and nausea",N,N,Not Specified
+140,Disney World,9/8/2008,Buzz Lightyears Space Ranger Spin,Magic Kingdom,54,M," fell after exiting ride, fractured hip",N,N,After Exiting Attraction
+141,Disney World,10/24/2008,Space Mountain,Magic Kingdom,65,M,Dizzy and disoriented,N,N,Not Specified
+142,Disney World,11/21/2008,It's A Small World,Magic Kingdom,55,M,Seizure,N,N,Not Specified
+143,Disney World,12/12/2008,The Twilight Zone Tower of Terror,Hollywood Studios,41,F,Numbness in right leg,N,N,Not Specified
+144,Disney World,12/16/2008,Splash Mountain,Magic Kingdom,61,M,Fall occurred while boarding vehicles; fractured leg,N,N,While Boarding
+145,Disney World,12/22/2008,Kilimanjaro Safaris Expedition,Animal Kingdom,51,F,seizure,N,N,Not Specified
+146,Disney World,12/28/2008,Tomorrowland Speedway,Magic Kingdom,79,F,Felt dizzy and hot; loss of consciousness,N,N,Not Specified
+147,Disney World,1/31/2009,Haunted Mansion,Magic Kingdom,56,M,chest pain,N,N,Not Specified
+148,Disney World,1/31/2009,Snow White's Scary Adventures,Magic Kingdom,46,F,exited vehicle and claims to have lost consciousness,N,N,During or Immediately After Riding
+149,Disney World,2/8/2009,Expedition Everest,Animal Kingdom,66,M,felt ill,N,N,Not Specified
+150,Universal,3/13/2009,E.T Adventure,Universal Studios,68,M,Left arm numbness,N,N,Not Specified
+151,Disney World,3/18/2009,Space Mountain,Magic Kingdom,75,F,Felt light headed; nausea,N,N,Not Specified
+152,Disney World,4/7/2009,Splash Mountain,Magic Kingdom,57,F," passed out after riding and exiting attraction,  hit head on concrete floor and fractured skull.",N,N,During or Immediately After Riding
+153,Disney World,4/13/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48,M,feeling weak on left side and had trouble standing after riding.,N,N,During or Immediately After Riding
+154,Disney World,4/13/2009,Splash Mountain,Magic Kingdom,39,M,seizure,N,N,Not Specified
+155,Disney World,4/16/2009,Teamboat Springs,Blizzard Beach,64,F,Felt disoriented and lightheaded,N,N,Not Specified
+156,Disney World,5/21/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,M,Chest pains,N,N,Not Specified
+157,Disney World,6/18/2009,Toboggan Racers,Blizzard Beach,43,F,Felt pain in abdomen and chest,N,N,Not Specified
+158,Disney World,6/19/2009,Mission: Space,Epcot,57,F,loss of consciousness,N,N,Not Specified
+159,Disney World,6/23/2009,Ellen's Energy Adventure,Epcot,57,M,Felt dizzy.,N,N,Not Specified
+160,Disney World,6/25/2009,Storm Slide-Rudder Buster,Typhoon Lagoon,66,M,fractured ribs after collision with another guest.,N,N,Not Specified
+161,Disney World,7/6/2009,Storm Slide-Rudder Buster,Typhoon Lagoon,52,F,felt disoriented and sick after riding.,N,N,During or Immediately After Riding
+162,Disney World,7/17/2009,Peter Pan's Flight,Magic Kingdom,74,F," lost balance on unload belt,  fell and hit head and fractured wrist",N,N,While Unloading
+163,Disney World,7/27/2009,Star Tours: The Adventure Continues,Hollywood Studios,54,M,Seizure after exiting ride.,N,N,After Exiting Attraction
+164,Disney World,8/6/2009,Soarin' Around the World,Epcot,69,F,felt pain in side earlier in day; reported it was worse after riding.,N,N,During or Immediately After Riding
+165,Disney World,8/15/2009,Test Track,Epcot,40,M,fell while exiting vehicle and broke right wrist.,N,N,While Unloading
+166,Disney World,9/6/2009,Tomorrowland Speedway,Magic Kingdom,7,M,fell after exiting vehicle and fractured arm.,N,N,While Unloading
+167,Universal,9/12/2009,Dragon Challenge,Islands of Adventure,29,F,vomiting,N,N,Not Specified
+168,Disney World,9/17/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,31,F,seizure after exiting ride,N,N,After Exiting Attraction
+169,Disney World,9/19/2009,Mission: Space,Epcot,52,F," felt dizzy, loss of memory",N,N,Not Specified
+170,Disney World,9/21/2009,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,F,chest pains and shortness of breath,N,N,Not Specified
+171,Disney World,10/12/2009,Dinosaur,Animal Kingdom,61,F,seizure,N,N,Not Specified
+172,Disney World,10/20/2009,Expedition Everest,Animal Kingdom,27,M,seizure,N,N,Not Specified
+173,Universal,10/31/2009,Hollywood Rip Ride Rocket,Universal Studios,40,M,chest pain,N,N,Not Specified
+174,Disney World,11/2/2009,Spaceship Earth,Epcot,59,M,chest pain,N,N,Not Specified
+175,Disney World,11/3/2009,Toboggan Racers,Blizzard Beach,67,M,Cervical injury after collision near end of slide,N,N,During or Immediately After Riding
+176,Disney World,11/5/2009,Expedition Everest,Animal Kingdom,77,M,felt lightheaded and weak,N,N,Not Specified
+177,Disney World,11/16/2009,Star Tours: The Adventure Continues,Hollywood Studios,74,M," felt dizzy,  later fainted and fell and struck his head",N,N,Not Specified
+178,Disney World,12/3/2009,Astro Orbiter,Magic Kingdom,40,F,fractured left ankle exiting ride,N,N,While Unloading
+179,Disney World,12/14/2009,Tomorrowland Speedway,Magic Kingdom,59,M,"felt dizzy,  tripped while exiting vehicle and injured his knee",N,N,While Unloading
+180,Disney World,1/3/2010,Kali River Rapids,Animal Kingdom,47,M,pre-existing heart condition felt numbness on right side of body,Y,N,Not Specified
+181,Disney World,2/1/2010,Dinosaur,Animal Kingdom,40,F,chest pain: anxiety,N,N,Not Specified
+182,Disney World,2/8/2010,Dinosaur,Animal Kingdom,45,M,seizure,N,N,Not Specified
+183,Disney World,3/8/2010,Surf Pool,Typhoon Lagoon,77,F,loss of consciousness: pre-existing heart condition,Y,N,Not Specified
+184,Disney World,3/13/2010,Test Track,Epcot,63,M," felt dizzy and ill, nose bleed",N,N,Not Specified
+185,Disney World,4/6/2010,Expedition Everest,Animal Kingdom,74,M,felt dizzy and ill,N,N,Not Specified
+186,Disney World,4/13/2010,Mad Tea Party,Magic Kingdom,68,F,fell exiting vehicle; fractured hip,N,N,While Unloading
+187,Universal,4/24/2010,Hollywood Rip Ride Rocket,Universal Studios,36,M,back pain,N,N,Not Specified
+188,Disney World,5/4/2010,Spaceship Earth,Epcot,68,F,chest pain,N,N,Not Specified
+189,Disney World,5/18/2010,Expedition Everest,Animal Kingdom,54,M," felt ill, difficulty breathing; later had heart attack",N,N,Not Specified
+190,Universal,5/22/2010,Hollywood Rip Ride Rocket,Universal Studios,45,F,back pain,N,N,Not Specified
+191,Disney World,5/23/2010,Kilimanjaro Safaris Expedition,Animal Kingdom,65,M,chest pain,N,N,Not Specified
+192,Disney World,5/24/2010,Mad Tea Party,Magic Kingdom,61,F," fell exiting vehicle, left arm fracture",N,N,While Unloading
+193,Disney World,6/1/2010,Space Mountain,Magic Kingdom,71,F,stroke,N,N,Not Specified
+194,Disney World,6/4/2010,Kilimanjaro Safaris Expedition,Animal Kingdom,72,F,seizure,N,N,Not Specified
+195,Disney World,6/6/2010,Mission: Space,Epcot,27,M,Felt ill,N,N,Not Specified
+196,Disney World,6/26/2010,Castaway Creek,Blizzard Beach,54,F,Lost balance and fell; fractured tibia,N,N,Not Specified
+197,Disney World,8/2/2010,Mission: Space,Epcot,45,M," vomiting,  vertigo and felt rapid heart rate",N,N,Not Specified
+198,Disney World,8/8/2010,Expedition Everest,Animal Kingdom,51,M,chest pain,N,N,Not Specified
+199,Disney World,8/13/2010,Mission: Space,Epcot,54,F,felt ill: chest pain,N,N,Not Specified
+200,Disney World,8/23/2010,Storm Slide-Rudder Buster,Typhoon Lagoon,39,M,complained of head pain and collapsed: subsequent stroke at hospital,N,N,Not Specified
+201,Universal,8/25/2010,Camp Jurassic,Islands of Adventure,34,F,fractured ankle,N,N,Not Specified
+202,Disney World,9/14/2010,Buzz Lightyears Space Ranger Spin,Magic Kingdom,73,F,fell on moving walkway in load area: fractured spine.,N,N,While Boarding
+203,Disney World,9/23/2010,Expedition Everest,Animal Kingdom,72,F,felt dizzy and ill,N,N,Not Specified
+204,Disney World,11/10/2010,Prince Charming Regal Carousel,Magic Kingdom,71,F,fell and fractured hip and shoulder while ride was stopped.,N,N,During or Immediately After Riding
+205,Disney World,12/12/2010,Prince Charming Regal Carousel,Magic Kingdom,77,F,pre-existing-conditions (i.e. heart condition prior stroke) felt ill while riding attraction  collapsed after exiting and subsequently passed away.,Y,Y,After Exiting Attraction
+206,Disney World,12/31/2010,The Seas with Nemo & Friends,Epcot,76,F,fell during moving walkway and injured her left leg.,N,N,During or Immediately After Riding
+207,Universal,1/29/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,60,M,syncope,N,N,Not Specified
+208,Universal,2/28/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,Chest pain,N,N,Not Specified
+209,Universal,3/10/2011,Hollywood Rip Ride Rocket,Universal Studios,43,F,motion sickness,N,N,During or Immediately After Riding
+210,Disney World,3/17/2011,Ellen's Energy Adventure,Epcot,77,M,Report of possible heart attack for pre-existing heart condition,Y,N,Not Specified
+211,Disney World,3/24/2011,Honey I Shrunk The Kids,Hollywood Studios,8,M,fell; hit head; back pain,N,N,Not Specified
+212,Universal,4/18/2011,The Incredible Hulk Coaster,Islands of Adventure,29,M,syncope,N,N,Not Specified
+213,Disney World,4/28/2011,Space Mountain,Magic Kingdom,47,F," felt nauseous, dizzy and short of breath",N,N,Not Specified
+214,Disney World,5/13/2011,Surf Pool,Typhoon Lagoon,47,F,fell and fractured left leg,N,N,Not Specified
+215,Disney World,5/15/2011,Space Mountain,Magic Kingdom,12,F,history of asthma came into unload area unresponsive: regained consciousness and was transported to hospital,N,N,During or Immediately After Riding
+216,Disney World,5/18/2011,Expedition Everest,Animal Kingdom,33,F,felt dizzy and ill,N,N,Not Specified
+217,Disney World,5/21/2011,Space Mountain,Magic Kingdom,48,F,came into unload area unconscious: later diagnosed with subarachnoid hemorrhage at hospital,N,N,During or Immediately After Riding
+218,Disney World,5/23/2011,Mission: Space,Epcot,53,F,history of vertigo felt dizzy and ill,N,N,Not Specified
+219,Disney World,6/2/2011,Splash Mountain,Magic Kingdom,29,F,prior history of anaphylactic reactions began experiencing symptoms during the attraction.,N,N,During or Immediately After Riding
+220,Disney World,6/3/2011,Peter Pan's Flight,Magic Kingdom,75,F,fell on moving walkway in load area; fractured knee,N,N,While Boarding
+221,Disney World,7/16/2011,Mayday Falls,Typhoon Lagoon,42,F,injured ankle,N,N,Not Specified
+222,Disney World,7/16/2011,Castaway Creek,Blizzard Beach,18,F,loss of consciousness and seizure like symptoms.,N,N,Not Specified
+223,Disney World,7/19/2011,Mission: Space,Epcot,57,F,pre-existing health condition felt ill after exiting attraction & temporarily lost consciousness.,Y,N,After Exiting Attraction
+224,Universal,7/19/2011,Harry Potter and the Forbidden Journey,Islands of Adventure,52,M,vertigo,N,N,Not Specified
+225,Universal,7/25/2011,Caro-Seuss-el,Islands of Adventure,80,M,general illness,N,N,Not Specified
+226,Universal,7/31/2011,Dragon Challenge,Islands of Adventure,48,M,eye discomfort,N,N,Not Specified
+227,Universal,8/4/2011,Revenge of the Mummy,Universal Studios,73,F,nausea lightheadedness,N,N,Not Specified
+228,Disney World,9/8/2011,Haunted Mansion,Magic Kingdom,66,F," fell on moving walkway while boarding, fractured leg",N,N,While Boarding
+229,Disney World,9/8/2011,Star Tours: The Adventure Continues,Hollywood Studios,16,F,pre-existing-condition had a seizure.,Y,N,Not Specified
+230,Disney World,9/21/2011,Prince Charming Regal Carousel,Magic Kingdom,66,F," fell while stepping off the carousel platform, fractured leg",N,N,While Unloading
+231,Disney World,10/7/2011,Expedition Everest,Animal Kingdom,61,M,"pre-existing heart condition, felt ill",Y,N,Not Specified
+232,Universal,10/10/2011,Men In Black,Universal Studios,79,M,dizziness & syncope,N,N,Not Specified
+233,Disney World,10/25/2011,Storm Slide-Rudder Buster,Typhoon Lagoon,48,M,fell and fractured ankle,N,N,Not Specified
+234,Disney World,10/31/2011,Toy Story Midway Mania!,Hollywood Studios,73,M,pre-existing health condition fell near restrooms after exiting ride & struck his head,Y,N,After Exiting Attraction
+235,Disney World,11/19/2011,Space Mountain,Magic Kingdom,43,F,nausea and dizziness,N,N,Not Specified
+236,Disney World,11/20/2011,Toy Story Midway Mania!,Hollywood Studios,87,M,felt ill,N,N,Not Specified
+237,Disney World,12/29/2011,Expedition Everest,Animal Kingdom,71,M," not feeling well riding attraction, blocked arteries",N,N,During or Immediately After Riding
+238,Disney World,1/5/2012,Surf Pool,Typhoon Lagoon,61,F,Temporarily loss of consciousness when another guest fell and knocked her down; pain in right knee/leg,N,N,Not Specified
+239,Disney World,1/11/2012,Pirates of the Caribbean,Magic Kingdom,71,F," dizziness, chest pain, mouth numbness",N,N,Not Specified
+240,Disney World,1/31/2012,The Seas with Nemo & Friends,Epcot,78,M,felt ill; subsequently diagnosed with heart attack,N,N,Not Specified
+241,Universal,2/4/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,67,F,motion sickness,N,N,During or Immediately After Riding
+242,Disney World,2/9/2012,Space Mountain,Magic Kingdom,80,M,lost consciousness after exiting attraction subsequently diagnosed with a heart attack,N,N,After Exiting Attraction
+243,Disney World,2/13/2012,Mission: Space,Epcot,56,M,pre-existing health condition felt ill after ride; heart attack,Y,N,During or Immediately After Riding
+244,Disney World,2/18/2012,Dinosaur,Animal Kingdom,36,F,seizure after riding,N,N,During or Immediately After Riding
+245,Disney World,2/25/2012,Prince Charming Regal Carousel,Magic Kingdom,68,F,felt ill while boarding attraction; fractured hip & leg,N,N,While Boarding
+246,Disney World,2/29/2012,Prince Charming Regal Carousel,Magic Kingdom,65,F,felt ill while exiting attraction; fractured arm,N,N,While Unloading
+247,Universal,3/3/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,71,F,motion sickness,N,N,During or Immediately After Riding
+248,Disney World,3/23/2012,Jungle Cruise,Magic Kingdom,40,F,fell while stepping into boat & fractured fibula. Passed away of pulmonary embolism on 4/7/12.,N,Y,While Boarding
+249,Disney World,3/28/2012,Maelstrom,Epcot,41,M,seizure,N,N,Not Specified
+250,Universal,3/31/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,71,M,motion sickness,N,N,During or Immediately After Riding
+251,Disney World,5/7/2012,Carousel of Progress,Magic Kingdom,62,F," tripped while approaching seat, fractured femur",N,N,While Boarding
+252,Disney World,5/8/2012,Big Thunder Mountain Railroad,Magic Kingdom,62,F,pre-existing-condition complained of pain in leg upon leaving later diagnosed with a blood clot,Y,N,Not Specified
+253,Disney World,5/17/2012,Spaceship Earth,Epcot,55,F,Seizure,N,N,Not Specified
+254,Disney World,5/25/2012,Crush n' Gusher,Blizzard Beach,45,F,Chest pain,N,N,Not Specified
+255,Disney World,6/15/2012,Spaceship Earth,Epcot,49,M,pre-existing health condition felt ill after riding,Y,N,During or Immediately After Riding
+256,Disney World,6/29/2012,Mayday Falls,Typhoon Lagoon,48,M,pre-existing-condition felt chest pain after riding,Y,N,During or Immediately After Riding
+257,Disney World,7/3/2012,Soarin' Around the World,Epcot,56,F,chest pain,N,N,Not Specified
+258,Disney World,7/7/2012,Storm Slide-Rudder Buster,Typhoon Lagoon,52,M,fractured leg after entering catch pool,N,N,While Boarding
+259,Disney World,7/10/2012,Ellen's Energy Adventure,Epcot,88,F,chest pain,N,N,Not Specified
+260,Universal,7/23/2012,Revenge of the Mummy,Universal Studios,50,F,knee pain,N,N,Not Specified
+261,Disney World,7/24/2012,Mission: Space,Epcot,62,M,pacemaker stated he felt a shock through his shoulders when fastening his restraint,N,N,While Boarding
+262,Disney World,7/24/2012,Downhill Double Dipper,Blizzard Beach,18,F,pre-existing-condition had a seizure,Y,N,Not Specified
+263,Universal,7/29/2012,The Incredible Hulk Coaster,Islands of Adventure,18,F,chest pain,N,N,Not Specified
+264,Disney World,8/4/2012,Space Mountain,Magic Kingdom,57,M,pre-existing health condition (asthma) temporarily lost consciousness; released,Y,N,Not Specified
+265,Disney World,8/26/2012,Surf Pool,Typhoon Lagoon,54,M,guest collapsed in water subsequently Passed away from heart attack,N,Y,During or Immediately After Riding
+266,Disney World,8/31/2012,Star Tours: The Adventure Continues,Hollywood Studios,51,M,dizziness neck pain and motion sickness,N,N,During or Immediately After Riding
+267,Disney World,9/3/2012,Space Mountain,Magic Kingdom,49,F,"while boarding ride vehicle, fractured leg",N,N,While Boarding
+268,Disney World,9/6/2012,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51,M,Loss of consciousness during ride; regained consciousness before exiting,N,N,During or Immediately After Riding
+269,Disney World,9/7/2012,The Twilight Zone Tower of Terror,Hollywood Studios,25,F," felt dizzy, numbness/pain in arms",N,N,Not Specified
+270,Universal,9/13/2012,Hollywood Rip Ride Rocket,Universal Studios,40,M,chest pain,N,N,Not Specified
+271,Disney World,10/3/2012,Kilimanjaro Safaris Expedition,Animal Kingdom,75,F,pre-existing health condition felt nauseated & had chest pain,Y,N,Not Specified
+272,Universal,11/1/2012,Harry Potter and the Forbidden Journey,Islands of Adventure,54,M,motion sickness,N,N,During or Immediately After Riding
+273,Universal,11/7/2012,Dragon Challenge,Islands of Adventure,17,F,lowered level of consciousness,N,N,Not Specified
+274,Disney World,11/13/2012,Jungle Cruise,Magic Kingdom,69,F," fell while stepping into boat, fractured hip",N,N,While Boarding
+275,Universal,12/2/2012,Caro-Seuss-el,Islands of Adventure,62,F,head laceration,N,N,Not Specified
+276,Disney World,12/11/2012,Gran Fiesta Tour Attraction,Epcot,70,F,lost balance & fell from seat,N,N,Not Specified
+277,Disney World,12/29/2012,Space Mountain,Magic Kingdom,40,M," loss of consciousness during ride, pre-existing-condition",Y,N,During or Immediately After Riding
+278,Disney World,12/30/2012,Ellen's Energy Adventure,Epcot,76,M,"loss of consciousness during ride,  pre-existing-condition",Y,N,During or Immediately After Riding
+279,Disney World,1/14/2013,Space Mountain,Magic Kingdom,54,M,motion sickness/fainted during and after ride.,N,N,During or Immediately After Riding
+280,Universal,1/22/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,45,F,syncope,N,N,Not Specified
+281,Disney World,1/24/2013,Star Tours: The Adventure Continues,Hollywood Studios,41,M,pre-existing health condition experienced nausea and chest pain after ride,Y,N,During or Immediately After Riding
+282,Disney World,1/25/2013,Mission: Space,Epcot,16,F,seizure/loss of consciousness,N,N,Not Specified
+283,Universal,2/1/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,69,F,dizziness,N,N,Not Specified
+284,Disney World,2/19/2013,The Barnstormer,Magic Kingdom,56,F,seizure like symptoms,N,N,Not Specified
+285,Disney World,2/23/2013,Mission: Space,Epcot,34,F,fainted after ride,N,N,Not Specified
+286,Disney World,3/3/2013,Haunted Mansion,Magic Kingdom,79,F," fell stepping onto moving walkway, fractured leg and dislocated ankle",N,N,While Boarding
+287,Universal,3/18/2013,Men In Black,Universal Studios,41,F,hermatemesis,N,N,Not Specified
+288,Disney World,3/18/2013,Tomorrowland Transit Authority People Mover,Magic Kingdom,73,M,felt ill/lost consciousness after exiting ride.,N,N,After Exiting Attraction
+289,Universal,5/15/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,61,F,headache,N,N,Not Specified
+290,Disney World,5/17/2013,Kali River Rapids,Animal Kingdom,36,F,pre-existing-condition suffered a seizure,Y,N,Not Specified
+291,Disney World,5/30/2013,Space Mountain,Magic Kingdom,56,M," dizziness,  chest pain, lower abdominal pain",N,N,Not Specified
+292,Universal,6/23/2013,Hollywood Rip Ride Rocket,Universal Studios,41,M,chest pain,N,N,Not Specified
+293,Universal,7/5/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,chest pain,N,N,Not Specified
+294,Universal,7/7/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,66,F,hip & pelvis pain,N,N,Not Specified
+295,Disney World,7/11/2013,Buzz Lightyears Space Ranger Spin,Magic Kingdom,48,M,felt ill after riding,N,N,During or Immediately After Riding
+296,Universal,7/12/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,40,M,fainting,N,N,Not Specified
+297,Disney World,7/24/2013,Humunga Kowabunga,Typhoon Lagoon,43,F,laceration,N,N,Not Specified
+298,Disney World,7/24/2013,Carousel of Progress,Magic Kingdom,1,F,pre-existing-condition had difficulty breathing,Y,N,Not Specified
+299,Universal,7/31/2013,Men In Black,Universal Studios,22,F,abdominal pain,N,N,While Unloading
+300,Disney World,8/26/2013,Space Mountain,Magic Kingdom,26,F,nausea vomiting & neck pain; reportedly underwent surgery to the head prior to being released from hospital,N,N,Not Specified
+301,Disney World,9/1/2013,Surf Pool,Typhoon Lagoon,67,F,fell and fractured left leg,N,N,Not Specified
+302,Universal,9/13/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,19,M,seizure (pre-existing-condition),Y,N,Not Specified
+303,Disney World,9/29/2013,Kali River Rapids,Animal Kingdom,39,M,seizure,N,N,Not Specified
+304,Disney World,10/6/2013,Haunted Mansion,Magic Kingdom,62,M,pre-existing-condition suffered from chest pain,Y,N,Not Specified
+305,Disney World,10/10/2013,Castaway Creek,Blizzard Beach,68,M,fractured toe on outer wall,N,N,Not Specified
+306,Disney World,10/13/2013,Mad Tea Party,Magic Kingdom,75,F,"fell while exiting, fractured wrist",N,N,While Unloading
+307,Universal,10/17/2013,Terminator 2: 3D,Universal Studios,68,F,abdominal pain,N,N,Not Specified
+308,Universal,10/18/2013,Dragon Challenge,Islands of Adventure,67,F,presented with confusion,N,N,Not Specified
+309,Universal,10/29/2013,Disaster,Universal Studios,61,F,presented with confusion,N,N,Not Specified
+310,Universal,11/13/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,51,M,motion sickness,N,N,During or Immediately After Riding
+311,Disney World,12/2/2013,Spaceship Earth,Epcot,56,M,felt ill and appeared incoherent,N,N,Not Specified
+312,Universal,12/16/2013,Harry Potter and the Forbidden Journey,Islands of Adventure,70,M,chest pain,N,N,Not Specified
+313,Disney World,12/28/2013,Expedition Everest,Animal Kingdom,29,F,felt ill & disoriented with slurred speech,N,N,Not Specified
+314,Disney World,12/31/2013,Haunted Mansion,Magic Kingdom,35,M,pre-existing-condition felt chest pain prior to and after riding,Y,N,During or Immediately After Riding
+315,Universal,1/1/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,79,F,upper leg pain,N,N,Not Specified
+316,Disney World,1/3/2014,Buzz Lightyears Space Ranger Spin,Magic Kingdom,71,F,fell while exiting; fractured hip,N,N,While Unloading
+317,Universal,1/10/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,22,M,nausea (pre-existing-condition),Y,N,Not Specified
+318,Disney World,1/12/2014,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,F,experienced nausea and motion sickness,N,N,During or Immediately After Riding
+319,Disney World,1/16/2014,Expedition Everest,Animal Kingdom,65,M,pre-existing-condition felt light headed after exiting ride,Y,N,After Exiting Attraction
+320,Universal,1/20/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,47,M,lowered level of consciousness,N,N,Not Specified
+321,Disney World,1/26/2014,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,3,F,pre-existing-condition had seizure after riding,Y,N,During or Immediately After Riding
+322,Disney World,2/7/2014,The Twilight Zone Tower of Terror,Hollywood Studios,18,F,pre-existing-condition experienced anxiety & numbness,Y,N,Not Specified
+323,Disney World,2/12/2014,Big Thunder Mountain Railroad,Magic Kingdom,63,F,"pre-existing health conditions experienced headache & loss of consciousness after riding,  subsequently underwent surgery for aneurysm and released from hospital",Y,N,During or Immediately After Riding
+324,Disney World,2/28/2014,The Liberty Belle,Magic Kingdom,80,M,personal illness felt weakness during the riverboat,N,N,During or Immediately After Riding
+325,Disney World,3/3/2014,Space Mountain,Magic Kingdom,16,F,pre-existing-condition experienced periods of unconsciousness,Y,N,Not Specified
+326,Disney World,3/4/2014,Tomorrowland Speedway,Magic Kingdom,64,F,"fell while exiting vehicle, fractured fibula",N,N,While Unloading
+327,Disney World,3/8/2014,Studio Backlot Tour,Hollywood Studios,53,F,temporarily lost consciousness while transferring from wheelchair into ride vehicle.,N,N,While Boarding
+328,Universal,3/14/2014,The Incredible Hulk Coaster,Islands of Adventure,40,M,dizziness,N,N,Not Specified
+329,Disney World,3/15/2014,Dinosaur,Animal Kingdom,73,F,chest pain,N,N,Not Specified
+330,Disney World,4/8/2014,Expedition Everest,Animal Kingdom,58,F,felt lightheaded & fell injuring right knee & arm; brief loss of consciousness.,N,N,Not Specified
+331,Disney World,4/10/2014,Toy Story Midway Mania!,Hollywood Studios,54,F,"nausea & dizziness,  lost consciousness & subsequently passed away",N,Y,Not Specified
+332,Disney World,4/13/2014,Pirates of the Caribbean,Magic Kingdom,12,M,lacerated 4 fingers,N,N,Not Specified
+333,Disney World,4/14/2014,The Seas with Nemo & Friends,Epcot,62,F,fell on mobbing walkway and injured knee,N,N,Not Specified
+334,Universal,4/20/2014,E.T Adventure,Universal Studios,61,M,weakness,N,N,Not Specified
+335,Universal,5/4/2014,Harry Potter and the Forbidden Journey,Islands of Adventure,43,F,head and neck pain,N,N,Not Specified
+336,Disney World,5/8/2014,Space Mountain,Magic Kingdom,53,M,who had not been feeling well felt sick after exiting.,N,N,After Exiting Attraction
+337,Disney World,5/12/2014,Kali River Rapids,Animal Kingdom,26,M,pre-existing-condition had seizure,Y,N,Not Specified
+338,Universal,5/16/2014,Revenge of the Mummy,Universal Studios,15,M,lowered level consciousness,N,N,Not Specified
+339,Disney World,5/21/2014,Kilimanjaro Safaris Expedition,Animal Kingdom,68,F,pre-existing-condition felt tightness in chest,Y,N,Not Specified
+340,Disney World,5/27/2014,Big Thunder Mountain Railroad,Magic Kingdom,72,F,"pre-existing-condition exited ride with chest pain and felt dizzy, briefly lost consciousness and fell",Y,N,During or Immediately After Riding
+341,Universal,5/29/2014,Revenge of the Mummy,Universal Studios,18,M,chest pain,N,N,Not Specified
+342,Disney World,6/1/2014,Peter Pan's Flight,Magic Kingdom,63,F,pre-existing-condition felt chest pain after riding,Y,N,During or Immediately After Riding
+343,Disney World,6/1/2014,Expedition Everest,Animal Kingdom,54,M," nausea and dizziness,  briefly lost consciousness after ride",N,N,During or Immediately After Riding
+344,Universal,6/8/2014,Hollywood Rip Ride Rocket,Universal Studios,33,M,motion sickness,N,N,During or Immediately After Riding
+345,Disney World,6/21/2014,Expedition Everest,Animal Kingdom,51,F," nausea, dizziness and shortness of breath",N,N,Not Specified
+346,Disney World,6/23/2014,Mayday Falls,Typhoon Lagoon,44,M,fractured leg,N,N,Not Specified
+347,Disney World,6/24/2014,Mission: Space,Epcot,54,F,motion sickness,N,N,During or Immediately After Riding
+348,Disney World,6/28/2014,The Magic Carpets of Aladdin,Magic Kingdom,8,F,loss of consciousness during ride; regained consciousness and was trasnported,N,N,During or Immediately After Riding
+349,Disney World,7/18/2014,Mayday Falls,Typhoon Lagoon,42,F,fractured ankle,N,N,Not Specified
+350,Disney World,7/21/2014,Big Thunder Mountain Railroad,Magic Kingdom,71,F,chest pain,N,N,Not Specified
+351,Disney World,7/24/2014,Primeval Whirl,Animal Kingdom,46,F,temporarily lost consciousness after exiting attraction.,N,N,After Exiting Attraction
+352,Disney World,7/29/2014,Space Mountain,Magic Kingdom,62,F," chest pain, nausea and vomiting",N,N,Not Specified
+353,Disney World,8/5/2014,Mission: Space,Epcot,70,F,chest pain,N,N,Not Specified
+354,Disney World,8/8/2014,Star Tours: The Adventure Continues,Hollywood Studios,45,M,chest pain; did not have medication with him.,N,N,Not Specified
+355,Disney World,8/17/2014,The Seas with Nemo & Friends,Epcot,63,M,fell and struck face while assisting family member from vehicle; facial fractures.,N,N,While Unloading
+356,Disney World,8/18/2014,Great Movie Ride,Hollywood Studios,71,M,chest pain and loss of consciousness.,N,N,Not Specified
+357,Disney World,8/19/2014,The Twilight Zone Tower of Terror,Hollywood Studios,40,F,pre-existing-condition experienced chest pain.,Y,N,Not Specified
+358,Universal,9/9/2014,The Simpsons Ride,Universal Studios,59,M,headache,N,N,Not Specified
+359,Disney World,10/5/2014,Astro Orbiter,Magic Kingdom,68,M," fell exiting vehicle, developed blood clot in leg",N,N,While Unloading
+360,Disney World,10/7/2014,Pirates of the Caribbean,Magic Kingdom,57,M,lacerated tips of 2 fingers,N,N,Not Specified
+361,Disney World,10/12/2014,Soarin' Around the World,Epcot,74,F," tripped over guests bag, fractured leg",N,N,Not Specified
+362,Universal,10/16/2014,Hollywood Rip Ride Rocket,Universal Studios,36,F,neck pain,N,N,Not Specified
+363,Universal,10/17/2014,Dudley Do Rights Ripsaw Falls,Islands of Adventure,49,F,seizure (pre-existing-condition),Y,N,Not Specified
+364,Disney World,11/10/2014,Buzz Lightyears Space Ranger Spin,Magic Kingdom,34,F,history of diabetic seizures experienced seizure,N,N,Not Specified
+365,Disney World,11/13/2014,Prince Charming Regal Carousel,Magic Kingdom,64,F," fell while stepping off carousel horse, fractured leg",N,N,While Unloading
+366,Universal,11/23/2014,The Amazing Adventures of Spiderman,Islands of Adventure,45,M,change in mental status,N,N,Not Specified
+367,Disney World,12/5/2014,Mission: Space,Epcot,58,M,pre-existing-condition felt tightness in chest and nausea,Y,N,Not Specified
+368,Disney World,12/18/2014,Seven Dwarfs Mine Train,Magic Kingdom,54,M,pre-existing-condition felt ill after exiting,Y,N,After Exiting Attraction
+369,Disney World,12/18/2014,Mad Tea Party,Magic Kingdom,49,M,tripped while exiting ride vehicle; fractured shoulder,N,N,While Unloading
+370,Universal,12/24/2014,Poseidon's Fury,Islands of Adventure,82,F,shoulder pain,N,N,Not Specified
+371,Disney World,12/25/2014,It's A Small World,Magic Kingdom,22,F,pre-existing health condition lost consciousness after riding; later passed away,Y,Y,During or Immediately After Riding
+372,Disney World,12/26/2014,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,51,F,dizziness & loss of memory after riding; later lost consciousness,N,N,During or Immediately After Riding
+373,Disney World,12/28/2014,Space Mountain,Magic Kingdom,72,M,felt nauseated & lethargic after exiting,N,N,After Exiting Attraction
+374,Disney World,1/9/2015,Jungle Cruise,Magic Kingdom,4,F,fractured finger,N,N,Not Specified
+375,Universal,1/17/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,69,M,chest discomfort,N,N,Not Specified
+376,Universal,1/18/2015,E.T Adventure,Universal Studios,44,F,back pain (pre-existing-condition),Y,N,Not Specified
+377,Disney World,1/20/2015,Great Movie Ride,Hollywood Studios,57,M,pre-existing-condition had brief loss of consciousness,Y,N,Not Specified
+378,Disney World,2/9/2015,Buzz Lightyears Space Ranger Spin,Magic Kingdom,67,M,pre-existing-condition felt dizziness and chest pains,Y,N,Not Specified
+379,Disney World,2/9/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,80,M,dizziness and chest pain after riding,N,N,During or Immediately After Riding
+380,Disney World,3/8/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,68,M,"fell while exiting, fractured shoulder",N,N,While Unloading
+381,Disney World,3/9/2015,Kilimanjaro Safaris Expedition,Animal Kingdom,1,M,developed rash before boarding; rash later worsened; temporarily passed out while on ride,N,N,While Boarding
+382,Universal,3/10/2015,Harry Potter and the Escape from Gringotts,Universal Studios,17,M," anxious, difficulty breathing",N,N,Not Specified
+383,Disney World,3/10/2015,Humunga Kowabunga,Typhoon Lagoon,27,F,laceration while riding,N,N,During or Immediately After Riding
+384,Universal,3/15/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,51,M,difficult moving extremities (pre-existing-condition),Y,N,Not Specified
+385,Disney World,3/16/2015,Star Tours: The Adventure Continues,Hollywood Studios,46,M,seizure after exiting ride,N,N,After Exiting Attraction
+386,Disney World,3/19/2015,Expedition Everest,Animal Kingdom,72,F,temporary memory loss after exiting ride,N,N,After Exiting Attraction
+387,Universal,3/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,76,F,altered mental status,N,N,Not Specified
+388,Universal,3/28/2015,Dragon Challenge,Islands of Adventure,41,M,back pain,N,N,Not Specified
+389,Universal,3/30/2015,Camp Jurassic,Islands of Adventure,5,F,arm injury,N,N,Not Specified
+390,Disney World,4/1/2015,Tomorrowland Transit Authority People Mover,Magic Kingdom,77,M,pre-existing-condition felt weakness & disorientation,Y,N,Not Specified
+391,Disney World,4/7/2015,Tomorrowland Speedway,Magic Kingdom,32,F,pre-existing health condition had seizure,Y,N,Not Specified
+392,Disney World,4/14/2015,Spaceship Earth,Epcot,79,M," pre-existing-condition felt nausea,  shortness of breath and pain in jaw after riding.",Y,N,During or Immediately After Riding
+393,Universal,4/16/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,70,F,motion sickness,N,N,During or Immediately After Riding
+394,Disney World,4/18/2015,Expedition Everest,Animal Kingdom,46,M,seizure after exiting.,N,N,After Exiting Attraction
+395,Universal,4/23/2015,Despicable Me Minion Mayhem,Universal Studios,54,F,head and neck pain,N,N,Not Specified
+396,Disney World,5/5/2015,Walt Disney World Railroad,Magic Kingdom,71,M,nausea and dizziness,N,N,Not Specified
+397,Disney World,5/15/2015,Mayday Falls,Typhoon Lagoon,41,F,fractured ankle,N,N,Not Specified
+398,Disney World,5/19/2015,Chair Lift,Blizzard Beach,65,F,"fell while exiting attraction, fractured hip",N,N,While Unloading
+399,Disney World,5/20/2015,Pirates of the Caribbean,Magic Kingdom,47,M,pre-existing-condition felt back pain while exiting the ride.,Y,N,While Unloading
+400,Universal,5/21/2015,Men In Black,Universal Studios,57,F,headache,N,N,Not Specified
+401,Disney World,6/5/2015,Star Tours: The Adventure Continues,Hollywood Studios,67,M,felt ill,N,N,Not Specified
+402,Disney World,6/6/2015,Test Track,Epcot,69,M,pre-existing-condition experienced chest pain.,Y,N,Not Specified
+403,Disney World,6/12/2015,Big Thunder Mountain Railroad,Magic Kingdom,75,M," complained of pain,  tremors and numbness in right arm after exiting",N,N,After Exiting Attraction
+404,Universal,6/14/2015,The Incredible Hulk Coaster,Islands of Adventure,59,M,chest discomfort,N,N,Not Specified
+405,Disney World,6/15/2015,Splash Mountain,Magic Kingdom,21,F,nausea and chest pains,N,N,Not Specified
+406,Universal,6/24/2015,Revenge of the Mummy,Universal Studios,59,M," chest, tightness/pressure/pain",N,N,Not Specified
+407,Disney World,6/24/2015,Kilimanjaro Safaris Expedition,Animal Kingdom,51,F," felt dizzy , mini stroke",N,N,Not Specified
+408,Disney World,7/4/2015,The Seas with Nemo & Friends,Epcot,81,M,pre-existing-condition felt ill after exiting ride.,Y,N,After Exiting Attraction
+409,Disney World,7/7/2015,Space Mountain,Magic Kingdom,55,F," pre-existing-conditions exited ride,  then lost consciousness; later passed away.",Y,Y,Not Specified
+410,Disney World,7/21/2015,Gran Fiesta Tour Attraction,Epcot,46,F,injured back,N,N,Not Specified
+411,Disney World,7/21/2015,Liberty Riverboat,Magic Kingdom,80,F,passed out and struck head,N,N,Not Specified
+412,Disney World,8/20/2015,Haunted Mansion,Magic Kingdom,68,F,became disoriented after exiting ride,N,N,After Exiting Attraction
+413,Universal,8/23/2015,Surf Pool,Typhoon Lagoon,45,M,chest pain (pre-existing-condition),Y,N,Not Specified
+414,Universal,8/26/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,43,F,motion sickness,N,N,During or Immediately After Riding
+415,Disney World,9/2/2015,Expedition Everest,Animal Kingdom,36,F," who felt ill at times earlier in the day, felt dizzy, shaky and numbness after attraction",N,N,During or Immediately After Riding
+416,Universal,9/12/2015,E.T Adventure,Universal Studios,21,F,motion sickness,N,N,During or Immediately After Riding
+417,Disney World,9/15/2015,Space Mountain,Magic Kingdom,7,F,thigh pain,N,N,During or Immediately After Riding
+418,Disney World,9/18/2015,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,55,M,pre-existing-condition felt ill and temporarily lost consciousness,Y,N,Not Specified
+419,Universal,9/30/2015,Dragon Challenge,Islands of Adventure,59,M,unconscious,N,N,Not Specified
+420,Disney World,10/1/2015,Tomorrowland Speedway,Magic Kingdom,64,M,injured ankle attempting to step out of the vehicle.,N,N,While Unloading
+421,Universal,10/6/2015,Transformers: The Ride 3D,Universal Studios,52,F,chest discomfort,N,N,Not Specified
+422,Universal,10/11/2015,Hollywood Rip Ride Rocket,Universal Studios,35,F,neck pain,N,N,Not Specified
+423,Universal,10/13/2015,Despicable Me Minion Mayhem,Universal Studios,66,F,dizziness,N,N,Not Specified
+424,Disney World,10/25/2015,Expedition Everest,Animal Kingdom,69,M,pre-existing-condition felt chest pain and dizziness after riding.,Y,N,During or Immediately After Riding
+425,Universal,11/3/2015,Revenge of the Mummy,Universal Studios,20,M,motion sickness (pre-existing-condition),Y,N,During or Immediately After Riding
+426,Disney World,11/21/2015,Seven Dwarfs Mine Train,Magic Kingdom,71,M,felt ill after riding attraction,N,N,During or Immediately After Riding
+427,Disney World,11/26/2015,Pirates of the Caribbean,Magic Kingdom,30,F,fell while boarding the ride,N,N,While Boarding
+428,Disney World,12/9/2015,Humunga Kowabunga,Typhoon Lagoon,10,M,fractured hip,N,N,Not Specified
+429,Disney World,12/20/2015,Pirates of the Caribbean,Magic Kingdom,43,F,pre-existing-condition had a seizure after exiting.,Y,N,After Exiting Attraction
+430,Disney World,12/23/2015,Dinosaur,Animal Kingdom,24,M,seizure after departing from attraction,N,N,Not Specified
+431,Universal,12/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,50,M,motion sickness,N,N,During or Immediately After Riding
+432,Universal,12/24/2015,Harry Potter and the Forbidden Journey,Islands of Adventure,55,M,motion sickness,N,N,During or Immediately After Riding
+433,Disney World,1/1/2016,Great Movie Ride,Hollywood Studios,80,M,history of motion sickness became temporarily unconscious during the attraction.,N,N,During or Immediately After Riding
+434,Universal,1/1/2016,Flight of the Hippogriff,Islands of Adventure,43,F,weakness (pre-existing-condition),Y,N,Not Specified
+435,Universal,1/9/2016,Hollywood Rip Ride Rocket,Universal Studios,49,M,back pain,N,N,Not Specified
+436,Universal,1/10/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,28,F,seizure (pre-existing-condition),Y,N,Not Specified
+437,Disney World,1/26/2016,Space Mountain,Magic Kingdom,17,F,temporarily lost consciousness and fell after riding attraction.,N,N,During or Immediately After Riding
+438,Universal,2/4/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,50,F,fainting,N,N,Not Specified
+439,Disney World,2/19/2016,Mission: Space,Epcot,57,M,pre-existing heart condition felt ill after riding attractions.,Y,N,During or Immediately After Riding
+440,Disney World,2/23/2016,Toy Story Midway Mania!,Hollywood Studios,19,F,pre-existing heart condition fainted while boarding attraction.,Y,N,While Boarding
+441,Disney World,3/13/2016,Great Movie Ride,Hollywood Studios,41,M,pre-existing-condition had numbness and felt dizzy.,Y,N,Not Specified
+442,Universal,4/3/2016,Hollywood Rip Ride Rocket,Universal Studios,57,F,motion sickness,N,N,During or Immediately After Riding
+443,Disney World,4/16/2016,Spaceship Earth,Epcot,69,F,fell while boarding; fractured leg,N,N,While Boarding
+444,Universal,4/25/2016,Dragon Challenge,Islands of Adventure,46,F,neck pain,N,N,Not Specified
+445,Disney World,4/26/2016,Space Mountain,Magic Kingdom,46,F," felt ill, dizzy and disoriented",N,N,Not Specified
+446,Disney World,5/16/2016,Haunted Mansion,Magic Kingdom,70,F,pre-existing-condition became dizzy.,Y,N,Not Specified
+447,Universal,5/23/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,59,M,motion sickness,N,N,During or Immediately After Riding
+448,Disney World,5/23/2016,The Twilight Zone Tower of Terror,Hollywood Studios,18,M,pre-existing history felt chest pain; numbness in arm,N,N,Not Specified
+449,Disney World,6/14/2016,Surf Pool,Typhoon Lagoon,65,F,injured knee,N,N,Not Specified
+450,Disney World,6/15/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,70,M,pre-existing-condition felt ill; neck discomfort,Y,N,Not Specified
+451,Universal,6/16/2016,Fievel's Playground,Universal Studios,3,M,arm pain,N,N,Not Specified
+452,Disney World,6/21/2016,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,26,M,reported back and leg pain and that he was lightheaded; later underwent heart surgery.,N,N,Not Specified
+453,Disney World,6/25/2016,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,50,M,felt ill; nausea,N,N,Not Specified
+454,Universal,6/25/2016,Men In Black,Universal Studios,46,M,seizure (pre-existing-condition),Y,N,Not Specified
+455,Disney World,7/3/2016,Ellen's Energy Adventure,Epcot,67,M," felt ill, dizzy and disoriented",N,N,Not Specified
+456,Disney World,7/4/2016,Walt Disney World Railroad,Magic Kingdom,41,M,felt ill and began shaking after exiting.,N,N,After Exiting Attraction
+457,Universal,7/31/2016,Dragon Challenge,Islands of Adventure,52,F,dizziness,N,N,Not Specified
+458,Disney World,8/12/2016,Mad Tea Party,Magic Kingdom,64,F,fell and fractured ankle,N,N,Not Specified
+459,Disney World,8/16/2016,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,53,F,seizure,N,N,Not Specified
+460,Disney World,8/20/2016,Space Mountain,Magic Kingdom,59,M,stomach and chest pain,N,N,Not Specified
+461,Disney World,9/18/2016,Star Tours: The Adventure Continues,Hollywood Studios,68,M,pre-existing heart condition felt ill after riding; later passed away,Y,Y,During or Immediately After Riding
+462,Universal,10/16/2016,Harry Potter and the Forbidden Journey,Islands of Adventure,43,M,motion sickness,N,N,During or Immediately After Riding
+463,Universal,10/20/2016,Harry Potter and the Escape from Gringotts,Universal Studios,44,F,seizure (pre-existing-condition),Y,N,Not Specified
+464,Disney World,10/27/2016,The Twilight Zone Tower of Terror,Hollywood Studios,40,M,felt disoriented,N,N,Not Specified
+465,Disney World,12/2/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,73,F,became disoriented during experience.,N,N,During or Immediately After Riding
+466,Disney World,12/6/2016,Tomorrowland Speedway,Magic Kingdom,67,M,pre-existing-condition felt ill after exiting ride.,Y,N,After Exiting Attraction
+467,Disney World,12/24/2016,Kilimanjaro Safaris Expedition,Animal Kingdom,67,M,pre-existing-condition felt numbness after riding,Y,N,During or Immediately After Riding
+468,Universal,1/3/2017,Caro-Seuss-el,Islands of Adventure,68,F,pelvis pain,N,N,Not Specified
+469,Disney World,1/16/2017,Soarin' Around the World,Epcot,89,F," pre-existing-condition felt chest pain, numbness",Y,N,Not Specified
+470,Disney World,1/17/2017,Soarin' Around the World,Epcot,46,M,"felt dizzy and ill, slurred speech",N,N,Not Specified
+471,Disney World,1/19/2017,Mission: Space,Epcot,69,F,pre-existing-condition felt ill and passed out momentarily,Y,N,Not Specified
+472,Disney World,1/24/2017,Prince Charming Regal Carousel,Magic Kingdom,72,F,fell and hit head,N,N,Not Specified
+473,Disney World,2/17/2017,Frozen Ever After,Epcot,74,F,fell boarding boat; fractured leg,N,N,While Boarding
+474,Disney World,3/11/2017,The Barnstormer,Magic Kingdom,55,M,complained of chest pain after riding attraction,N,N,During or Immediately After Riding
+475,Disney World,3/23/2017,Pirates of the Caribbean,Magic Kingdom,50,M,recovering from throat surgery became ill,N,N,Not Specified
+476,Disney World,3/26/2017,The Twilight Zone Tower of Terror,Hollywood Studios,61,M,felt ill,N,N,Not Specified
+477,Universal,3/28/2017,Revenge of the Mummy,Universal Studios,60,F,seizure,N,N,Not Specified
+478,Universal,4/8/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,68,M,fainting,N,N,Not Specified
+479,Disney World,4/11/2017,Avatar Flight of Passage,Animal Kingdom,56,F,pre-existing-condition temporarily passed out during ride,Y,N,During or Immediately After Riding
+480,Universal,4/16/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,81,F,motion sickness,N,N,During or Immediately After Riding
+481,Disney World,4/20/2017,Expedition Everest,Animal Kingdom,34,M,felt something in eye irritation,N,N,Not Specified
+482,Disney World,4/22/2017,Big Thunder Mountain Railroad,Magic Kingdom,59,F,pre-existing-condition felt ill,Y,N,Not Specified
+483,Disney World,4/26/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,70,M,shoulder and arm pain; dizziness,N,N,During or Immediately After Riding
+484,Universal,4/28/2017,Harry Potter and the Escape from Gringotts,Universal Studios,18,F,motion sickness,N,N,During or Immediately After Riding
+485,Universal,5/1/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,57,M,motion sickness,N,N,During or Immediately After Riding
+486,Disney World,5/14/2017,Seven Dwarfs Mine Train,Magic Kingdom,48,F,pre-existing-condition had a seizure,Y,N,Not Specified
+487,Universal,5/27/2017,Kala Serpentine Body Slide,Volcano Bay,45,M,back pain,N,N,Not Specified
+488,Disney World,6/2/2017,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,34,M,felt disoriented and fell after riding,N,N,During or Immediately After Riding
+489,Disney World,6/15/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,81,M,pre-existing-condition felt dizzy and faint,Y,N,During or Immediately After Riding
+490,Universal,6/20/2017,The Incredible Hulk Coaster,Islands of Adventure,47,F,syncope,N,N,Not Specified
+491,Disney World,6/24/2017,Avatar Flight of Passage,Animal Kingdom,31,F," felt dizzy, ill and brief loss of consciousness",N,N,Not Specified
+492,Universal,7/3/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,70,F,motion sickness,N,N,During or Immediately After Riding
+493,Disney World,7/8/2017,Expedition Everest,Animal Kingdom,58,M,pre-existing-condition had nausea and vomited after the ride,Y,N,During or Immediately After Riding
+494,Universal,7/24/2017,The Incredible Hulk Coaster,Islands of Adventure,36,F,chest pain,N,N,Not Specified
+495,Disney World,7/27/2017,Downhill Double Dipper,Blizzard Beach,45,F,fractured arm,N,N,Not Specified
+496,Disney World,8/4/2017,Castaway Creek,Blizzard Beach,57,F,pre-existing-condition experienced stroke-like symptoms,Y,N,Not Specified
+497,Disney World,8/10/2017,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,71,F,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding
+498,Universal,8/15/2017,Te'awa The Fearless River,Volcano Bay,53,F,cardiac arrest,N,N,Not Specified
+499,Disney World,8/18/2017,Jungle Cruise,Magic Kingdom,5,M,pre-existing-condition had a seizure,Y,N,Not Specified
+500,Disney World,9/2/2017,Big Thunder Mountain Railroad,Magic Kingdom,54,M,pre-existing-condition collapsed; later passed away at hospital,Y,Y,Not Specified
+501,Disney World,9/7/2017,Toy Story Midway Mania!,Hollywood Studios,70,M,pre-existing-condition felt ill,Y,N,Not Specified
+502,Disney World,9/15/2017,Mission: Space,Epcot,56,F,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding
+503,Disney World,9/26/2017,Teamboat Springs,Blizzard Beach,58,F,fell while boarding raft and fractured back,N,N,While Boarding
+504,Disney World,9/27/2017,Space Mountain,Magic Kingdom,48,F,"fell boarding ride vehicle,  temporary loss of consciousness, fractured leg",N,N,While Boarding
+505,Disney World,10/5/2017,Big Thunder Mountain Railroad,Magic Kingdom,44,F,stomach pain,N,N,Not Specified
+506,Disney World,10/6/2017,Buzz Lightyears Space Ranger Spin,Magic Kingdom,50,F,felt ill after riding,N,N,During or Immediately After Riding
+507,Disney World,10/6/2017,Kilimanjaro Safaris Expedition,Animal Kingdom,19,F,pre-existing-condition had a seizure,Y,N,Not Specified
+508,Universal,10/15/2017,Halloween Horror Nights,Universal Studios,42,M,chest pain,N,N,Not Specified
+509,Disney World,10/25/2017,Pirates of the Caribbean,Magic Kingdom,76,M,pre-existing-condition experienced headache and brief loss of consciousness,Y,N,Not Specified
+510,Disney World,10/27/2017,Avatar Flight of Passage,Animal Kingdom,77,F,fell while boarding ride,N,N,While Boarding
+511,Disney World,11/21/2017,Star Tours: The Adventure Continues,Hollywood Studios,67,F,felt ill and dizzy after riding attraction,N,N,During or Immediately After Riding
+512,Universal,11/22/2017,Caro-Seuss-el,Islands of Adventure,59,M,fainting/head injury,N,N,Not Specified
+513,Disney World,12/2/2017,Big Thunder Mountain Railroad,Magic Kingdom,69,M,pre-existing-condition complained of neck pain,Y,N,Not Specified
+514,Disney World,12/2/2017,Expedition Everest,Animal Kingdom,30,M,reported being struck on head; headache; dizziness,N,N,Not Specified
+515,Disney World,12/6/2017,Avatar Flight of Passage,Animal Kingdom,79,F,pre-existing-condition became ill after riding,Y,N,During or Immediately After Riding
+516,Disney World,12/9/2017,Space Mountain,Magic Kingdom,17,F,felt dizzy and disoriented,N,N,Not Specified
+517,Disney World,12/16/2017,Journey info Imagination with Figment,Epcot,65,F,tripped and fractured elbow,N,N,Not Specified
+518,Universal,12/27/2017,Harry Potter and the Forbidden Journey,Islands of Adventure,61,M,altered mental status,N,N,Not Specified
+519,Disney World,12/29/2017,Kilimanjaro Safaris Expedition,Animal Kingdom,70,F,pre-existing-condition experienced chest pain,Y,N,Not Specified
+520,Disney World,12/30/2017,Haunted Mansion,Magic Kingdom,66,M,pre-existing-condition experienced chest pain,Y,N,Not Specified
+521,Disney World,1/14/2018,The Seas with Nemo & Friends,Epcot,69,M,pre-existing heart condition had chest pain,Y,N,Not Specified
+522,Disney World,1/17/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,71,M,experienced chest pain after riding attraction,N,N,During or Immediately After Riding
+523,Disney World,3/5/2018,Mayday Falls,Typhoon Lagoon,25,M,fractured ankle going down slide,N,N,Not Specified
+524,Universal,3/9/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,39,F,motion sickness,N,N,During or Immediately After Riding
+525,Universal,3/17/2018,Despicable Me Minion Mayhem,Universal Studios,7,F,motion sickness,N,N,During or Immediately After Riding
+526,Disney World,3/24/2018,Avatar Flight of Passage,Animal Kingdom,41,M,pre-existing-condition felt ill after riding attraction,Y,N,During or Immediately After Riding
+527,Disney World,4/17/2018,Dinosaur,Animal Kingdom,46,F,felt dizzy after riding attraction,N,N,During or Immediately After Riding
+528,Disney World,4/18/2018,Mad Tea Party,Magic Kingdom,74,F,pre-existing illness felt ill after riding attraction,N,N,During or Immediately After Riding
+529,Universal,4/19/2018,Transformers: The Ride 3D,Universal Studios,49,M,weakness,N,N,Not Specified
+530,Disney World,4/25/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,27,F,went into labor after riding attraction,N,N,During or Immediately After Riding
+531,Universal,5/16/2018,Tai Nui Serpentine Body Slide,Volcano Bay,27,M,hip/pelvis pain,N,N,Not Specified
+532,Disney World,5/19/2018,Expedition Everest,Animal Kingdom,26,M,experienced a seizure after riding attraction,N,N,During or Immediately After Riding
+533,Disney World,5/23/2018,Mad Tea Party,Magic Kingdom,68,F,pre-existing-condition was dizzy after riding attraction,Y,N,During or Immediately After Riding
+534,Disney World,5/27/2018,Expedition Everest,Animal Kingdom,22,F,history of dislocating kneecap had reoccurrence,N,N,Not Specified
+535,Disney World,5/28/2018,Avatar Flight of Passage,Animal Kingdom,18,M,pre-existing-condition felt disoriented after riding attraction,Y,N,During or Immediately After Riding
+536,Universal,6/1/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,52,F,dizziness and weakness,N,N,Not Specified
+537,Disney World,6/5/2018,Star Tours: The Adventure Continues,Hollywood Studios,57,M,pre-existing-condition had chest pain and shortness of breath after riding attraction,Y,N,During or Immediately After Riding
+538,Disney World,6/8/2018,Space Mountain,Magic Kingdom,69,F,was disoriented and unable to exit vehicle without assistance,N,N,During or Immediately After Riding
+539,Universal,6/9/2018,Tai Nui Serpentine Body Slide,Volcano Bay,51,M,hip pain,N,N,Not Specified
+540,Disney World,6/16/2018,Splash Mountain,Magic Kingdom,15,M,experienced chest pain and shortness of breath before and after riding attraction,N,N,During or Immediately After Riding
+541,Disney World,6/17/2018,Dinosaur,Animal Kingdom,58,M,pre-existing-condition vomited after riding the attraction,Y,N,During or Immediately After Riding
+542,Disney World,6/20/2018,Space Mountain,Magic Kingdom,68,F,pre-existing-condition felt disoriented and had slurred speech,Y,N,Not Specified
+543,Disney World,7/6/2018,Kilimanjaro Safaris Expedition,Animal Kingdom,62,F,pre-existing-conditions suffered nausea and vomiting during ride,Y,N,During or Immediately After Riding
+544,Universal,8/5/2018,Jurassic Park River Adventure,Islands of Adventure,76,F,shoulder & wrist pain,N,N,Not Specified
+545,Disney World,8/12/2018,Miss Adventure Falls,Typhoon Lagoon,44,M,sustained fractures to arm and injuries to neck and back when arm became caught in conveyor belt during initial incline of ride,N,N,During or Immediately After Riding
+546,Disney World,9/16/2018,Space Mountain,Magic Kingdom,37,M,pre-existing-condition lost consciousness after exiting attraction,Y,N,After Exiting Attraction
+547,Disney World,9/16/2018,The Seas with Nemo & Friends,Epcot,79,F,felt ill prior to and after riding the attraction,N,N,During or Immediately After Riding
+548,Disney World,10/6/2018,Meltaway Bay,Blizzard Beach,70,M,pre-existing heart condition had a heart attack and passed away,Y,Y,Not Specified
+549,Disney World,10/6/2018,Mission: Space,Epcot,43,M,pre-existing medical issues experienced brief loss of consciousness,N,N,Not Specified
+550,Universal,10/10/2018,Harry Potter and the Forbidden Journey,Islands of Adventure,58,F,dizziness,N,N,Not Specified
+551,Universal,10/16/2018,Revenge of the Mummy,Universal Studios,41,F,dizziness,N,N,Not Specified
+552,Disney World,10/25/2018,Buzz Lightyears Space Ranger Spin,Magic Kingdom,72,F,fell while exiting the ride vehicle; injured hip,N,N,While Unloading
+553,Disney World,11/20/2018,Miss Adventure Falls,Typhoon Lagoon,18,M,fell out of raft into catch pool at the end of slide and struck his head,N,N,While Boarding
+554,Universal,11/21/2018,Hollywood Rip Ride Rocket,Universal Studios,34,F,head pain,N,N,Not Specified
+555,Disney World,11/27/2018,Seven Dwarfs Mine Train,Magic Kingdom,58,F,felt dizzy after having experienced the attraction,N,N,Not Specified
+556,Universal,12/11/2018,Ko'okiri Body Plunge,Volcano Bay,11,F,foot pain,N,N,Not Specified
+557,Universal,12/13/2018,Hollywood Rip Ride Rocket,Universal Studios,35,F,nausea,N,N,Not Specified
+558,Universal,12/26/2018,Fievel's Playground,Universal Studios,38,F,ankle pain,N,N,Not Specified
+559,Disney World,1/30/2019,Prince Charming Regal Carousel,Magic Kingdom,69,M,fell while exiting the attraction and fractured hip,N,N,While Unloading
+560,Universal,1/31/2019,E.T Adventure,Universal Studios,11,M,foot pain,N,N,Not Specified
+561,Disney World,2/2/2019,Slinky Dog Dash,Hollywood Studios,30,M,pre-existing-condition had seizure,Y,N,Not Specified
+562,Universal,2/15/2019,Jurassic Park River Adventure,Islands of Adventure,27,F,foot pain,N,N,Not Specified
+563,Disney World,2/17/2019,Dinosaur,Animal Kingdom,53,M,pre-existing-condition had chest pains and shortness of breath,Y,N,Not Specified
+564,Disney World,2/28/2019,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,64,M,had chest pains,N,N,Not Specified
+565,Disney World,3/4/2019,Star Tours: The Adventure Continues,Hollywood Studios,78,F,pre-existing-condition had chest pain after riding the attraction,Y,N,During or Immediately After Riding
+566,Disney World,3/6/2019,Expedition Everest,Animal Kingdom,70,M,became dizzy and nauseous after riding the attraction,N,N,During or Immediately After Riding
+567,Disney World,3/7/2019,Na'vi River Journey,Animal Kingdom,83,M,injured hip boarding the attraction,N,N,While Boarding
+568,Universal,3/11/2019,Harry Potter and the Forbidden Journey,Islands of Adventure,57,F,motion sickness,N,N,During or Immediately After Riding
+569,Disney World,3/18/2019,Buzz Lightyears Space Ranger Spin,Magic Kingdom,75,M,fell and fractured leg while boarding attraction vehicle,N,N,While Boarding
+570,Universal,3/24/2019,Kopiko Wai Winding River,Volcano Bay,10,M,fainting,N,N,Not Specified
+571,Universal,4/3/2019,Tai Nui Serpentine Body Slide,Volcano Bay,53,M,hip/pelvis pain,N,N,Not Specified
+572,Universal,4/20/2019,If I Ran the Zoo,Islands of Adventure,44,F,head pain,N,N,Not Specified
+573,Universal,4/24/2019,Fast & Furious - Supercharged,Universal Studios,76,F,fainting/chest pain (pre-existing-condition),Y,N,Not Specified
+574,Disney World,5/7/2019,Expedition Everest,Animal Kingdom,41,F,seizure after riding the attraction,N,N,During or Immediately After Riding
+575,Disney World,5/10/2019,Star Tours: The Adventure Continues,Hollywood Studios,39,F,pre-existing-condition felt dizzy and had trouble with equilibrium,Y,N,Not Specified
+576,Disney World,5/17/2019,Test Track,Epcot,64,M,pre-existing-condition became ill after riding attraction,Y,N,During or Immediately After Riding
+577,Universal,5/26/2019,Puihi Raft Ride,Volcano Bay,24,F,head pain,N,N,Not Specified
+578,Disney World,5/31/2019,Spaceship Earth,Epcot,72,F,passed out after exiting the attraction,N,N,After Exiting Attraction
+579,Universal,6/6/2019,Fast & Furious - Supercharged,Universal Studios,67,F,fainting,N,N,Not Specified
+580,Universal,6/8/2019,Revenge of the Mummy,Universal Studios,65,M,back pain,N,N,Not Specified
+581,Universal,6/14/2019,Kopiko Wai Winding River,Volcano Bay,64,F,knee pain,N,N,Not Specified
+582,Disney World,6/20/2019,The Seas with Nemo & Friends,Epcot,69,F,fell and fractured hip while boarding onto the attraction,N,N,While Boarding
+583,Disney World,7/5/2019,Avatar Flight of Passage,Animal Kingdom,34,F,temporarily lost consciousness during attraction,N,N,During or Immediately After Riding
+584,Disney World,7/21/2019,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,69,F,pre-existing medical condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding
+585,Disney World,7/23/2019,Tomorrowland Speedway,Magic Kingdom,75,M,fell boarding onto the attraction; multiple abrasions and contusions,N,N,While Boarding
+586,Disney World,8/6/2019,Space Mountain,Magic Kingdom,61,F,became ill after riding attraction,N,N,During or Immediately After Riding
+587,Disney World,8/10/2019,Star Tours: The Adventure Continues,Hollywood Studios,66,M,pre-existing-condition was ill after riding the attraction,Y,N,During or Immediately After Riding
+588,Disney World,8/19/2019,Star Tours: The Adventure Continues,Hollywood Studios,40,M,pre-existing medical condition had a seizure and fell after riding,Y,N,During or Immediately After Riding
+589,Disney World,9/2/2019,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,56,F,pre-existing-condition complained of being dizzy and light-headed after riding,Y,N,During or Immediately After Riding
+590,Disney World,9/7/2019,Mission: Space,Epcot,34,M,history of motion sickness became ill after riding,N,N,During or Immediately After Riding
+591,Disney World,9/22/2019,Castaway Creek,Blizzard Beach,44,F,experienced sudden memory loss,N,N,Not Specified
+592,Disney World,9/22/2019,Expedition Everest,Animal Kingdom,45,F,felt ill; migraine and vomiting,N,N,Not Specified
+593,Disney World,9/25/2019,Peter Pan's Flight,Magic Kingdom,4,M,pre-existing medical condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding
+594,Universal,10/3/2019,Te'awa The Fearless River,Volcano Bay,29,M,chest palpitations,N,N,Not Specified
+595,Disney World,10/12/2019,Space Mountain,Magic Kingdom,89,F,pre-existing medical condition experienced temporary loss of consciousness,Y,N,Not Specified
+596,Disney World,10/31/2019,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,46,F,severe head pain illness and vomiting after riding,N,N,During or Immediately After Riding
+597,Disney World,11/5/2019,Expedition Everest,Animal Kingdom,56,M,pre-existing-condition became ill after riding attraction,Y,N,During or Immediately After Riding
+598,Universal,11/7/2019,Punga Racers,Volcano Bay,47,M,numbness,N,N,Not Specified
+599,Universal,12/7/2019,Dr Doom's Fearfall,Islands of Adventure,62,F,motion sickness,N,N,During or Immediately After Riding
+600,Universal,12/13/2019,Despicable Me Minion Mayhem,Universal Studios,44,F,motion sickness,N,N,During or Immediately After Riding
+601,Universal,12/26/2019,Harry Potter and the Forbidden Journey,Universal Studios,78,M,knee injury,N,N,Not Specified
+602,Universal,2/16/2020,The Incredible Hulk Coaster,Islands of Adventure,48,M,motion sickness,N,N,During or Immediately After Riding
+603,Disney World,3/3/2020,Millennium Falcon: Smugglers Run,Hollywood Studios,9,F,pre-existing medical condition had a seizure after the ride,Y,N,During or Immediately After Riding
+604,Disney World,3/14/2020,Test Track,Epcot,34,F,pre-existing-condition experienced abdominal pain after riding the attraction,Y,N,During or Immediately After Riding
+605,Disney World,3/14/2020,Jungle Cruise,Magic Kingdom,74,F,fractured leg stepping into boat,N,N,While Boarding
+606,Universal,4/12/2020,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,25,F,seizure,N,N,Not Specified
+607,Universal,5/9/2020,Oh! No! Drop Slide,Volcano Bay,59,F,hip/pelvis pain,N,N,Not Specified
+608,Universal,6/14/2020,Tai Nui Serpentine Body Slide,Volcano Bay,9,M,unresponsive,N,N,Not Specified
+609,Disney World,7/26/2020,Mission: Space,Epcot,68,F,pre-existing-condition had a stroke after riding the green side of the attraction,Y,N,During or Immediately After Riding
+610,Disney World,10/28/2020,Mickey & Minnie's Runaway Railway,Hollywood Studios,86,F,tripped and fell exiting the ride vehicle injuring her head arm and leg,N,N,During or Immediately After Riding
+611,Disney World,11/21/2020,Space Mountain,Magic Kingdom,60,F,felt ill after riding the attraction,N,N,During or Immediately After Riding
+612,Universal,11/27/2020,The Incredible Hulk Coaster,Islands of Adventure,14,F,seizure,N,N,Not Specified
+613,Disney World,12/2/2020,The Twilight Zone Tower of Terror,Hollywood Studios,38,F,had abdominal pain after riding attraction,N,N,During or Immediately After Riding
+614,Disney World,12/3/2020,Toy Story Midway Mania!,Hollywood Studios,54,M,had a heart attack after having experienced the attraction,N,N,During or Immediately After Riding
+615,Universal,2/12/2021,Fast & Furious - Supercharged,Universal Studios,27,F,seizure,N,N,Not Specified
+616,Disney World,2/15/2021,Gran Fiesta Tour Attraction,Epcot,69,F,injured her ankle,N,N,Not Specified
+617,Universal,2/15/2021,The Incredible Hulk Coaster,Islands of Adventure,42,F,syncope,N,N,Not Specified
+618,Disney World,3/13/2021,Kilimanjaro Safaris Expedition,Animal Kingdom,72,F,became ill while riding the attraction,N,N,During or Immediately After Riding
+619,Universal,3/13/2021,E.T Adventure,Universal Studios,71,F,motion sickness,N,N,During or Immediately After Riding
+620,Disney World,5/30/2021,Spaceship Earth,Epcot,58,M,pre-existing-condition passed out after exiting the attraction; later passed away at hospital,Y,Y,After Exiting Attraction
+621,Disney World,6/10/2021,Toy Story Midway Mania!,Hollywood Studios,58,F,felt dizzy and fell exiting the attraction,N,N,While Unloading
+622,Disney World,6/19/2021,Teamboat Springs,Blizzard Beach,43,M,fractured ankle stepping into the tube,N,N,While Boarding
+623,Disney World,6/29/2021,Avatar Flight of Passage,Animal Kingdom,27,M,pre-existing-condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding
+624,Universal,7/7/2021,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,7,F,back pain,N,N,Not Specified
+625,Disney World,7/14/2021,Expedition Everest,Animal Kingdom,72,M,felt nauseous after riding the attraction,N,N,During or Immediately After Riding
+626,Universal,9/6/2021,Hagrid's Magical Creatures Motorbike Adventure,Islands of Adventure,59,F,headache,N,N,Not Specified
+627,Disney World,9/10/2021,Splash Mountain,Magic Kingdom,39,M,had a seizure after riding the attraction,N,N,During or Immediately After Riding
+628,Disney World,9/16/2021,Avatar Flight of Passage,Animal Kingdom,68,F,pre-existing-condition felt lightheaded after riding the attraction,Y,N,During or Immediately After Riding
+629,Disney World,9/22/2021,Journey info Imagination with Figment,Epcot,70,F,fell exiting the attraction striking her nose,N,N,While Unloading
+630,Disney World,10/13/2021,Kilimanjaro Safaris Expedition,Animal Kingdom,82,M,passed out during the attraction,N,N,During or Immediately After Riding
+631,Disney World,10/22/2021,The Many Adventures of Winnie the Pooh,Magic Kingdom,20,F,had a seizure after riding the attraction,N,N,During or Immediately After Riding
+632,Disney World,10/27/2021,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,18,M,passed out and fell after exiting the attraction,N,N,After Exiting Attraction
+633,Disney World,11/10/2021,Pirates of the Caribbean,Magic Kingdom,81,M,pre-existing-condition experienced stroke like symptoms after having been on the attraction,Y,N,During or Immediately After Riding
+634,Disney World,12/4/2021,Haunted Mansion,Magic Kingdom,66,F,fell and fractured wrist exiting the attraction,N,N,While Unloading
+635,Disney World,12/10/2021,Expedition Everest,Animal Kingdom,57,F,experienced cardiac symptoms after exiting the attraction,N,N,After Exiting Attraction
+636,Disney World,12/18/2021,Avatar Flight of Passage,Animal Kingdom,69,M,felt unwell after exiting attraction,N,N,After Exiting Attraction
+637,Disney World,12/21/2021,Avatar Flight of Passage,Animal Kingdom,69,F,felt disoriented after riding attraction,N,N,During or Immediately After Riding
+638,Universal,1/2/2022,Kang & Kodos Twirl n' Hurl,Universal Studios,21,F,abdominal pain (pre-existing-condition),Y,N,Not Specified
+639,Universal,1/13/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,66,M,motion sickness,N,N,During or Immediately After Riding
+640,Disney World,1/17/2022,Dinosaur,Animal Kingdom,65,M,pre-existing-condition felt dizzy after riding attraction,Y,N,During or Immediately After Riding
+641,Disney World,1/23/2022,Soarin' Around the World,Epcot,56,F,pre-existing-condition had chest pain after exiting the attraction,Y,N,After Exiting Attraction
+642,Disney World,1/27/2022,Avatar Flight of Passage,Animal Kingdom,25,F,pre-existing-condition had a seizure after riding the attraction,Y,N,During or Immediately After Riding
+643,Universal,2/4/2022,Storm Force Acceleration,Islands of Adventure,37,F,seizure,N,N,Not Specified
+644,Disney World,2/22/2022,Prince Charming Regal Carousel,Magic Kingdom,74,F,fell stepping down from attraction,N,N,While Unloading
+645,Disney World,2/27/2022,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,48,F,pre-existing-condition had a seizure on the attraction,Y,N,During or Immediately After Riding
+646,Disney World,3/14/2022,Soarin' Around the World,Epcot,82,F,had chest pain after riding the attraction,N,N,During or Immediately After Riding
+647,Universal,3/15/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,77,F,hip pain,N,N,Not Specified
+648,Disney World,3/24/2022,Remy' s Ratatouille Adventure,Epcot,55,M,pre-existing-condition experienced stroke like symptoms after exiting the attraction,Y,N,After Exiting Attraction
+649,Disney World,3/24/2022,Prince Charming Regal Carousel,Magic Kingdom,63,F,while dismounting a horse guest lost balance and fell,N,N,While Unloading
+650,Disney World,3/26/2022,Rock 'n' Roller Coaster Starring Aerosmith,Hollywood Studios,43,F,passed out after riding the attraction,N,N,During or Immediately After Riding
+651,Disney World,3/30/2022,Star Wars: Rise of the Resistance,Hollywood Studios,47,F,experienced a cardiac event within the attraction in a holding area prior to boarding a ride vehicle,N,N,While Boarding
+652,Disney World,4/4/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,57,F,had trouble breathing and numbness to her face after riding the attraction,N,N,During or Immediately After Riding
+653,Universal,4/5/2022,The Simpsons Ride,Universal Studios,25,F,knee pain,N,N,Not Specified
+654,Disney World,4/13/2022,Mickey & Minnie's Runaway Railway,Hollywood Studios,47,F,had seizure after riding the attraction,N,N,During or Immediately After Riding
+655,Disney World,4/19/2022,Avatar Flight of Passage,Animal Kingdom,42,F,pre-existing-condition had motion sickness after riding the attraction,Y,N,During or Immediately After Riding
+656,Disney World,4/21/2022,Jungle Cruise,Magic Kingdom,35,M,pre-existing-condition had chest pain after riding the attraction,Y,N,During or Immediately After Riding
+657,Disney World,5/4/2022,Millennium Falcon: Smugglers Run,Hollywood Studios,23,M,had seizure during the attraction,N,N,During or Immediately After Riding
+658,Disney World,5/13/2022,Star Tours: The Adventure Continues,Hollywood Studios,70,M,pre-existing-condition felt faint after riding the attraction,Y,N,During or Immediately After Riding
+659,Disney World,5/17/2022,Pirates of the Caribbean,Magic Kingdom,70,M,experienced abdominal and back pain during the attraction,N,N,During or Immediately After Riding
+660,Disney World,5/29/2022,Living with the Land,Epcot,66,F,pre-existing-condition had a cardiac event while exiting the attraction,Y,N,While Unloading
+661,Disney World,6/9/2022,Alien Swirling Saucers,Hollywood Studios,59,F,pre-existing-condition sustained injury to toes,Y,N,Not Specified
+662,Universal,6/14/2022,Caro-Seuss-el,Islands of Adventure,33,F,head pain,N,N,Not Specified
+663,Universal,6/16/2022,Te'awa The Fearless River,Volcano Bay,30,F,lost consciousness (pre-existing-condition),Y,N,Not Specified
+664,Disney World,6/18/2022,Wildlife Express,Animal Kingdom,42,M,felt ill after riding the attraction,N,N,During or Immediately After Riding
+665,Disney World,6/24/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,70,F,felt dizzy and weak after riding the attraction,N,N,During or Immediately After Riding
+666,Disney World,6/27/2022,Kilimanjaro Safaris Expedition,Animal Kingdom,44,M,lost consciousness during the attraction,N,N,During or Immediately After Riding
+667,Disney World,7/5/2022,Under the Sea - Journey of the Little Mermaid,Magic Kingdom,61,F,pre-existing-condition experienced stroke like symptoms after riding the attraction,Y,N,During or Immediately After Riding
+668,Disney World,7/5/2022,Avatar Flight of Passage,Animal Kingdom,67,F,pre-existing lost consciousness after exiting the attraction,N,N,After Exiting Attraction
+669,Universal,7/17/2022,Kopiko Wai Winding River,Volcano Bay,51,M,chest pain,N,N,Not Specified
+670,Universal,7/18/2022,Poseidon's Fury,Islands of Adventure,50,M,nausea,N,N,Not Specified
+671,Universal,7/24/2022,Jurassic World VelociCoaster,Islands of Adventure,38,F,neck pain,N,N,Not Specified
+672,Universal,7/26/2022,Harry Potter and the Escape from Gringotts,Universal Studios,36,M,abdominal pain,N,N,Not Specified
+673,Disney World,8/3/2022,Soarin' Around the World,Epcot,73,F,experienced stroke like symptoms during the attraction,N,N,During or Immediately After Riding
+674,Disney World,8/7/2022,Avatar Flight of Passage,Animal Kingdom,83,M,pre-existing-condition was briefly unresponsive during attraction,Y,N,During or Immediately After Riding
+675,Universal,8/31/2022,Hollywood Rip Ride Rocket,Universal Studios,67,F,headache,N,N,Not Specified
+676,Disney World,9/2/2022,Tomorrowland Transit Authority People Mover,Magic Kingdom,72,F,loss consciousness during the attraction,N,N,During or Immediately After Riding
+677,Universal,9/9/2022,Harry Potter and the Forbidden Journey,Islands of Adventure,28,M,syncope,N,N,Not Specified
+678,Disney World,9/23/2022,Tomorrowland Speedway,Magic Kingdom,27,F,went into labor after exiting the attraction,N,N,After Exiting Attraction
+679,Disney World,9/25/2022,Tomorrowland Transit Authority People Mover,Magic Kingdom,83,M,pre-existing-condition experienced cardiac event,Y,N,Not Specified
+680,Disney World,9/25/2022,Slinky Dog Dash,Hollywood Studios,46,M,had a seizure after riding the attraction,N,N,During or Immediately After Riding
+681,Universal,10/5/2022,Runamukka Reef,Volcano Bay,78,F,elbow pain,N,N,During or Immediately After Riding
+682,Disney World,12/7/2022,Mission: Space,Epcot,47,M,pre-existing-condition lost consciousness after riding the green side of the attraction,Y,N,During or Immediately After Riding
