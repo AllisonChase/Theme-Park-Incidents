@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaflet Map with D3.js</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+    <div id="map" style="height: 600px;"></div>
+    <script>
+        // Xpert Learning Assistant and ChatGPT 4o were used in drafting this code.
+        
+        // Initialize the Leaflet map
+        var map = L.map('map').setView([28.403355, -81.527306], 12);
+
+        // Add a tile layer to the map
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+        }).addTo(map);
+
+        // Load CSV data using D3.js
+        d3.csv("Resources/Combined_Table.csv").then(function(data) {
+            console.log("Data loaded successfully:", data);
+
+            // Aggregate incidents by ride name
+            var rideData = {};
+            data.forEach(function(d) {
+                var latitude = parseFloat(d.Lat);
+                var longitude = parseFloat(d.Long);
+                var rideName = d.Ride_Name;
+                var incidents = +d.Incidents || 1; 
+
+                if (!rideData[rideName]) {
+                    rideData[rideName] = {
+                        Lat: latitude,
+                        Long: longitude,
+                        Ride_Name: rideName,
+                        Total_Incidents: 0
+                    };
+                }
+
+                rideData[rideName].Total_Incidents += incidents;
+            });
+
+            // Add circular markers to the map
+            Object.values(rideData).forEach(function(d) {
+                var marker = L.circleMarker([d.Lat, d.Long], {
+                    radius: 10, // Adjust the radius of the circle marker to a smaller value
+                    color: getColor(d.Total_Incidents), // Set the color of the circle marker
+                    fillOpacity: 0.8 // Set the fill opacity of the circle marker
+                }).addTo(map)
+                    .bindPopup(`<b>Ride Name:</b> ${d.Ride_Name}<br><b>Total Incidents:</b> ${d.Total_Incidents}`);
+
+                // Add click event to zoom in on the marker
+                marker.on('click', function() {
+                    map.setView([d.Lat, d.Long], 17); 
+                });
+            });
+        }).catch(function(error) {
+            console.error("Error loading the CSV data: ", error);
+        });
+        function getColor(Total_Incidents) {
+            return Total_Incidents > 40 ? 'darkred' :
+                   Total_Incidents > 32 ? 'orangered' :
+                   Total_Incidents > 24 ? 'orange' :
+                   Total_Incidents > 16 ? 'yellow':
+                   Total_Incidents > 8 ? 'lawngreen':
+                   'green';
+        }
+  
+    </script>
+</body>
+</html>

@@ -1,4 +1,4 @@
-﻿Incident_ID,Company,Incident_date,Ride_Name,Theme_Park,Age,Gender,Description,Pre-Existing-Condition,Passed Away,Before_During_After
+﻿Incident_ID,Company,Incident_Date,Ride_Name,Theme_Park,Age,Gender,Description,Pre_Existing_Condition,Passed_Away,Before_During_After
 1,Universal,12/29/2001,Caro-Seuss-el,Islands of Adventure,52,F,broken arm,N,N,Not Specified
 2,Disney World,1/4/2002,The Twilight Zone Tower of Terror,Hollywood Studios,47,F," anxiety & claustrophobia, atrial fibrilation",N,N,Not Specified
 3,Universal,2/10/2002,Dudley Do Rights Ripsaw Falls,Islands of Adventure,55,F,complained of lower back pain.,N,N,Not Specified
@@ -64,7 +64,7 @@
 63,Disney World,1/8/2006,Space Mountain,Magic Kingdom,6,M,"Terminally ill guest rode ride, later passed away at hospital",N,Y,Not Specified
 64,Disney World,1/11/2006,Buzz Lightyears Space Ranger Spin,Magic Kingdom,56,M,Seizure.,N,N,Not Specified
 65,Disney World,2/14/2006,Peter Pan's Flight,Magic Kingdom,70,M,tripped and fell into the ride path as he attempted to board the attraction.,N,N,While Boarding
-66,Disney World,2/22/2006,Dumbo,Magic Kingdom,40Ã¢ÂÂs,M,Came off ride not feeling well.,N,N,During or Immediately After Riding
+66,Disney World,2/22/2006,Dumbo,Magic Kingdom,40,M,Came off ride not feeling well.,N,N,During or Immediately After Riding
 67,Disney World,2/22/2006,Space Mountain,Magic Kingdom,56,F,Hip Pain.,N,N,Not Specified
 68,Disney World,3/3/2006,Surf Pool,Typhoon Lagoon,58,M,Loss of consciousness.,N,N,Not Specified
 69,Disney World,3/14/2006,Space Mountain,Magic Kingdom,61,M,Motion Sickness.,N,N,While Boarding
