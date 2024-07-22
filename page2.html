@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Or Is It?</title>
+    <style>
+        @keyframes flickering {
+            0% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            5% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            10% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(-15deg);
+            }
+            15% {
+                color: #ccc;
+                text-shadow: none;
+                transform: skewX(-15deg);
+            }
+            20% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            25% {
+                color: #ccc;
+                text-shadow: 2px 2px #912914;
+                transform: skewX(0);
+            }
+            30% {
+                color: #ccc;
+                text-shadow: 2px 2px #912914;
+                transform: skewX(0);
+            }
+            35% {
+                color: #ccc;
+                text-shadow: 2px 2px #912914;
+                transform: skewX(0);
+            }
+            37% {
+                color: #ccc;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            40% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            45% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            50% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            55% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            60% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            65% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            68% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            70% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            75% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(10deg);
+            }
+            80% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(10deg);
+            }
+            85% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(10deg);
+            }
+            90% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+            95% {
+                color: #912914;
+                text-shadow: 1px 1px #eee;
+                transform: skewX(0);
+            }
+            100% {
+                color: #912914;
+                text-shadow: none;
+                transform: skewX(0);
+            }
+        }
+
+        html, body {
+            background-image: url('scary park 3.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        .horror-text {
+            animation-duration: 1.5s;
+            animation-iteration-count: infinite;
+            animation-name: flickering;
+            animation-timing-function: step-start;
+            color: #912914;
+            font-family: 'Times New Roman', serif;
+            font-size: 144px; /* Adjusted font size */
+            padding: 10px; /* Padding to ensure text doesn't touch the edges */
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+            border-radius: 10px; /* Rounded corners */
+        }
+
+        .center {
+            left: 50%;
+            position: absolute;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 90%;
+            color: white; /* Ensures text is visible against the background */
+        }
+
+        .btn {
+            background-color: #000;
+            border: 0.5px solid crimson;
+            border-radius: 10px;
+            color: #fff;
+            padding: 8px;
+            box-shadow: 0 0 30px 0 crimson,
+                        0 0 30px 0 crimson,
+                        0 0 10px 0 crimson inset;
+            text-decoration: none; /* Ensures no underline on the link */
+            display: inline-block; /* Ensures button layout */
+        }
+
+        p {
+            font-size: 36px; /* Adjusted font size for the paragraph */
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1 class="horror-text">OR IS IT?</h1>
+        <p>There have been over 600 accidents in the last 15 years.</p>
+        <a href="main.html" class="btn">Click Here to Learn More</a>
+    </div>
+</body>
+</html>
