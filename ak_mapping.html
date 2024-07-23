@@ -44,7 +44,7 @@
 
         // Add a tile layer to the map
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 18,
+            maxZoom: 22,
         }).addTo(map);
 
         // Load CSV data using D3.js
@@ -82,7 +82,7 @@
 
                 // Add click event to zoom in on the marker
                 marker.on('click', function() {
-                    map.setView([d.Lat, d.Long], 17); 
+                    map.setView([d.Lat, d.Long], 19); 
                 });
             });
 
