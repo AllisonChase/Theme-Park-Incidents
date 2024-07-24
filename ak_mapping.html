@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Animal Kingdom - Leaflet Map with D3.js</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
-        html,
-        body,
-        #map {
+        html, body, #map {
             height: 100%;
             margin: 0;
             padding: 0;
@@ -30,11 +30,32 @@
             margin-right: 5px;
             vertical-align: middle;
         }
+        
+       
     </style>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="https://d3js.org/d3.v6.min.js"></script>
 </head>
 <body>
+    <nav>
+        <ul>
+            <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">Maps</a>
+                <div class="dropdown-content">
+                    <a href="ak_mapping.html">Animal Kingdom</a>
+                    <a href="bb_mapping.html">Blizzard Beach</a>
+                    <a href="epcot_mapping.html">Epcot</a>
+                    <a href="hs_mapping.html">Hollywood Studios</a>
+                    <a href="mk_mapping.html">Magic Kingdom</a>
+                    <a href="#">Link 6</a>
+                    <a href="#">Link 7</a>
+                    <a href="#">Link 8</a>
+                    <a href="#">Link 9</a>
+                    <a href="#">Link 10</a>
+                </div>
+            </li>
+        </ul>
+    </nav>
     <div id="map"></div>
     <div id="legend"></div>
 
