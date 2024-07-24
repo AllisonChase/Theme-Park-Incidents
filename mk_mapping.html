@@ -40,7 +40,7 @@
 
     <script>
         // Initialize the Leaflet map
-        var map = L.map('map').setView([28.41965333970585, -81.58119588412035], 17);
+        var map = L.map('map').setView([28.41935, -81.58119588412035], 17);
 
         // Add a tile layer to the map
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -73,8 +73,9 @@
 
             // Add circular markers to the map
             Object.values(rideData).forEach(function(d) {
+                var radius = calculateMarkerRadius(d.Total_Incidents);
                 var marker = L.circleMarker([d.Lat, d.Long], {
-                    radius: 10,
+                    radius: radius,
                     color: getColor(d.Total_Incidents),
                     fillOpacity: 0.8
                 }).addTo(map)
@@ -92,7 +93,10 @@
         }).catch(function(error) {
             console.error("Error loading the CSV data: ", error);
         });
-
+        function calculateMarkerRadius(totalIncidents) {
+            // Adjust the radius based on the square root of the total incidents
+            return Math.sqrt(totalIncidents) * 10; // Adjust the multiplier for desired scaling
+        }
         function getColor(Total_Incidents) {
             return Total_Incidents > 40 ? 'darkred' :
                    Total_Incidents > 32 ? 'orangered' :
