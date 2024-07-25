@@ -1,6 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Universal Orlando - Leaflet Map with D3.js</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
@@ -201,6 +203,11 @@
 
             legend.innerHTML += labels.join('');
         }
+
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+        
         // Close the dropdown menu if the user clicks outside of it
         window.onclick = function(event) {
             if (!event.target.matches('.dropbtn')) {
