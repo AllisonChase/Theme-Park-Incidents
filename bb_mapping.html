@@ -193,9 +193,19 @@
 
             // Add a Legend Header
             legend.innerHTML = '<h3>Incident Count</h3>';
+            
+            for (var i = 0; i < grades.length; i++) {
+                var color = getColor(grades[i] + 1);
+                labels.push(
+                    '<div><span class="legend-color" style="background:' + color + '"></span> ' +
+                    (grades[i] + 1) + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+')
+                );
+            }
+
+            legend.innerHTML += labels.join('');
         }
 
-            function myFunction() {
+        function myFunction() {
             document.getElementById("myDropdown").classList.toggle("show");
         }
 
