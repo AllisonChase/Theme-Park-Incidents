@@ -14,7 +14,6 @@ Group 5 Members:
 
 **Instructions on How to Use and Interact with the Project**
 
-Ellis-Branch3
 *Running the App*
 Install the VS Code add on Live Server.
 Right click (or control click) openpage.html and open the file with Live Server.
@@ -48,3 +47,16 @@ No data was scraped in completing this project.
 **References for the Data Source(s)**
 
 **References for Any Code Used that Is Not Your Own**
+
+HTML:
+basic HTML references: https://www.w3schools.com/html/default.asp
+buttons: https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/
+Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML)
+Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML)
+Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
+
+Additonal references: 
+https://www.freecodecamp.org/news/how-to-change-text-size-in-html/
+https://www.geeksforgeeks.org/css-font-border/
+https://www.w3schools.com/howto/howto_css_image_center.asp
+https://css-tricks.com/forums/topic/creating-space-between-text-and-images/
