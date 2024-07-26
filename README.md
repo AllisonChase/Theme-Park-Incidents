@@ -12,6 +12,18 @@ Group 5 Members:
 
 **An Overview of the Project and Its Purpose**
 
+**Instructions on How to Use and Interact with the Project**
+
+Ellis-Branch3
+*Running the App*
+Install the VS Code add on Live Server.
+Right click (or control click) openpage.html and open the file with Live Server.
+
+*Wordcloud Python Library*
+INSTALL WORDCLOUD:
+PIP: pip install wordcloud
+CONDA: conda install -c conda-forge wordcloud
+
 
 
 **Instructions on How to Use and Interact with the Project**
@@ -25,6 +37,7 @@ INSTALL WORDCLOUD:
 PIP: pip install wordcloud
 CONDA: conda install -c conda-forge wordcloud
 
+main
 If there are no wheels available for your version of python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of python and operating system being used.
 
 **At least one paragraph summarizing efforts for ethical considerations made in the project**
