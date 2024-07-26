@@ -56,7 +56,7 @@ Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CS
 Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
 
 Additonal references: 
-https://www.freecodecamp.org/news/how-to-change-text-size-in-html/
-https://www.geeksforgeeks.org/css-font-border/
-https://www.w3schools.com/howto/howto_css_image_center.asp
-https://css-tricks.com/forums/topic/creating-space-between-text-and-images/
+https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ <br>
+https://www.geeksforgeeks.org/css-font-border/ <br>
+https://www.w3schools.com/howto/howto_css_image_center.asp <br>
+https://css-tricks.com/forums/topic<br> creating-space-between-text-and-images/<br>
