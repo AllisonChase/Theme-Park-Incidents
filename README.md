@@ -12,6 +12,8 @@ Group 5 Members:
 
 **An Overview of the Project and Its Purpose**
 
+The purpose of this project was to explore a fun and exciting dataset we found on Kaggle. With all members of our team having personal experiences at these parks, even some incidents of our own, we felt this would provide an entertaining outlet for data visualization.
+
 **Instructions on How to Use and Interact with the Project**
 
 *Running the App* <br>
