@@ -49,14 +49,15 @@ No data was scraped in completing this project.
 **References for Any Code Used that Is Not Your Own**
 
 HTML:
-basic HTML references: https://www.w3schools.com/html/default.asp
-buttons: https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/
-Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML)
-Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML)
-Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
+basic HTML references: https://www.w3schools.com/html/default.asp <br>
+buttons: https://www.freecodecamp.org/news/ <br>
+html-button-type-how-to-add-buttons-to-your-website/ <br>
+Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML) <br>
+Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML) <br>
+Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp<br>
 
-Additonal references: 
+Additonal references: <br>
 https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ <br>
 https://www.geeksforgeeks.org/css-font-border/ <br>
 https://www.w3schools.com/howto/howto_css_image_center.asp <br>
-https://css-tricks.com/forums/topic<br> creating-space-between-text-and-images/<br>
+https://css-tricks.com/forums/topic/creating-space-between-text-and-images/
