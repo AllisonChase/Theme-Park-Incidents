@@ -36,7 +36,6 @@ INSTALL WORDCLOUD:
 PIP: pip install wordcloud
 CONDA: conda install -c conda-forge wordcloud
 
-main
 If there are no wheels available for your version of python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of python and operating system being used.
 
 **At least one paragraph summarizing efforts for ethical considerations made in the project**
@@ -48,13 +47,16 @@ No data was scraped in completing this project.
 
 **References for Any Code Used that Is Not Your Own**
 
-HTML:
+HTML: <br>
 basic HTML references: https://www.w3schools.com/html/default.asp <br>
 buttons: https://www.freecodecamp.org/news/ <br>
 html-button-type-how-to-add-buttons-to-your-website/ <br>
 Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML) <br>
 Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML) <br>
 Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp<br>
+
+Word Cloud: <br>
+WordCloud code derived from DataCamp’s article "Generating WordClouds in Python Tutorial" by Dyuong Vu:  https://www.datacamp.com/tutorial/wordcloud-python. <br>
 
 Additonal references: <br>
 https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ <br>
