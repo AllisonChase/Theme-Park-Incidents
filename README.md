@@ -12,38 +12,39 @@ Group 5 Members:
 
 **An Overview of the Project and Its Purpose**
 
+The purpose of this project was to explore a fun and exciting dataset we found on Kaggle. With all members of our team having personal experiences at these parks, even some incidents of our own, we felt this would provide an entertaining outlet for data visualization.
+
 **Instructions on How to Use and Interact with the Project**
 
-*Running the App*
-Install the VS Code add on Live Server.
+*Running the App* <br>
+Install the VS Code add on Live Server.<br>
 Right click (or control click) openpage.html and open the file with Live Server.
 
-*Wordcloud Python Library*
-INSTALL WORDCLOUD:
-PIP: pip install wordcloud
+*Wordcloud Python Library*<br>
+INSTALL WORDCLOUD:<br>
+PIP: pip install wordcloud<br>
 CONDA: conda install -c conda-forge wordcloud
 
-
-
 **Instructions on How to Use and Interact with the Project**
 
-*Running the App*
-Install the VS Code add on Live Server.
+*Running the App*<br>
+Install the VS Code add on Live Server.<br>
 Right click (or control click) openpage.html and open the file with Live Server.
 
-*Wordcloud Python Library*
-INSTALL WORDCLOUD:
-PIP: pip install wordcloud
+*Wordcloud Python Library*<br>
+INSTALL WORDCLOUD:<br>
+PIP: pip install wordcloud<br>
 CONDA: conda install -c conda-forge wordcloud
 
 If there are no wheels available for your version of python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of python and operating system being used.
 
 **At least one paragraph summarizing efforts for ethical considerations made in the project**
-Our [data set](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022?resource=download) was compiled by Aaron Jones using [publicly avaiable data shared by Florida's Department of Agriculture and Consumer Services](https://ccmedia.fdacs.gov/content/download/81386/file/exempt-facilities-report-102022.pdf). 
-Our data set does not include names, but some names could be inferred via publicly avaiable hews articles.
-No data was scraped in completing this project. 
+
+Our data set does not include names, but some names could be inferred via publicly avaiable hews articles. No data was scraped in completing this project. 
 
 **References for the Data Source(s)**
+
+Our [data set](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022?resource=download) was compiled by Aaron Jones using [publicly avaiable data shared by Florida's Department of Agriculture and Consumer Services](https://ccmedia.fdacs.gov/content/download/81386/file/exempt-facilities-report-102022.pdf). 
 
 **References for Any Code Used that Is Not Your Own**
 
@@ -53,10 +54,10 @@ buttons: https://www.freecodecamp.org/news/ <br>
 html-button-type-how-to-add-buttons-to-your-website/ <br>
 Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML) <br>
 Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML) <br>
-Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp<br>
+Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
 
 Word Cloud: <br>
-WordCloud code derived from DataCamp’s article "Generating WordClouds in Python Tutorial" by Dyuong Vu:  https://www.datacamp.com/tutorial/wordcloud-python. <br>
+WordCloud code derived from DataCamp’s article "Generating WordClouds in Python Tutorial" by Dyuong Vu:  https://www.datacamp.com/tutorial/wordcloud-python.
 
 Additonal references: <br>
 https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ <br>
