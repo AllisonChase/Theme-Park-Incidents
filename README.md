@@ -25,11 +25,11 @@ INSTALL WORDCLOUD:<br>
 PIP: pip install wordcloud<br>
 CONDA: conda install -c conda-forge wordcloud
 
-If there are no wheels available for your version of python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of python and operating system being used.
+If there are no wheels available for your version of Python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of Python and operating system being used.
 
 **At least one paragraph summarizing efforts for ethical considerations made in the project**
 
-Our data set does not include names, but some names could be inferred via publicly avaiable hews articles. No data was scraped in completing this project. 
+Our data set does not include names, but some names could be inferred via publicly avaiable news articles. The only indicators of events are the combinations of the date of incidents with the age and gender of the affected party. We did not make any of this data part of our presentation. No data was scraped in completing this project. 
 
 **References for the Data Source(s)**
 
