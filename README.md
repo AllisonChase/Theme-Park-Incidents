@@ -35,9 +35,12 @@ Our data set does not include names, but some names could be inferred via public
 
 Our [data set](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022?resource=download) was compiled by Aaron Jones using [publicly avaiable data shared by Florida's Department of Agriculture and Consumer Services](https://ccmedia.fdacs.gov/content/download/81386/file/exempt-facilities-report-102022.pdf). 
 
+**References for Any Code Used that Is Not Your Own**
+
 Xpert Learning Assistant and ChatGPT 4o were used in drafting the mapping HTML codes.
 
-**References for Any Code Used that Is Not Your Own**
+*Resource for Creating Legend* <br>
+https://gis.stackexchange.com/questions/193161/add-legend-to-leaflet-map
 
 HTML: <br>
 basic HTML references: https://www.w3schools.com/html/default.asp <br>
@@ -53,4 +56,15 @@ Additonal references: <br>
 https://www.freecodecamp.org/news/how-to-change-text-size-in-html/ <br>
 https://www.geeksforgeeks.org/css-font-border/ <br>
 https://www.w3schools.com/howto/howto_css_image_center.asp <br>
-https://css-tricks.com/forums/topic/creating-space-between-text-and-images/
+https://css-tricks.com/forums/topic/creating-space-between-text-and-images/ <br>
+https://insidethemagic.net/2023/10/harry-potter-ride-hospitalizes-guest-ad1/ <br>
+https://www.disneyfanatic.com/accident-occurs-at-disney-typhoon-lagoon-mjs1/ <br>
+https://insidethemagic.net/2024/02/disney-officially-shutting-park-down-after-months-of-issues-blizzard-beach-jnw1/ <br>
+https://www.orlandosentinel.com/2006/06/25/thrills-chills-on-mission-space-2/ <br>
+https://insidethemagic.net/2023/03/mission-space-causing-vomiting-fainting-spells-and-death-zg1/ <br>
+https://www.prattlawcorp.com/harry-potter-amusement-park-ride-lawsuit-settles/ <br>
+https://insidethemagic.net/2023/06/harry-potter-ride-evacuation-story-jc1/ <br>
+https://www.disneyfanatic.com/the-history-of-disney-space-mountain-accidents-js1/ <br>
+https://insidethemagic.net/2024/05/guest-suffers-brain-injury-on-space-mountain-attraction-fans-push-for-ride-to-closure-em1/ <br>
+https://www.nbcnews.com/id/wbna22316563 <br>
+https://www.disneydining.com/children-traumatized-expedition-everest-ride-breakdown-mjs1/
