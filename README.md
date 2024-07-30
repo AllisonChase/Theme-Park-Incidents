@@ -25,17 +25,6 @@ INSTALL WORDCLOUD:<br>
 PIP: pip install wordcloud<br>
 CONDA: conda install -c conda-forge wordcloud
 
-**Instructions on How to Use and Interact with the Project**
-
-*Running the App*<br>
-Install the VS Code add on Live Server.<br>
-Right click (or control click) openpage.html and open the file with Live Server.
-
-*Wordcloud Python Library*<br>
-INSTALL WORDCLOUD:<br>
-PIP: pip install wordcloud<br>
-CONDA: conda install -c conda-forge wordcloud
-
 If there are no wheels available for your version of python, installing the package requires having a C compiler set up. Before installing a compiler, report an issue describing the version of python and operating system being used.
 
 **At least one paragraph summarizing efforts for ethical considerations made in the project**
@@ -46,12 +35,13 @@ Our data set does not include names, but some names could be inferred via public
 
 Our [data set](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022?resource=download) was compiled by Aaron Jones using [publicly avaiable data shared by Florida's Department of Agriculture and Consumer Services](https://ccmedia.fdacs.gov/content/download/81386/file/exempt-facilities-report-102022.pdf). 
 
+Xpert Learning Assistant and ChatGPT 4o were used in drafting the mapping HTML codes.
+
 **References for Any Code Used that Is Not Your Own**
 
 HTML: <br>
 basic HTML references: https://www.w3schools.com/html/default.asp <br>
-buttons: https://www.freecodecamp.org/news/ <br>
-html-button-type-how-to-add-buttons-to-your-website/ <br>
+buttons: https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/ <br>
 Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML) <br>
 Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML) <br>
 Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
