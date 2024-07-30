@@ -45,8 +45,8 @@ https://gis.stackexchange.com/questions/193161/add-legend-to-leaflet-map
 HTML: <br>
 basic HTML references: https://www.w3schools.com/html/default.asp <br>
 buttons: https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/ <br>
-Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to translate the CSS code into HTML) <br>
-Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to translate the CSS code into HTML) <br>
+Horror Text :  https://codepen.io/ericornelissen/pen/zdRKZG  (used AI to debug new code when adding to the website code) <br>
+Rainbow Text: https://codepen.io/shshaw/pen/wZPGqN  (used AI to debug new code when adding to the website code) <br>
 Dropdown menu: https://www.w3schools.com/howto/howto_js_dropdown.asp
 
 Word Cloud: <br>
